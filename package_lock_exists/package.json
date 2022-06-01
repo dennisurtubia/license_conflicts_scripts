@@ -1,0 +1,17 @@
+{
+  "name": "npm_exists",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.22.0"
+  },
+  "dependencies": {
+    "lodash.chunk": "^4.2.0",
+    "playwright": "^1.22.0"
+  }
+}
