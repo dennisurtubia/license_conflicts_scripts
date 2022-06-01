@@ -1210,7 +1210,7 @@ projects=(
 
 for project in "${projects[@]}"
 do
-  IFS=/ read owner project_name <<< $project
+  IFS=/ read project_owner project_name <<< $project
 
   git clone --quiet "git@github.com:$project.git" --depth=1
   if [ $? -eq 0 ]; then
@@ -1235,6 +1235,6 @@ do
   elapsed_time=$(($execution_end-$execution_start))
 
   cd ..
-  echo "$project_name, $elapsed_time, $dependencies_count, $project_license, $conflitant_licenses, $license_conflict_error" >> result.csv
+  echo "$project_owner, $project_name, $elapsed_time, $dependencies_count, $project_license, $conflitant_licenses, $license_conflict_error" >> result.csv
   rm -rf $project_name
 done
