@@ -1,0 +1,3336 @@
+owner/name, package_lock_exists, yarn_lock_exists, package_json_name, package_json_license
+freeCodeCamp/freeCodeCamp, true, false, "@freecodecamp/freecodecamp","BSD-3-Clause"
+vuejs/vue, false, true, "vue","MIT"
+twbs/bootstrap, true, false, "bootstrap","MIT"
+facebook/react, false, true, ,
+airbnb/javascript, false, false, "airbnb-style","MIT"
+d3/d3, false, true, "d3","ISC"
+microsoft/vscode, false, true, "code-oss-dev","MIT"
+facebook/react-native, false, true, "react-native","MIT"
+facebook/create-react-app, true, false, ,
+nodejs/node, false, false, 
+axios/axios, true, false, "axios","MIT"
+FortAwesome/Font-Awesome, false, false, 
+angular/angular.js, false, true, "angular","MIT"
+mrdoob/three.js, true, false, "three","MIT"
+GoogleChrome/puppeteer, false, false, "puppeteer","Apache-2.0"
+microsoft/TypeScript, true, false, "typescript","Apache-2.0"
+trekhleb/javascript-algorithms, true, false, "javascript-algorithms-and-data-structures","MIT"
+jquery/jquery, false, false, "jquery","MIT"
+ant-design/ant-design, false, false, "antd","MIT"
+webpack/webpack, false, true, "webpack","MIT"
+angular/angular, false, true, "angular-srcs","MIT"
+reduxjs/redux, true, false, "redux","MIT"
+mui-org/material-ui, false, true, ,
+atom/atom, true, false, "atom","MIT"
+30-seconds/30-seconds-of-code, false, false, 
+hakimel/reveal.js, true, false, "reveal.js","MIT"
+socketio/socket.io, true, false, "socket.io","MIT"
+Semantic-Org/Semantic-UI, true, false, "semantic-ui","MIT"
+expressjs/express, false, false, "express","MIT"
+chartjs/Chart.js, true, false, "chart.js","MIT"
+h5bp/html5-boilerplate, true, false, "html5-boilerplate","MIT"
+typicode/json-server, true, false, "json-server","MIT"
+moment/moment, true, false, "moment","MIT"
+meteor/meteor, true, false, "meteor","MIT"
+lodash/lodash, true, false, "lodash","MIT"
+storybookjs/storybook, false, true, "@storybook/root",
+zeit/next.js, false, true, "nextjs-project",
+ionic-team/ionic, true, false, ,
+denoland/deno, false, false, 
+gatsbyjs/gatsby, false, true, ,
+ReactTraining/react-router, false, true, ,
+yarnpkg/yarn, false, true, "yarn","BSD-2-Clause"
+Dogfalo/materialize, true, false, "materialize-css","MIT"
+apache/incubator-echarts, true, false, "echarts","Apache-2.0"
+thedaviddias/Front-End-Checklist, false, false, 
+impress/impress.js, true, false, "impress.js","MIT"
+Kickball/awesome-selfhosted, false, false, 
+babel/babel, false, true, "babel",
+prettier/prettier, false, true, "prettier","MIT"
+parcel-bundler/parcel, false, true, "@parcel/monorepo","MIT"
+goldbergyoni/nodebestpractices, false, false, 
+juliangarnier/anime, false, false, "animejs","MIT"
+yangshun/tech-interview-handbook, false, true, 
+serverless/serverless, false, false, "serverless","MIT"
+gulpjs/gulp, false, false, "gulp","MIT"
+jaywcjlove/awesome-mac, false, false, "awesome-mac","CC-BY-SA-4.0"
+zeit/hyper, false, true, "hyper","MIT"
+TryGhost/Ghost, false, true, "ghost","MIT"
+grafana/grafana, false, true, "grafana","AGPL-3.0-only"
+gothinkster/realworld, true, false, "realworld","MIT"
+Unitech/pm2, false, false, "pm2","AGPL-3.0"
+adobe/brackets, false, false, "Brackets",
+leonardomso/33-js-concepts, false, false, "33-js-concepts","MIT"
+sahat/hackathon-starter, true, false, "hackathon-starter","MIT"
+immutable-js/immutable-js, true, false, "immutable","MIT"
+hexojs/hexo, false, false, "hexo","MIT"
+lord/slate, false, false, 
+mozilla/pdf.js, true, false, "pdf.js","Apache-2.0"
+alvarotrigo/fullPage.js, false, false, "fullpage.js","GPL-3.0"
+facebook/jest, false, true, "@jest/monorepo",
+koajs/koa, true, false, "koa","MIT"
+zenorocha/clipboard.js, true, false, "clipboard","MIT"
+pixijs/pixi.js, true, false, "pixi.js-monorepo",
+caolan/async, true, false, "async","MIT"
+videojs/video.js, true, false, "video.js","Apache-2.0"
+apache/incubator-superset, false, true, 
+tastejs/todomvc, true, false, "todomvc",
+Leaflet/Leaflet, true, false, "leaflet","BSD-2-Clause"
+photonstorm/phaser, true, false, "phaser","MIT"
+ryanmcdermott/clean-code-javascript, false, false, 
+styled-components/styled-components, false, true, "styled-components-project","MIT"
+jondot/awesome-react-native, false, true, ,
+jashkenas/underscore, true, false, "underscore","MIT"
+knsv/mermaid, false, true, "mermaid","MIT"
+nylas/nylas-mail, false, false, "nylas-mail-all","proprietary"
+kenwheeler/slick, false, false, "slick-carousel","MIT"
+algorithm-visualizer/algorithm-visualizer, true, false, "@algorithm-visualizer/algorithm-visualizer","MIT"
+select2/select2, false, false, "select2","MIT"
+Modernizr/Modernizr, true, false, "modernizr","MIT"
+DefinitelyTyped/DefinitelyTyped, false, false, "definitely-typed","MIT"
+RocketChat/Rocket.Chat, false, true, "rocket.chat","MIT"
+quilljs/quill, true, false, "quill","BSD-3-Clause"
+preactjs/preact, true, false, "preact","MIT"
+react-boilerplate/react-boilerplate, true, false, "react-boilerplate","MIT"
+request/request, false, false, "request","Apache-2.0"
+iamkun/dayjs, true, false, "dayjs","MIT"
+cdr/code-server, false, true, "code-server","MIT"
+sveltejs/svelte, true, false, "svelte","MIT"
+github/fetch, false, false, "whatwg-fetch","MIT"
+vuejs/vue-cli, false, true, ,
+angular/angular-cli, false, true, "@angular/devkit-repo","MIT"
+nuxt/nuxt.js, false, true, "nuxt",
+standard/standard, false, false, "standard","MIT"
+vuejs/vuex, false, true, "vuex","MIT"
+postcss/postcss, false, false, "postcss","MIT"
+vuetifyjs/vuetify, false, true, ,
+NervJS/taro, false, true, "taro","MIT"
+emberjs/ember.js, false, true, "ember-source","MIT"
+carbon-app/carbon, false, true, "carbon","MIT"
+yangshun/front-end-interview-handbook, false, false, 
+balderdashy/sails, false, false, "sails","MIT"
+ant-design/ant-design-pro, false, false, "ant-design-pro",
+transloadit/uppy, false, true, "@uppy-dev/build","MIT"
+nolimits4web/swiper, true, false, "swiper-src","MIT"
+jiahaog/nativefier, false, false, "nativefier","MIT"
+hammerjs/hammer.js, false, false, "hammerjs","MIT"
+markedjs/marked, true, false, "marked","MIT"
+ajaxorg/ace, false, false, "ace",
+mobxjs/mobx, false, true, "mobx-root",
+t4t5/sweetalert, true, false, "sweetalert","MIT"
+cheeriojs/cheerio, true, false, "cheerio","MIT"
+webtorrent/webtorrent, false, false, "webtorrent","MIT"
+elsewhencode/project-guidelines, false, false, 
+VincentGarreau/particles.js, false, false, "particles.js","MIT"
+sequelize/sequelize, false, true, "@sequelize/core","MIT"
+ReactiveX/rxjs, true, false, "rxjs","Apache-2.0"
+kriasoft/react-starter-kit, false, true, "app",
+sentsin/layui, false, false, "layui","MIT"
+Automattic/mongoose, false, false, "mongoose","MIT"
+bevacqua/dragula, false, true, "dragula","MIT"
+chinese-poetry/chinese-poetry, false, false, 
+date-fns/date-fns, false, true, "date-fns","MIT"
+dimsemenov/PhotoSwipe, true, false, "photoswipe","MIT"
+remy/nodemon, true, false, "nodemon","MIT"
+nestjs/nest, true, false, "@nestjs/core","MIT"
+tabler/tabler, true, false, "@tabler/core","MIT"
+redux-saga/redux-saga, false, true, ,"MIT"
+Tencent/wepy, true, false, "wepy","MIT"
+angular/components, false, true, "components-srcs","MIT"
+pugjs/pug, false, true, "pug-monorepo","MIT"
+nefe/You-Dont-Need-jQuery, false, false, "You-Dont-Need-jQuery","MIT"
+petkaantonov/bluebird, true, false, "bluebird","MIT"
+lerna/lerna, true, false, "lerna-monorepo","MIT"
+Meituan-Dianping/mpvue, false, true, "vue","MIT"
+codemirror/CodeMirror, false, false, "codemirror","MIT"
+mochajs/mocha, true, false, "mocha","MIT"
+ovity/octotree, true, false, "octotree","AGPL"
+niklasvh/html2canvas, true, false, "html2canvas","MIT"
+scrollreveal/scrollreveal, false, false, "scrollreveal","GPL-3.0"
+airbnb/lottie-web, false, false, "lottie-web","MIT"
+akveo/ngx-admin, true, false, "ngx-admin","MIT"
+reduxjs/react-redux, false, true, "react-redux","MIT"
+airbnb/enzyme, false, false, "enzyme","MIT"
+gorhill/uBlock, false, false, 
+GoogleChrome/lighthouse, false, true, "lighthouse","Apache-2.0"
+segmentio/nightmare, true, false, "nightmare","MIT"
+JedWatson/react-select, false, true, "@react-select/monorepo","MIT"
+SortableJS/Sortable, true, false, "sortablejs","MIT"
+NativeScript/NativeScript, false, false, "nativescript","MIT"
+paularmstrong/normalizr, false, true, "normalizr","MIT"
+postcss/autoprefixer, false, false, "autoprefixer","MIT"
+naptha/tesseract.js, true, false, "tesseract.js","Apache-2.0"
+jaredpalmer/formik, false, true, "formik-project",
+SheetJS/js-xlsx, false, false, "xlsx","Apache-2.0"
+MrRio/jsPDF, true, false, "jspdf","MIT"
+Popmotion/popmotion, false, true, "popmotion-packages",
+ramda/ramda, true, false, "ramda","MIT"
+react-native-training/react-native-elements, false, false, 
+jorgebucaran/hyperapp, false, false, "hyperapp","MIT"
+strapi/strapi, false, true, "strapi","SEE LICENSE IN LICENSE"
+avajs/ava, true, false, "ava","MIT"
+ruanyf/es6tutorial, false, false, 
+parse-community/parse-server, true, false, "parse-server","BSD-3-Clause"
+microsoft/monaco-editor, true, false, "monaco-editor","MIT"
+bvaughn/react-virtualized, false, true, "react-virtualized","MIT"
+LisaDziuba/Awesome-Design-Tools, true, false, "Awesome-Design-Tools","ISC"
+MostlyAdequate/mostly-adequate-guide, false, false, "mostly-adequate-guide","CC BY-SA"
+angular/material, true, false, "angular-material-source","MIT"
+facebook/draft-js, false, true, "draft-js","MIT"
+felixrieseberg/windows95, false, true, "windows95","MIT"
+rollup/rollup, true, false, "rollup","MIT"
+feathericons/feather, true, false, "feather-icons","MIT"
+react-navigation/react-navigation, false, true, ,"MIT"
+facebook/flux, false, true, "flux","BSD-3-Clause"
+jaredhanson/passport, true, false, "passport","MIT"
+react-bootstrap/react-bootstrap, false, true, "react-bootstrap","MIT"
+pedronauck/docz, false, true, ,"MIT"
+less/less.js, true, false, "@less/root","Apache-2.0"
+tj/commander.js, true, false, "commander","MIT"
+git-tips/tips, true, false, "tips","MIT"
+swagger-api/swagger-ui, true, false, "swagger-ui","Apache-2.0"
+atlassian/react-beautiful-dnd, false, true, "react-beautiful-dnd","Apache-2.0"
+twitter/typeahead.js, false, false, "typeahead.js",
+localForage/localForage, false, false, "localforage","Apache-2.0"
+bilibili/flv.js, true, false, "flv.js","Apache-2.0"
+viatsko/awesome-vscode, false, false, "awesome-vscode","CC0-1.0"
+azl397985856/leetcode, false, true, ,"CC BY-NC-ND 4.0"
+balena-io/etcher, true, false, "balena-etcher","Apache-2.0"
+typicode/husky, true, false, "husky","MIT"
+reduxjs/reselect, false, true, "reselect","MIT"
+bower/bower, false, true, "bower","MIT"
+hubotio/hubot, false, false, "hubot","MIT"
+ianstormtaylor/slate, false, true, "slate-packages",
+alsotang/node-lessons, false, false, 
+mojs/mojs, true, false, "@mojs/core","MIT"
+benweet/stackedit, true, false, "stackedit","Apache-2.0"
+JacksonTian/fks, false, false, "FKS","MIT"
+highlightjs/highlight.js, true, false, "highlight.js","BSD-3-Clause"
+wekan/wekan, true, false, "wekan","MIT"
+vuejs/vue-devtools, false, true, "vue-devtools","MIT"
+keystonejs/keystone, false, true, "@keystone-6/mono-repo","MIT"
+BoostIO/Boostnote, false, true, "boost","GPL-3.0"
+eslint/eslint, false, false, "eslint","MIT"
+nosir/cleave.js, true, true, "cleave.js","Apache-2.0"
+odoo/odoo, false, false, 
+kriskowal/q, false, false, "q","MIT"
+wycats/handlebars.js, true, false, "handlebars","MIT"
+goldfire/howler.js, false, false, "howler","MIT"
+sampotts/plyr, false, true, "plyr","MIT"
+typeorm/typeorm, true, false, "typeorm","MIT"
+palantir/blueprint, false, true, "blueprintjs-monorepo","Apache-2.0"
+necolas/react-native-web, false, true, "monorepo","MIT"
+framework7io/framework7, true, false, "framework7-source","MIT"
+graphql/graphql-js, true, false, "graphql","MIT"
+jasmine/jasmine, false, false, "jasmine-core","MIT"
+jhipster/generator-jhipster, true, false, "generator-jhipster","Apache-2.0"
+vuejs/vue-router, false, true, "vue-router","MIT"
+visionmedia/superagent, false, true, "superagent","MIT"
+mysqljs/mysql, false, false, "mysql","MIT"
+denysdovhan/wtfjs, true, false, "wtfjs","WTFPL 2.0"
+statsd/statsd, true, false, "statsd","MIT"
+zeit/pkg, false, true, "pkg","MIT"
+wagerfield/parallax, true, false, "parallax-js","MIT"
+react-spring/react-spring, false, true, "react-spring--root","MIT"
+chaozh/awesome-blockchain-cn, false, false, 
+angular-ui/ui-router, false, true, "@uirouter/angularjs","MIT"
+winstonjs/winston, true, false, "winston","MIT"
+infernojs/inferno, true, false, "inferno-build","MIT"
+validatorjs/validator.js, false, false, "validator","MIT"
+yabwe/medium-editor, false, false, "medium-editor","MIT"
+riot/riot, true, false, "riot","MIT"
+jamiebuilds/the-super-tiny-compiler, false, false, "the-super-tiny-compiler","CC-BY-4.0"
+jamiebuilds/react-loadable, false, true, "react-loadable","MIT"
+lovell/sharp, false, false, "sharp","Apache-2.0"
+dvajs/dva, false, true, ,
+vuejs/vuepress, false, true, ,
+nswbmw/N-blog, false, false, "myblog","MIT"
+airbnb/react-sketchapp, false, false, "react-sketchapp","MIT"
+alibaba/ice, false, true, "icejs-project","MIT"
+Advanced-Frontend/Daily-Interview-Question, false, false, 
+jeromeetienne/AR.js, true, false, "ar.js","MIT"
+fbsamples/f8app, false, true, "F82017",
+js-cookie/js-cookie, false, false, "js-cookie","MIT"
+eggjs/egg, false, false, "egg","MIT"
+pcottle/learnGitBranching, false, true, "LearnGitBranching","MIT"
+Shopify/draggable, false, true, "@shopify/draggable","MIT"
+FormidableLabs/webpack-dashboard, false, true, "webpack-dashboard","MIT"
+fabricjs/fabric.js, true, false, "fabric","MIT"
+janl/mustache.js, true, false, "mustache","MIT"
+facebook/relay, false, true, "relay","MIT"
+facebook/docusaurus, false, true, "root","MIT"
+poteto/hiring-without-whiteboards, true, true, "hiring-without-whiteboards","MIT"
+material-components/material-components-web, true, false, ,"MIT"
+reduxjs/redux-thunk, true, false, "redux-thunk","MIT"
+ampproject/amphtml, true, false, "amp-html","Apache-2.0"
+hapijs/joi, false, false, "joi","BSD-3-Clause"
+frappe/charts, true, false, "frappe-charts","MIT"
+agalwood/Motrix, false, true, "Motrix","MIT"
+chalk/chalk, false, false, "chalk","MIT"
+browserify/browserify, false, false, "browserify","MIT"
+strongloop/loopback, false, false, "loopback","MIT"
+adam-golab/react-developer-roadmap, false, false, 
+jsdom/jsdom, false, true, "jsdom","MIT"
+elastic/kibana, false, true, "kibana",
+svg/svgo, false, true, "svgo","MIT"
+electron-react-boilerplate/electron-react-boilerplate, true, false, ,"MIT"
+nuysoft/Mock, false, false, "mockjs",
+GeekyAnts/NativeBase, false, true, "native-base","MIT"
+FezVrasta/popper.js, true, false, "@floating-ui/monorepo","MIT"
+handsontable/handsontable, true, false, "handsontable","SEE LICENSE IN LICENSE.txt"
+grab/front-end-guide, false, true, "grab-front-end","MIT"
+immerjs/immer, false, true, "immer","MIT"
+requirejs/requirejs, false, false, "requirejs","MIT"
+pouchdb/pouchdb, false, false, "pouchdb-monorepo","Apache-2.0"
+adobe-webplatform/Snap.svg, false, false, "snapsvg","Apache-2.0"
+recharts/recharts, true, false, "recharts","MIT"
+nfarina/homebridge, true, false, "homebridge","Apache-2.0"
+websockets/ws, false, false, "ws","MIT"
+flatpickr/flatpickr, true, false, "flatpickr","MIT"
+sass/sass, true, false, "sass",
+maxwellito/vivus, true, false, "vivus","MIT"
+selectize/selectize.js, true, false, "@selectize/selectize","Apache-2.0"
+gruntjs/grunt, false, false, "grunt","MIT"
+notable/notable, false, false, 
+ccxt/ccxt, true, false, "ccxt","MIT"
+apollographql/apollo-client, true, false, "@apollo/client","MIT"
+vadimdemedes/ink, false, false, "ink","MIT"
+react-dnd/react-dnd, false, true, "react-dnd-parent","MIT"
+eligrey/FileSaver.js, true, false, "file-saver","MIT"
+aFarkas/lazysizes, true, false, "lazysizes","MIT"
+erikras/redux-form, true, false, "redux-form","MIT"
+linnovate/mean, false, true, "mean","MIT"
+NodeRedis/node_redis, true, false, "redis","MIT"
+uxsolutions/bootstrap-datepicker, false, true, "bootstrap-datepicker","Apache-2.0"
+gionkunz/chartist-js, true, false, "chartist","MIT OR WTFPL"
+oblador/react-native-vector-icons, false, true, "react-native-vector-icons","MIT"
+fastify/fastify, false, false, "fastify","MIT"
+quasarframework/quasar, false, false, 
+MithrilJS/mithril.js, true, false, "mithril","MIT"
+getify/Functional-Light-JS, false, false, 
+nodemailer/nodemailer, false, false, "nodemailer","MIT"
+thomaspark/bootswatch, true, false, "bootswatch","MIT"
+bannedbook/fanqiang, false, false, 
+hasura/graphql-engine, true, false, 
+janpaepke/ScrollMagic, true, false, "scrollmagic","(MIT OR GPL-3.0+)"
+dcloudio/uni-app, false, true, "uni-app","Apache-2.0"
+learn-anything/learn-anything, true, false, "learn-anything",
+hapijs/hapi, false, false, "@hapi/hapi","BSD-3-Clause"
+tensorflow/tfjs, false, true, ,
+feathersjs/feathers, true, false, "feathers","MIT"
+VerbalExpressions/JSVerbalExpressions, true, false, "verbal-expressions","MIT"
+Binaryify/NeteaseCloudMusicApi, true, false, "NeteaseCloudMusicApi","MIT"
+typicode/lowdb, true, false, "lowdb","MIT"
+processing/p5.js, true, false, "p5","LGPL-2.1"
+onivim/oni, false, true, "oni","MIT"
+ptmt/react-native-macos, false, true, "react-native-macos","MIT"
+marktext/marktext, false, true, "marktext","MIT"
+Automattic/wp-calypso, false, true, "wp-calypso","GPL-2.0-or-later"
+browsh-org/browsh, false, false, 
+jwagner/smartcrop.js, true, false, "smartcrop","MIT"
+aurelia/framework, true, false, "aurelia-framework","MIT"
+JedWatson/classnames, true, false, "classnames","MIT"
+pshihn/rough, true, false, "roughjs","MIT"
+RelaxedJS/ReLaXed, false, false, "relaxedjs","ISC"
+lllyasviel/style2paints, false, false, 
+phobal/ivideo, true, true, "ivideo","MIT"
+GitSquared/edex-ui, true, false, "edex-ui","GPL-3.0"
+reduxjs/redux-devtools, false, false, ,
+gaearon/react-hot-loader, false, true, "react-hot-loader","MIT"
+wulkano/kap, false, true, "kap","MIT"
+jaredreich/pell, true, false, "pell","MIT"
+pomber/git-history, false, true, "githistory-web",
+auth0/node-jsonwebtoken, false, false, "jsonwebtoken","MIT"
+docsifyjs/docsify, true, false, "docsify","MIT"
+YMFE/yapi, true, false, "yapi-vendor","Apache-2.0"
+tj/co, false, false, "co","MIT"
+KaTeX/KaTeX, false, true, "katex","MIT"
+SBoudrias/Inquirer.js, false, true, ,
+karma-runner/karma, true, false, "karma","MIT"
+BrowserSync/browser-sync, true, false, "browser-sync-mono",
+rwaldron/johnny-five, true, false, "johnny-five","MIT"
+paperjs/paper.js, false, true, "paper","MIT"
+infinitered/reactotron, false, true, "reactotron-app","MIT"
+Eugeny/terminus, false, true, ,
+Tencent/weui-wxss, true, false, "weui-wxss","MIT"
+docker/kitematic, true, false, "Kitematic","Apache-2.0"
+jquery/jquery-ui, false, false, "jquery-ui","MIT"
+plotly/plotly.js, true, false, "plotly.js","MIT"
+browserstate/history.js, false, false, "history.js",
+getinsomnia/insomnia, true, false, "insomnia","MIT"
+formatjs/react-intl, true, false, "formatjs-repo",
+http-party/node-http-proxy, true, false, "http-proxy","MIT"
+amark/gun, true, false, "gun","(Zlib OR MIT OR Apache-2.0)"
+SimulatedGREG/electron-vue, false, false, "electron-vue","MIT"
+NetEase/pomelo, false, false, "pomelo",
+apple/swift-evolution, false, false, 
+NodeBB/NodeBB, false, false, 
+ustbhuangyi/better-scroll, false, false, "better-scroll",
+DmitryBaranovskiy/raphael, false, true, "raphael","MIT"
+jgraph/drawio, false, false, 
+aframevr/aframe, false, false, "aframe","MIT"
+tgriesser/knex, false, false, "knex","MIT"
+PatrickJS/angular-starter, false, false, "angular-starter","MIT"
+louischatriot/nedb, false, false, "nedb","SEE LICENSE IN LICENSE"
+kamranahmedse/driver.js, false, true, "driver.js","MIT"
+infinitered/ignite, false, true, "ignite-cli","MIT"
+LeCoupa/awesome-cheatsheets, false, false, 
+jumpserver/jumpserver, false, false, 
+mishoo/UglifyJS2, false, false, "uglify-js","BSD-2-Clause"
+WickyNilliams/headroom.js, true, false, "headroom.js","MIT"
+youzan/vant-weapp, false, true, "@vant/weapp","MIT"
+akveo/blur-admin, false, false, "blur_admin",
+Semantic-Org/Semantic-UI-React, false, true, "semantic-ui-react","MIT"
+youzan/vant, false, false, ,
+thx/RAP, false, false, 
+shelljs/shelljs, false, false, "shelljs","BSD-3-Clause"
+BrainJS/brain.js, true, false, "brain.js","MIT"
+stylus/stylus, true, false, "stylus","MIT"
+appium/appium, false, false, "appium","Apache-2.0"
+MichMich/MagicMirror, true, false, "magicmirror","MIT"
+jquery/jquery-mobile, false, false, "jquery-mobile",
+BabylonJS/Babylon.js, true, false, "@babylonjs/root",
+zloirock/core-js, false, false, ,"MIT"
+bootstrap-vue/bootstrap-vue, false, true, "bootstrap-vue","MIT"
+zalmoxisus/redux-devtools-extension, false, true, "remotedev-redux-devtools-extension","MIT"
+systemjs/systemjs, false, false, "systemjs","MIT"
+airbnb/react-dates, false, false, "react-dates","MIT"
+vuejs/vue-hackernews-2.0, false, true, "vue-hackernews-2.0",
+motdotla/dotenv, true, false, "dotenv","BSD-2-Clause"
+CodeSeven/toastr, true, false, "toastr",
+Tencent/vConsole, true, false, "vconsole","MIT"
+jsdoc/jsdoc, true, false, "jsdoc","Apache-2.0"
+gnab/remark, false, false, "remark","MIT"
+ccampbell/mousetrap, true, false, "mousetrap","Apache-2.0 WITH LLVM-exception"
+sindresorhus/refined-github, true, false, ,
+you-dont-need/You-Dont-Need-Lodash-Underscore, false, true, "eslint-plugin-you-dont-need-lodash-underscore","MIT"
+knockout/knockout, true, false, "knockout","MIT"
+wenzhixin/bootstrap-table, false, true, "bootstrap-table","MIT"
+reactide/reactide, false, false, "reactide","ISC"
+Tencent/omi, false, false, ,
+nightwatchjs/nightwatch, true, false, "nightwatch","MIT"
+pubkey/rxdb, false, false, "rxdb","Apache-2.0"
+sweetalert2/sweetalert2, false, true, "sweetalert2","MIT"
+openstf/stf, false, true, "stf","Apache-2.0"
+jquery-validation/jquery-validation, false, false, "jquery-validation","MIT"
+pagekit/vue-resource, false, true, "vue-resource","MIT"
+EastWorld/wechat-app-mall, false, false, "wechat-app-mall","ISC"
+showdownjs/showdown, true, false, "showdown","MIT"
+howdyai/botkit, true, false, "botkit-packages",
+coryhouse/react-slingshot, true, false, "react-slingshot","MIT"
+Netflix/falcor, true, false, "falcor","Apache-2.0"
+GoogleChromeLabs/ndb, true, false, "ndb","Apache-2.0"
+restify/node-restify, false, false, "restify","MIT"
+cyclejs/cyclejs, false, false, ,"MIT"
+netlify/netlify-cms, false, true, ,
+mjmlio/mjml, false, true, "mjml-master",
+marmelab/react-admin, false, true, "react-admin-lerna",
+codex-team/editor.js, false, true, "@editorjs/editorjs","Apache-2.0"
+STRML/react-grid-layout, false, true, "react-grid-layout","MIT"
+kusti8/proton-native, true, false, "proton-native","MIT"
+syhyz1990/baiduyun, false, false, 
+nhn/tui.editor, true, false, "root",
+vuejs-templates/webpack, true, false, "vue-cli-template-webpack","MIT"
+sdelements/lets-chat, false, false, "lets-chat","MIT"
+microsoft/frontend-bootcamp, true, false, "bootcamp","ISC"
+marko-js/marko, true, false, "marko-project",
+reactioncommerce/reaction, true, false, "reaction-api","GPL-3.0"
+stephentian/33-js-concepts, false, false, ,
+gpujs/gpu.js, true, false, "gpu.js","MIT"
+dangrossman/daterangepicker, false, false, "daterangepicker","MIT"
+artf/grapesjs, false, true, "grapesjs","BSD-3-Clause"
+krisk/Fuse, false, true, "fuse.js","Apache-2.0"
+matthieua/WOW, false, false, "wowjs",
+graphql/graphiql, false, true, "graphiql-monorepo","MIT"
+liabru/matter-js, true, false, "matter-js","MIT"
+copy/v86, false, false, 
+highcharts/highcharts, true, false, "highcharts","SEE LICENSE IN <license.txt>"
+remoteintech/remote-jobs, true, false, ,
+qrohlf/trianglify, true, false, "trianglify","GPL-3.0"
+badges/shields, true, false, "shields.io","CC0-1.0"
+visionmedia/supertest, false, true, "supertest","MIT"
+josdejong/mathjs, true, false, "mathjs","Apache-2.0"
+guillaumepotier/Parsley.js, false, true, "parsleyjs","MIT"
+spencermountain/compromise, true, false, "compromise","MIT"
+Automattic/kue, false, false, "kue","MIT"
+SortableJS/Vue.Draggable, true, true, "vuedraggable","MIT"
+GoogleChromeLabs/carlo, false, false, "carlo","Apache-2.0"
+oliver-moran/jimp, false, true, "@jimp/monorepo",
+NaturalNode/natural, true, false, "natural","MIT"
+localtunnel/localtunnel, false, true, "localtunnel","MIT"
+emotion-js/emotion, false, true, "emotion-monorepo","MIT"
+summernote/summernote, false, true, "summernote","MIT"
+turbolinks/turbolinks, false, true, "turbolinks","MIT"
+rt2zz/redux-persist, true, false, "redux-persist","MIT"
+typicode/hotel, true, false, "hotel","MIT"
+webpack-contrib/webpack-bundle-analyzer, true, false, "webpack-bundle-analyzer","MIT"
+jacomyal/sigma.js, true, false, "sigma","MIT"
+zeit/micro, false, true, ,"MIT"
+http-party/http-server, true, false, "http-server","MIT"
+jupyterlab/jupyterlab, false, true, "@jupyterlab/repo-top",
+DIYgod/RSSHub, false, true, "rsshub","MIT"
+testing-library/react-testing-library, false, false, "@testing-library/react","MIT"
+hacksalot/HackMyResume, false, false, "hackmyresume","MIT"
+chjj/blessed, false, false, "blessed","MIT"
+mattboldt/typed.js, true, false, "typed.js","MIT"
+taye/interact.js, false, true, "@interactjs/_dev","MIT"
+uncss/uncss, true, false, "uncss","MIT"
+moment/luxon, true, false, "luxon","MIT"
+GoogleChromeLabs/squoosh, true, false, "squoosh","apache-2.0"
+Tonejs/Tone.js, true, false, "tone","MIT"
+senchalabs/connect, false, false, "connect","MIT"
+react-toolbox/react-toolbox, true, false, "react-toolbox","MIT"
+askmike/gekko, true, false, "gekko","MIT"
+teambit/bit, false, false, "@teambit/legacy","Apache-2.0"
+c3js/c3, false, true, "c3","MIT"
+ruanyf/webpack-demos, false, false, "webpack-demos","MIT"
+aui/art-template, true, false, "art-template","MIT"
+cnodejs/nodeclub, false, false, "nodeclub",
+FredrikNoren/ungit, true, false, "ungit","MIT"
+tensorflow/playground, true, false, "deep-playground-prototype",
+segmentio/evergreen, false, true, "evergreen-ui","MIT"
+aksonov/react-native-router-flux, false, true, "react-native-router-flux","MIT"
+snapappointments/bootstrap-select, true, false, "bootstrap-select","MIT"
+laurent22/joplin, false, true, "root",
+nock/nock, true, false, "nock","MIT"
+olistic/warriorjs, false, true, ,
+gabrielbull/react-desktop, false, false, "react-desktop","MIT"
+Valve/fingerprintjs2, false, true, "@fingerprintjs/fingerprintjs","MIT"
+angular/protractor, true, false, "protractor","MIT"
+node-red/node-red, false, false, "node-red","Apache-2.0"
+ethereum/web3.js, true, false, "web3.js","LGPL-3.0"
+wangfupeng1988/wangEditor, false, true, "@wangeditor-team/wangeditor",
+marmelab/gremlins.js, true, false, "gremlins.js","MIT"
+jshint/jshint, true, false, "jshint","MIT"
+mozilla/send, true, false, "firefox-send","MPL-2.0"
+HubSpot/tether, false, true, "tether","MIT"
+trufflesuite/truffle, false, true, ,
+haltu/muuri, true, false, "muuri","MIT"
+GoogleChrome/workbox, true, false, "workbox","MIT"
+reactstrap/reactstrap, false, true, "reactstrap","MIT"
+you-dont-need/You-Dont-Need-Momentjs, true, false, "eslint-plugin-you-dont-need-momentjs","MIT"
+mongodb/node-mongodb-native, true, false, "mongodb","Apache-2.0"
+eduardolundgren/tracking.js, false, false, "tracking","BSD"
+faressoft/terminalizer, true, false, "terminalizer","MIT"
+ether/etherpad-lite, false, false, 
+leecade/react-native-swiper, false, true, "react-native-swiper","MIT"
+desandro/imagesloaded, true, false, "imagesloaded","MIT"
+gotwarlost/istanbul, false, false, "istanbul","BSD-3-Clause"
+Netflix/pollyjs, false, true, ,"Apache-2.0"
+Nickersoft/push.js, false, true, "push.js","MIT"
+pandao/editor.md, false, false, "editor.md","MIT"
+luin/medis, true, false, "medis","MIT"
+ksky521/nodeppt, false, false, "nodeppt",
+uBlock-LLC/uBlock, false, false, 
+douglascrockford/JSON-js, false, false, 
+be5invis/Iosevka, true, false, "iosevka",
+antvis/g2, false, false, "@antv/g2","MIT"
+MarshallOfSound/Google-Play-Music-Desktop-Player-UNOFFICIAL-, false, true, "google-play-music-desktop-player","MIT"
+markdown-it/markdown-it, false, false, "markdown-it","MIT"
+addyosmani/critical, true, false, "critical","Apache-2.0"
+microsoft/ChakraCore, false, false, 
+visionmedia/debug, false, false, "debug","MIT"
+oldj/SwitchHosts, true, false, ,
+jantimon/html-webpack-plugin, false, false, "html-webpack-plugin","MIT"
+apollographql/apollo-server, true, false, "apollo-server-monorepo","MIT"
+desktop/desktop, false, true, ,"MIT"
+codesandbox/codesandbox-client, false, true, "codesandbox","GPL-3.0"
+FormidableLabs/spectacle, false, true, "spectacle","MIT"
+lokesh/color-thief, true, false, "colorthief","MIT"
+kelektiv/node-uuid, true, false, "uuid","MIT"
+microsoft/reactxp, true, false, "reactxp","MIT"
+FaridSafi/react-native-gifted-chat, false, true, "react-native-gifted-chat","MIT"
+jxnblk/mdx-deck, false, true, ,
+graphql/dataloader, false, true, "dataloader","MIT"
+keeweb/keeweb, true, false, "keeweb","MIT"
+shipshapecode/shepherd, false, true, "shepherd.js","MIT"
+mholt/PapaParse, false, false, "papaparse","MIT"
+Mango/slideout, false, false, "slideout","MIT"
+googleapis/google-api-nodejs-client, false, false, "googleapis","Apache-2.0"
+aksakalli/gtop, true, false, "gtop","MIT"
+nasa/openmct, false, false, "openmct","Apache-2.0"
+nexe/nexe, true, false, "nexe","MIT"
+streamaserver/streama, false, false, 
+surmon-china/vue-awesome-swiper, false, true, "vue-awesome-swiper","MIT"
+semantic-release/semantic-release, true, false, "semantic-release","MIT"
+klaussinani/signale, false, false, "signale","MIT"
+jaredpalmer/razzle, false, true, ,
+react-page/react-page, false, true, "react-page","MIT"
+graphile/postgraphile, false, true, "postgraphile","MIT"
+react-static/react-static, false, true, ,
+fengyuanchen/cropper, true, false, "cropper","MIT"
+verdaccio/verdaccio, false, false, "verdaccio-dev","MIT"
+adamwdraper/Numeral-js, false, false, "numeral","MIT"
+apidoc/apidoc, true, false, "apidoc","MIT"
+amsul/pickadate.js, true, false, "pickadate","MIT"
+brianc/node-postgres, false, true, "node-postgres","MIT"
+vega/vega, false, true, ,"BSD-3-Clause"
+datproject/dat, true, false, "dat","BSD-3-Clause"
+OnsenUI/OnsenUI, true, false, "onsenui-monorepo","ISC"
+VulcanJS/Vulcan, true, true, "vulcan-meteor",
+electron-userland/electron-builder, false, false, "@electron-builder/monorepo","MIT"
+erikras/ducks-modular-redux, false, false, 
+davidshimjs/qrcodejs, false, false, 
+socketio/socket.io-client, true, false, "socket.io-client","MIT"
+botpress/botpress, false, true, "bp_main","AGPL-3.0"
+ryanhanwu/How-To-Ask-Questions-The-Smart-Way, false, false, 
+ant-design/ant-design-mobile, false, true, "antd-mobile",
+mdbootstrap/perfect-scrollbar, true, false, "perfect-scrollbar","MIT"
+stimulusjs/stimulus, false, true, "@hotwired/stimulus","MIT"
+styleguidist/react-styleguidist, true, false, "react-styleguidist","MIT"
+brix/crypto-js, false, false, "crypto-js","MIT"
+ai/nanoid, false, false, "nanoid","MIT"
+nhn/tui.calendar, true, false, "tui-calendar","MIT"
+nicolodavis/boardgame.io, true, false, "boardgame.io","MIT"
+facebook/react-360, false, true, ,
+answershuto/learnVue, false, false, 
+muaz-khan/WebRTC-Experiment, false, false, 
+PanJiaChen/vue-admin-template, false, false, "vue-admin-template","MIT"
+OpenZeppelin/openzeppelin-contracts, true, false, "openzeppelin-solidity","MIT"
+pqina/filepond, true, false, "filepond","MIT"
+bpampuch/pdfmake, false, false, "pdfmake","MIT"
+sinonjs/sinon, true, false, "sinon","BSD-3-Clause"
+basarat/typescript-book, false, false, 
+wiredjs/wired-elements, true, false, "wired-elements","MIT"
+barbajs/barba, false, true, "root","MIT"
+FormidableLabs/victory, false, true, "victory-monorepo","MIT"
+mdx-js/mdx, true, false, "monorepo","MIT"
+akiran/react-slick, false, false, "react-slick","MIT"
+danilowoz/react-content-loader, true, false, "react-content-loader","MIT"
+mozilla-services/react-jsonschema-form, true, false, "react-jsonschema-form","Apache-2.0"
+kkga/spacegray, false, false, 
+DevExpress/testcafe, false, false, "testcafe","MIT"
+withspectrum/spectrum, false, true, "Spectrum","BSD-3-Clause"
+casesandberg/react-color, false, false, "react-color","MIT"
+svgdotjs/svg.js, true, false, "@svgdotjs/svg.js","MIT"
+GoogleChromeLabs/quicklink, false, true, "quicklink","Apache-2.0"
+text-mask/text-mask, true, false, "text-mask-all","Unlicense"
+downshift-js/downshift, false, false, "downshift","MIT"
+trazyn/ieaseMusic, false, false, "iease-music","MIT"
+webrtc/samples, true, false, "webrtc-samples","BSD-3-Clause"
+marionettejs/backbone.marionette, false, true, "backbone.marionette","MIT"
+metricsgraphics/metrics-graphics, false, true, ,"MPL-2.0"
+PrismJS/prism, true, false, "prismjs","MIT"
+ng-bootstrap/ng-bootstrap, false, true, "@ng-bootstrap/ng-bootstrap","MIT"
+klaussinani/taskbook, false, false, "taskbook","MIT"
+clauderic/react-sortable-hoc, false, true, "react-sortable-hoc","MIT"
+hpneo/gmaps, false, false, "gmaps","MIT"
+FormidableLabs/radium, false, true, "radium","MIT"
+streamich/react-use, false, true, "react-use","Unlicense"
+30-seconds/30-seconds-of-interviews, true, true, "30-seconds-of-interviews","MIT"
+mathjax/MathJax, false, false, "mathjax","Apache-2.0"
+oblador/react-native-animatable, false, true, "react-native-animatable","MIT"
+HabitRPG/habitica, true, false, "habitica",
+microsoft/Windows-universal-samples, false, false, 
+mdbootstrap/bootstrap-material-design, false, true, "bootstrap-material-design","MIT"
+fex-team/webuploader, false, false, "WebUploader","BSD"
+novus/nvd3, false, false, "nvd3","Apache-2.0"
+xtermjs/xterm.js, false, true, "xterm","MIT"
+didi/cube-ui, true, false, "cube-ui","Apache"
+stylelint/stylelint, true, false, "stylelint","MIT"
+tinymce/tinymce, false, true, "root",
+mediaelement/mediaelement, true, false, "mediaelement","MIT"
+apexcharts/apexcharts.js, true, true, "apexcharts","MIT"
+evolus/pencil, true, true, "Pencil",
+Foundry376/Mailspring, true, false, "mailspring-root","GPL-3.0"
+automerge/automerge, false, true, "automerge","MIT"
+firebase/functions-samples, true, false, "functions-samples","Apache-2.0"
+expressjs/multer, false, false, "multer","MIT"
+OwlCarousel2/OwlCarousel2, true, false, "owl.carousel","SEE LICENSE IN https://github.com/OwlCarousel2/OwlCarousel2/blob/master/LICENSE"
+adambard/learnxinyminutes-docs, false, false, 
+adonisjs/adonis-framework, false, false, "@adonisjs/core","MIT"
+tweenjs/tween.js, true, false, "@tweenjs/tween.js","MIT"
+google/blockly, true, false, "blockly","Apache-2.0"
+cs01/gdbgui, false, true, "gdbgui","GPL-3.0"
+piotrwitek/react-redux-typescript-guide, true, false, ,
+akveo/eva-icons, true, false, "eva-icons-landing",
+stefanpenner/es6-promise, false, true, "es6-promise","MIT"
+es-shims/es5-shim, false, false, "es5-shim","MIT"
+redux-observable/redux-observable, true, false, "redux-observable","MIT"
+ziahamza/webui-aria2, true, false, "webui-aria2","MIT"
+litten/hexo-theme-yilia, false, false, "yilia","ISC"
+Pikaday/Pikaday, true, false, "pikaday","(0BSD OR MIT)"
+sockjs/sockjs-client, true, false, "sockjs-client","MIT"
+commitizen/cz-cli, true, false, "commitizen","MIT"
+captbaritone/webamp, false, true, "webamp-monorepo",
+justadudewhohacks/face-api.js, true, false, "face-api.js","MIT"
+visionmedia/page.js, false, false, "page","MIT"
+baianat/vee-validate, false, true, "vee-validate-monorepo","MIT"
+myliang/x-spreadsheet, true, false, "x-data-spreadsheet","MIT"
+antvis/f2, false, false, "f2",
+yargs/yargs, false, false, "yargs","MIT"
+diegomura/react-pdf, false, true, "@react-pdf/root","MIT"
+metafizzy/zdog, true, false, "zdog","MIT"
+brunch/brunch, false, false, "brunch","MIT"
+Eonasdan/bootstrap-datetimepicker, true, false, "@eonasdan/tempus-dominus","MIT"
+easy-mock/easy-mock, true, false, "easy-mock","GPL-3.0"
+dc-js/dc.js, true, false, "dc","Apache-2.0"
+MoePlayer/DPlayer, false, true, "dplayer","MIT"
+mleibman/SlickGrid, false, false, 
+webtorrent/webtorrent-desktop, true, false, "webtorrent-desktop","MIT"
+node-schedule/node-schedule, false, false, "node-schedule","MIT"
+electron/electron-packager, false, false, "electron-packager","BSD-2-Clause"
+tannerlinsley/react-table, false, true, ,
+LeaVerou/awesomplete, false, false, "awesomplete","MIT"
+kleampa/not-paid, false, false, 
+zuiidea/antd-admin, false, false, "antd-admin","MIT"
+Redocly/redoc, true, false, "redoc","MIT"
+chaijs/chai, true, false, "chai","MIT"
+gka/chroma.js, true, false, "chroma-js","(BSD-3-Clause AND Apache-2.0)"
+atomiks/tippyjs, false, true, "tippy.js","MIT"
+uber/deck.gl, false, true, "deck.gl-monorepo","MIT"
+mozilla/togetherjs, true, false, "togetherjs",
+peers/peerjs, true, false, "peerjs","MIT"
+GeekyAnts/vue-native-core, true, false, "vue-native-core","MIT"
+liriliri/eruda, false, false, "eruda","MIT"
+beautify-web/js-beautify, true, false, "js-beautify","MIT"
+matthew-andrews/isomorphic-fetch, false, false, "isomorphic-fetch","MIT"
+fancyapps/fancybox, false, false, "@fancyapps/fancybox","GPL-3.0"
+davidkpiano/xstate, false, true, "xstate-monorepo","MIT"
+marcotcr/lime, false, false, 
+bailicangdu/react-pxq, false, false, "pxq",
+video-dev/hls.js, true, false, "hls.js","Apache-2.0"
+vitalets/x-editable, true, false, "X-editable",
+luin/ioredis, true, false, "ioredis","MIT"
+OptimalBits/bull, false, true, "bull","MIT"
+hshoff/vx, false, true, "@visx/root","MIT"
+jquense/yup, false, true, "yup","MIT"
+helmetjs/helmet, true, false, "helmet","MIT"
+jonobr1/two.js, false, false, "two.js","MIT"
+browserslist/browserslist, false, false, "browserslist","MIT"
+olivernn/lunr.js, false, false, "lunr","MIT"
+ionic-team/stencil, true, false, "@stencil/core","MIT"
+mobz/elasticsearch-head, false, false, "elasticsearch-head","Apache2"
+electron/electron-quick-start, true, false, "electron-quick-start","CC0-1.0"
+mozilla/nunjucks, false, false, "nunjucks","BSD-2-Clause"
+pnpm/pnpm, false, false, "monorepo-root",
+alexfoxy/laxxx, false, true, "lax.js","MIT"
+choojs/choo, false, false, "choo","MIT"
+Chatie/wechaty, false, false, "wechaty","Apache-2.0"
+redux-utilities/redux-actions, false, true, "redux-actions","MIT"
+hackjutsu/Lepton, false, true, "Lepton","MIT"
+filamentgroup/loadCSS, true, false, "fg-loadcss","MIT"
+jupyter/notebook, false, true, "@jupyter-notebook/root","BSD-3-Clause"
+deepstreamIO/deepstream.io, true, false, "@deepstream/server","MIT"
+ptomasroos/react-native-scrollable-tab-view, false, true, "react-native-scrollable-tab-view","MIT"
+square/crossfilter, false, false, "crossfilter",
+d2-projects/d2-admin, true, false, "d2-admin",
+ducksboard/gridster.js, false, false, "gridster",
+google/lovefield, false, false, "lovefield","Apache-2.0"
+baconjs/bacon.js, true, false, "baconjs","MIT"
+snabbdom/snabbdom, true, false, "snabbdom","MIT"
+rawgraphs/raw, false, true, "rawgraphs-frontend",
+josdejong/jsoneditor, true, false, "jsoneditor","Apache-2.0"
+appbaseio/dejavu, false, true, "dejavu-monorepo","MIT"
+epoberezkin/ajv, false, false, "ajv","MIT"
+rauchg/slackin, false, false, "slackin","MIT"
+react-dropzone/react-dropzone, false, true, "react-dropzone","MIT"
+linkedin/css-blocks, false, true, "css-blocks-monorepo",
+fontello/fontello, false, false, "fontello","MIT"
+adrai/flowchart.js, false, false, "flowchart.js","MIT"
+mrdoob/stats.js, true, false, "stats.js","MIT"
+invertase/react-native-firebase, false, true, "react-native-firebase",
+jprichardson/node-fs-extra, false, false, "fs-extra","MIT"
+ethereumbook/ethereumbook, false, false, 
+carpedm20/DCGAN-tensorflow, false, false, 
+uber/react-vis, false, true, "react-vis-master","MIT"
+protobufjs/protobuf.js, true, false, "protobufjs","BSD-3-Clause"
+react-tools/react-move, true, false, "react-move","MIT"
+stubbornella/oocss, false, false, 
+devhubapp/devhub, false, true, "devhub",
+gskinner/regexr, true, false, "regexr","GPL-3.0"
+VSCodeVim/Vim, false, true, "vim","MIT"
+bvaughn/react-window, false, true, "react-window","MIT"
+checkly/puppeteer-recorder, true, false, "headless-recorder",
+apollographql/react-apollo, true, false, "apollo-react-monorepo","MIT"
+zhukov/webogram, true, false, "Telegram","GPL-3.0"
+Chocobozzz/PeerTube, false, true, "peertube",
+didi/chameleon, true, false, "root","Apache 2.0"
+cytoscape/cytoscape.js, true, false, "cytoscape","MIT"
+auduno/clmtrackr, true, false, "clmtrackr","MIT"
+lutzroeder/netron, false, false, "netron","MIT"
+reactjs/react-transition-group, false, true, "react-transition-group","BSD-3-Clause"
+jhen0409/react-native-debugger, false, true, "react-native-debugger","MIT"
+fengyuanchen/cropperjs, true, false, "cropperjs","MIT"
+isaacs/node-glob, true, false, "glob","ISC"
+github/opensource.guide, true, false, "open-source-guide",
+leon-ai/leon, true, false, "leon","MIT"
+mattgodbolt/compiler-explorer, true, false, "compiler-explorer","BSD-2-Clause"
+kefranabg/readme-md-generator, true, false, "readme-md-generator","MIT"
+aheckmann/gm, false, false, "gm","MIT"
+Nozbe/WatermelonDB, false, true, "@nozbe/watermelondb","MIT"
+kelektiv/node-cron, true, false, "cron","MIT"
+reactjs/react-rails, false, true, "react_ujs",
+aws-amplify/amplify-js, false, false, "aws-amplify-monorepo","Apache-2.0"
+medialize/URI.js, false, false, "urijs","MIT"
+archriss/react-native-snap-carousel, false, false, "react-native-snap-carousel","BSD-3-Clause"
+reach/router, false, true, "@reach/router","MIT"
+OfficeDev/office-ui-fabric-react, false, true, "@fluentui/fluentui-repo","MIT"
+flot/flot, true, false, "flot","MIT"
+umijs/umi, false, true, ,
+neoclide/coc.nvim, false, true, "coc.nvim-master",
+paulmillr/chokidar, false, false, "chokidar","MIT"
+inorganik/countUp.js, true, false, "countup.js","MIT"
+jquery/sizzle, true, false, "sizzle","MIT"
+ractivejs/ractive, true, false, "ractive","MIT"
+howtographql/howtographql, true, true, ,
+sindresorhus/fkill-cli, false, false, "fkill-cli","MIT"
+metafizzy/flickity, true, false, "flickity","GPL-3.0"
+notwaldorf/tiny-care-terminal, true, false, "tiny-care-terminal","MIT"
+agenda/agenda, false, true, "agenda","MIT"
+sindresorhus/got, false, false, "got","MIT"
+kripken/sql.js, false, false, 
+rematch/rematch, false, true, "rematch","MIT"
+webpack/webpack-dev-server, true, false, "webpack-dev-server","MIT"
+plouc/nivo, false, true, "nivo",
+ApoorvSaxena/lozad.js, true, true, "lozad","MIT"
+bookshelf/bookshelf, true, false, "bookshelf","MIT"
+novnc/noVNC, false, false, "@novnc/novnc","MPL-2.0"
+qianguyihao/Web, false, false, 
+chimurai/http-proxy-middleware, false, true, "http-proxy-middleware","MIT"
+serverless/examples, true, true, "serverless-examples","MIT"
+ReactTraining/history, true, false, ,
+este/este, false, true, "este","MIT"
+yannickcr/eslint-plugin-react, false, false, "eslint-plugin-react","MIT"
+redux-offline/redux-offline, false, true, "@redux-offline/redux-offline","MIT"
+avwo/whistle, true, false, "whistle","MIT"
+gchq/CyberChef, true, false, "cyberchef","Apache-2.0"
+rebassjs/rebass, false, true, ,
+zadam/trilium, true, false, "trilium","AGPL-3.0-only"
+TalAter/annyang, true, false, "annyang","MIT"
+chvin/react-tetris, false, false, "react-tetris","Apache-2.0"
+bitwiseshiftleft/sjcl, false, false, "sjcl","(BSD-2-Clause OR GPL-2.0-only)"
+foliojs/pdfkit, false, true, "pdfkit","MIT"
+guess-js/guess, true, false, "guess","MIT"
+facebook/flipper, false, true, 
+scrumpy/tiptap, true, false, ,
+mgechev/javascript-algorithms, true, true, "javascript-algorithms","MIT"
+primefaces/primeng, false, false, "primeng","MIT"
+haizlin/fe-interview, false, false, 
+ag-grid/ag-grid, false, false, "ag-grid-community",
+okonet/lint-staged, true, false, "lint-staged","MIT"
+RockstarLang/rockstar, false, true, 
+reflux/refluxjs, false, false, "reflux","BSD-3-Clause"
+react-cosmos/react-cosmos, false, true, ,"MIT"
+primer/octicons, false, true, "@primer/octicons",
+SocketCluster/socketcluster, true, false, "socketcluster","MIT"
+Raathigesh/majestic, false, true, "majestic","MIT"
+timarney/react-app-rewired, false, true, "react-app-rewired","MIT"
+alibaba/rax, false, false, ,
+rrweb-io/rrweb, false, true, ,"MIT"
+ExactTarget/fuelux, true, false, 
+openlayers/openlayers, true, false, "ol","BSD-2-Clause"
+aws/aws-sdk-js, false, false, "aws-sdk","Apache-2.0"
+listen1/listen1_chrome_extension, true, false, "listen1_chrome_extension","MIT"
+NG-ZORRO/ng-zorro-antd, false, false, "ng-zorro-antd","MIT"
+majodev/google-webfonts-helper, false, false, "google-webfonts-helper","MIT"
+swagger-api/swagger-editor, true, false, "swagger-editor","Apache-2.0"
+palantir/tslint, false, true, "tslint","Apache-2.0"
+jquery/esprima, true, false, "esprima","BSD-2-Clause"
+benhmoore/Knwl.js, false, false, "knwl.js",
+styled-components/polished, false, true, "polished","MIT"
+Polymer/lit-html, true, false, "lit-monorepo",
+hilongjw/vue-lazyload, false, false, "vue-lazyload","MIT"
+angular/angularfire2, false, true, "@angular/fire","MIT"
+DivanteLtd/vue-storefront, false, true, "root",
+chieffancypants/angular-loading-bar, false, false, "angular-loading-bar","MIT"
+tumobi/nideshop-mini-program, false, false, 
+angular-ui/ui-grid, true, false, "ui-grid","MIT"
+Bogdan-Lyashenko/js-code-to-svg-flowchart, false, true, "js2flowchart","MIT"
+WhitestormJS/whs.js, true, false, "whs","MIT"
+assaf/zombie, true, false, "zombie","MIT"
+tehnokv/picojs, false, false, 
+grommet/grommet, false, true, "grommet","Apache-2.0"
+akveo/kittenTricks, false, true, "kitten-tricks","MIT"
+microsoft/azuredatastudio, false, true, "azuredatastudio","MIT"
+GoogleChromeLabs/sw-precache, false, false, "sw-precache","Apache-2.0"
+Hashnode/mern-starter, true, false, "@hashnode/mern-starter","MIT"
+moxiecode/plupload, false, false, "plupload",
+prerender/prerender, true, false, "prerender","MIT"
+ricklamers/gridstudio, false, false, 
+airbnb/hypernova, false, false, "hypernova","MIT"
+mafintosh/peerflix, false, false, "peerflix","MIT"
+AliasIO/Wappalyzer, false, true, ,
+tsayen/dom-to-image, false, false, "dom-to-image","MIT"
+remoteinterview/zero, true, false, "zero",
+microsoft/vscode-go, true, false, "Go","MIT"
+hiloteam/Hilo, false, false, "hilojs","MIT"
+wix/Detox, false, false, "root",
+webdriverio/webdriverio, true, false, "webdriverio-monorepo",
+dthree/vorpal, false, false, "vorpal","MIT"
+akveo/nebular, true, false, "nebular","MIT"
+sandstorm-io/sandstorm, false, false, 
+ngrx/platform, false, true, "@ngrx/platform","MIT"
+developit/htm, false, false, "htm","Apache-2.0"
+vmware/clarity, false, true, "clarity",
+acornjs/acorn, false, false, ,"MIT"
+sindresorhus/ora, false, false, "ora","MIT"
+substack/tape, false, false, "tape","MIT"
+cssinjs/jss, false, true, "root",
+davidmerfield/randomColor, false, false, "randomcolor","CC0"
+WordPress/gutenberg, true, false, "gutenberg","GPL-2.0-or-later"
+Stuk/jszip, true, false, "jszip","(MIT OR GPL-3.0-or-later)"
+balderdashy/waterline, false, false, "waterline","MIT"
+TypeStrong/ts-node, true, false, "ts-node","MIT"
+jsplumb/jsplumb, false, false, ,"(MIT OR GPL-2.0)"
+dylang/npm-check, true, false, "npm-check","MIT"
+vigetlabs/blendid, false, true, "blendid","MIT"
+maxogden/menubar, false, true, "menubar","BSD-2-Clause"
+matthewmueller/x-ray, false, false, "x-ray","MIT"
+probot/probot, true, false, "probot","ISC"
+hackmdio/codimd, true, false, "codimd","AGPL-3.0"
+node-formidable/node-formidable, false, true, "formidable","MIT"
+nextapps-de/flexsearch, false, false, "flexsearch","Apache-2.0"
+theia-ide/theia, false, true, "@theia/monorepo",
+gajus/react-css-modules, false, false, "react-css-modules","BSD-3-Clause"
+terkelg/prompts, true, false, "prompts","MIT"
+techfort/LokiJS, true, false, "lokijs","MIT"
+veltman/flubber, false, false, "flubber","MIT"
+twitter/hogan.js, false, false, "hogan.js","Apache-2.0"
+smooth-code/svgr, true, false, ,
+santinic/how2, true, false, "how-2","MIT"
+reactjs/react-modal, true, false, "react-modal","MIT"
+piskelapp/piskel, false, false, "piskel","Apache-2.0"
+os-js/OS.js, true, false, "@osjs/osjs","BSD-2-Clause"
+beakerbrowser/beaker, false, false, 
+chrisvfritz/prerender-spa-plugin, true, false, "prerender-spa-plugin","MIT"
+szimek/signature_pad, false, true, "signature_pad","MIT"
+rmurphey/js-assessment, false, false, "js-assessment",
+prisma/graphql-playground, false, true, ,
+expressjs/morgan, false, false, "morgan","MIT"
+thinkjs/thinkjs, false, false, "thinkjs","MIT"
+google/code-prettify, false, false, "code-prettify","Apache-2.0"
+chokcoco/CSS-Inspiration, false, false, 
+bda-research/node-crawler, false, false, "crawler",
+tommoor/tinycon, false, false, "tinycon","MIT"
+jquery-form/form, true, false, "jquery-form","(LGPL-2.1+ OR MIT)"
+lebab/lebab, true, false, "lebab","MIT"
+nukeop/nuclear, true, false, "nuclear","AGPL-3.0"
+NervJS/nerv, true, true, "nerv-build","MIT"
+inversify/InversifyJS, true, false, "inversify","MIT"
+benoitvallon/react-native-nw-react-calculator, false, false, "ReactNativeNWReactCalculator","MIT"
+valor-software/ngx-bootstrap, true, false, "ngx-bootstrap-base","MIT"
+final-form/react-final-form, true, false, "react-final-form","MIT"
+jezen/is-thirteen, true, false, "is-thirteen","WTFPL"
+webslides/WebSlides, true, false, "webslides","MIT"
+mzabriskie/react-draggable, false, true, "react-draggable","MIT"
+trazyn/weweChat, false, false, "wewechat","MIT"
+ElemeFE/v-charts, true, false, "v-charts","MIT"
+api-platform/api-platform, false, false, 
+sintaxi/harp, true, false, "harp","MIT"
+Khan/aphrodite, false, false, "aphrodite","MIT"
+algolia/places, false, true, "places.js","MIT"
+AnalyticalGraphicsInc/cesium, false, false, "cesium","Apache-2.0"
+tjunnone/npm-check-updates, true, false, "npm-check-updates","Apache-2.0"
+krakenjs/kraken-js, false, false, "kraken-js",
+kbrsh/moon, false, false, "moon-root","MIT"
+clappr/clappr, false, true, "@clappr/player","BSD-3-Clause"
+meanjs/mean, true, false, "meanjs","MIT"
+kazupon/vue-i18n, false, true, "vue-i18n","MIT"
+shipitjs/shipit, false, true, ,"MIT"
+LogRocket/redux-logger, true, false, "redux-logger","MIT"
+mapbox/mapbox-gl-js, false, true, "mapbox-gl","SEE LICENSE IN LICENSE.txt"
+ramboxapp/community-edition, false, false, "Rambox","GPL-3.0"
+signalapp/Signal-Desktop, false, true, "signal-desktop","AGPL-3.0-only"
+mqttjs/MQTT.js, true, false, "mqtt","MIT"
+fex-team/ueditor, false, false, "ueditor",
+makeusabrew/bootbox, true, false, "bootbox","MIT"
+chancejs/chancejs, false, true, "chance","MIT"
+documentationjs/documentation, true, false, "documentation","ISC"
+ecrmnn/collect.js, false, false, "collect.js","MIT"
+playcanvas/engine, true, false, "playcanvas","MIT"
+prisma/graphql-yoga, false, true, "graphql-yoga-monorepo","MIT"
+egoist/poi, false, true, "poi",
+graphql/express-graphql, true, false, "express-graphql","MIT"
+uber/react-map-gl, false, true, "react-map-gl","MIT"
+akveo/react-native-ui-kitten, false, true, "ui-kitten","MIT"
+mobxjs/mobx-state-tree, false, true, ,
+zeit/serve, true, false, "serve","MIT"
+HospitalRun/hospitalrun-frontend, false, false, "@hospitalrun/frontend","MIT"
+wix/react-native-interactable, false, false, "react-native-interactable","MIT"
+zeit/styled-jsx, false, true, "styled-jsx","MIT"
+glidejs/glide, true, false, "@glidejs/glide","MIT"
+styled-system/styled-system, false, true, ,
+xojs/xo, false, false, "xo","MIT"
+sindresorhus/caprine, true, false, "caprine","MIT"
+graphite-project/graphite-web, false, false, 
+cube-js/cube.js, false, true, "cubejs","MIT"
+Turfjs/turf, false, true, ,
+shentao/vue-multiselect, false, true, "vue-multiselect","MIT"
+aemkei/jsfuck, false, false, "jsfuck",
+wix/react-native-calendars, false, false, "react-native-calendars","MIT"
+markdalgleish/stellar.js, false, false, "jquery.stellar",
+sindresorhus/np, false, false, "np","MIT"
+keithwhor/nodal, true, false, "nodal","MIT"
+agershun/alasql, false, true, "alasql","MIT"
+madhums/node-express-mongoose-demo, true, false, "nodejs-express-mongoose-demo","MIT"
+GoogleChromeLabs/comlink, false, false, "comlink","Apache-2.0"
+microsoft/BosqueLanguage, false, false, 
+pillarjs/path-to-regexp, true, false, "path-to-regexp","MIT"
+mikeal/r2, false, false, "r2","Apache-2.0"
+riccardoscalco/textures, false, true, "textures","MIT"
+moroshko/react-autosuggest, true, false, "react-autosuggest","MIT"
+facebook/jscodeshift, false, true, "jscodeshift","MIT"
+typescript-eslint/typescript-eslint, false, true, "@typescript-eslint/typescript-eslint","BSD-2-Clause"
+googleanalytics/autotrack, false, false, "autotrack","Apache-2.0"
+mayswind/AriaNg, true, false, "ariang","MIT"
+garris/BackstopJS, true, false, "backstopjs","MIT"
+surmon-china/vue-quill-editor, false, false, "vue-quill-editor","MIT"
+RobinHerbots/Inputmask, true, false, "inputmask","MIT"
+madebymany/sir-trevor-js, true, false, "sir-trevor",
+doublespeakgames/adarkroom, false, true, "adarkroom","MPL-2.0"
+entropic-dev/entropic, true, false, "entropic","Apache-2.0"
+enquirer/enquirer, false, false, "enquirer","MIT"
+amejiarosario/dsa.js-data-structures-algorithms-javascript, true, false, "dsa.js","MIT"
+antvis/g6, false, false, "g6",
+Soundnode/soundnode-app, false, false, "Soundnode","GPL-3.0"
+arachnys/cabot, false, false, 
+chrisvfritz/vue-enterprise-boilerplate, false, true, "frontend",
+cferdinandi/smooth-scroll, true, false, "smooth-scroll","MIT"
+jplayer/jPlayer, false, false, "jplayer","MIT"
+beefproject/beef, true, false, "BeEF","GNU General Public License v2.0"
+mycolorway/simditor, true, false, "simditor","MIT"
+nondanee/UnblockNeteaseMusic, false, false, "@nondanee/unblockneteasemusic","MIT"
+jonschlinkert/remarkable, false, true, "remarkable","MIT"
+HcySunYang/vue-design, false, true, "vue-design","MIT"
+CSSLint/csslint, false, false, "csslint","MIT"
+sachinchoolur/lightgallery.js, true, false, "lightgallery.js","GPLv3"
+angular-translate/angular-translate, true, false, "angular-translate","MIT"
+vakata/jstree, false, false, "jstree","MIT"
+firefox-devtools/debugger, false, false, 
+lokesh/lightbox2, false, false, "lightbox2",
+expressjs/session, false, false, "express-session","MIT"
+star7th/showdoc, false, false, 
+xinthink/react-native-material-kit, false, true, "react-native-material-kit","MIT"
+gaearon/overreacted.io, false, true, "overreacted","MIT"
+timuric/Content-generator-sketch-plugin, false, false, 
+MrSwitch/hello.js, true, false, "hellojs","MIT"
+pinojs/pino, false, false, "pino","MIT"
+Jigsaw-Code/outline-client, true, false, "outline-client",
+i18next/i18next, true, false, "i18next","MIT"
+drcmda/react-three-fiber, false, true, "react-three-fiber--root","MIT"
+kartik-v/bootstrap-fileinput, false, false, "bootstrap-fileinput","BSD-3-Clause"
+es-analysis/plato, false, false, "plato","MIT"
+golden-layout/golden-layout, true, false, "golden-layout","MIT"
+dfahlander/Dexie.js, true, false, "dexie","Apache-2.0"
+ljharb/qs, false, false, "qs","BSD-3-Clause"
+browserify/browserify-handbook, false, false, "browserify-handbook","CC-BY-3.0"
+GoogleChrome/rendertron, true, false, "rendertron","Apache-2.0"
+xcatliu/typescript-tutorial, true, false, "typescript-tutorial","MIT"
+alibaba/BizCharts, false, false, "bizcharts","MIT"
+lorenwest/node-config, false, false, "config","MIT"
+bfirsh/jsnes, false, true, "jsnes","Apache-2.0"
+thx/rap2-delos, false, false, "rap2-delos","ISC"
+Strider-CD/strider, false, false, 
+Vincit/objection.js, true, false, "objection","MIT"
+microsoft/pyright, true, false, "pyright-root",
+sindresorhus/ky, false, false, "ky","MIT"
+shoutem/ui, true, false, "@shoutem/ui","BSD-3-Clause"
+pikapkg/web, false, true, "root",
+caprover/caprover, true, false, "caprover",
+ZijianHe/koa-router, false, false, "koa-router","MIT"
+olado/doT, false, false, "dot","MIT"
+kpdecker/jsdiff, false, true, "diff","BSD-3-Clause"
+jdneo/vscode-leetcode, true, false, "vscode-leetcode","MIT"
+segmentio/analytics.js, false, false, "analytics.js","MIT"
+nteract/nteract, false, true, "nteract-monorepo","BSD-3-Clause"
+Khan/tota11y, true, false, "@khanacademy/tota11y","MIT"
+yiminghe/async-validator, false, false, "async-validator","MIT"
+otale/tale, false, false, 
+vuelidate/vuelidate, false, true, "vuelidate",
+bitinn/node-fetch, false, false, "node-fetch","MIT"
+discordjs/discord.js, false, true, "@discordjs/discord.js",
+linkedin/hopscotch, false, false, "hopscotch","Apache-2.0"
+exceljs/exceljs, false, false, "exceljs","MIT"
+bestiejs/benchmark.js, true, false, "benchmark","MIT"
+muicss/mui, true, false, ,"MIT"
+kenwheeler/cash, false, false, "cash-dom","MIT"
+andrewplummer/Sugar, false, false, "sugar","MIT"
+jackocnr/intl-tel-input, true, false, "intl-tel-input","MIT"
+angular/flex-layout, false, true, "flex-layout-srcs","MIT"
+gitpoint/git-point, false, true, "gitpoint",
+redux-utilities/flux-standard-action, false, true, "flux-standard-action","MIT"
+callstack/linaria, false, true, "linaria","MIT"
+ballercat/walt, true, false, "walt-packages","MIT"
+faye/faye, false, false, "faye","Apache-2.0"
+outline/outline, false, true, "outline","Business Source License 1.1"
+fengyuanchen/viewerjs, true, false, "viewerjs","MIT"
+cockpit-project/cockpit, false, false, "CockpitDevelopmentDependencies",
+russellgoldenberg/scrollama, false, false, "scrollama","MIT"
+Jermolene/TiddlyWiki5, false, false, "tiddlywiki","BSD"
+yujiosaka/headless-chrome-crawler, false, true, "headless-chrome-crawler","MIT"
+nhn/tui.chart, true, false, "root",
+verlok/lazyload, true, false, "vanilla-lazyload","MIT"
+nodegit/nodegit, true, false, "nodegit","MIT"
+tomchentw/react-google-maps, false, true, "react-google-maps","MIT"
+APIs-guru/graphql-voyager, true, false, "graphql-voyager","MIT"
+davidjbradshaw/iframe-resizer, true, false, "iframe-resizer","MIT"
+jaredpalmer/backpack, false, true, ,
+Financial-Times/polyfill-service, true, false, "polyfill-service","MIT"
+stevenwanderski/bxslider-4, false, false, "bxslider","MIT"
+IBM/plex, false, true, "@ibm/plex","OFL-1.1"
+hound-search/hound, true, false, "hound","ISC"
+wuchangming/spy-debugger, false, true, "spy-debugger","MIT"
+1j01/jspaint, true, false, "jspaint",
+request/request-promise, false, false, "request-promise","ISC"
+yezihaohao/react-admin, false, true, "react-admin",
+reek/anti-adblock-killer, false, false, 
+nativescript-vue/nativescript-vue, false, true, "nativescript-vue","MIT"
+theintern/intern, true, false, "intern","BSD-3-Clause"
+kognise/water.css, false, true, "water.css","MIT"
+FrontendMasters/front-end-handbook-2018, false, false, 
+Countly/countly-server, true, false, "countly-server",
+mathiasbynens/jquery-placeholder, false, false, "jquery-placeholder","MIT"
+phoboslab/jsmpeg, false, false, 
+tapmodo/Jcrop, false, false, "jcrop","MIT"
+nathancahill/split, false, true, ,"MIT"
+jitsi/jitsi-meet, true, false, "jitsi-meet","Apache-2.0"
+log4js-node/log4js-node, true, false, "log4js","Apache-2.0"
+ProseMirror/prosemirror, false, false, "prosemirror","MIT"
+sindresorhus/query-string, false, false, "query-string","MIT"
+expressjs/cors, false, false, "cors","MIT"
+imfunniee/gitfolio, true, false, "gitfolio","GPL-3.0"
+taskrabbit/elasticsearch-dump, false, false, "elasticdump","Apache-2.0"
+openpgpjs/openpgpjs, true, false, "openpgp","LGPL-3.0+"
+kentcdodds/cross-env, false, false, "cross-env","MIT"
+NekR/offline-plugin, false, false, "offline-plugin","MIT"
+serialport/node-serialport, true, false, "serialport-monorepo","MIT"
+Mailtrain-org/mailtrain, false, false, 
+Kristories/awesome-guidelines, false, false, ,
+tumobi/nideshop, false, false, "nideshop","MIT"
+standard-things/esm, true, false, "esm","MIT"
+ngbp/ngbp, false, false, "ngbp",
+agentejo/cockpit, false, false, "cockpit-next","MIT"
+auchenberg/vscode-browser-preview, true, false, "vscode-browser-preview","MIT"
+darkreader/darkreader, true, false, "darkreader","MIT"
+rexxars/react-markdown, false, false, "react-markdown","MIT"
+vuejs/vue-loader, false, true, "vue-loader","MIT"
+leongersen/noUiSlider, true, false, "nouislider","MIT"
+rekit/rekit, true, false, "rekit","MIT"
+konvajs/konva, false, false, "konva","MIT"
+expressjs/body-parser, false, false, "body-parser","MIT"
+ternjs/tern, false, false, "tern","MIT"
+MoePlayer/APlayer, false, true, "aplayer","MIT"
+mattbryson/TouchSwipe-Jquery-Plugin, false, false, "jquery-touchswipe",
+callstack/react-native-paper, false, true, "react-native-paper","MIT"
+lambci/docker-lambda, false, false, "docker-lambda","MIT"
+Akryum/vue-apollo, false, false, "vue-apollo-monorepo",
+dataarts/dat.gui, true, false, "dat.gui","Apache-2.0"
+rastapasta/mapscii, true, false, "mapscii","MIT"
+isomorphic-git/isomorphic-git, true, false, "isomorphic-git","MIT"
+contra/react-responsive, false, false, "react-responsive","MIT"
+developit/unfetch, true, false, "unfetch","MIT"
+totaljs/framework, false, false, "total.js","MIT"
+nodeca/js-yaml, false, false, "js-yaml","MIT"
+malihu/malihu-custom-scrollbar-plugin, false, false, "malihu-custom-scrollbar-plugin","MIT"
+getsentry/sentry-javascript, false, true, ,
+primus/primus, false, false, "primus","MIT"
+23/resumable.js, false, false, "resumablejs","MIT"
+Hacker0x01/react-datepicker, false, true, "react-datepicker","MIT"
+baidu/san, true, false, "san","MIT"
+FrontendMasters/front-end-handbook-2017, false, false, 
+svaarala/duktape, false, false, "@duktape/duktape-repo","SEE LICENSE IN LICENSE.txt"
+kangax/html-minifier, true, false, "html-minifier","MIT"
+getbem/getbem.com, false, false, "getbem.com","MIT"
+jsbin/jsbin, true, false, "jsbin","MIT"
+vuejs/vuejs.org, false, true, "vuejs.org",
+express-validator/express-validator, true, false, "express-validator","MIT"
+ianstormtaylor/superstruct, false, true, "superstruct","MIT"
+preactjs/preact-cli, false, true, ,
+OptimalBits/redbird, true, true, "redbird","BSD-3-Clause-Attribution"
+mikaelbr/node-notifier, true, false, "node-notifier","MIT"
+ipfs/js-ipfs, false, false, "js-ipfs",
+babel/minify, false, true, ,"MIT"
+twobin/react-lazyload, false, true, "react-lazyload","MIT"
+gridsome/gridsome, false, true, ,
+babel/babel-loader, false, true, "babel-loader","MIT"
+cuckoosandbox/cuckoo, false, false, 
+graphql-editor/graphql-editor, true, false, "graphql-editor","MIT"
+microsoft/TypeScript-Handbook, true, false, "typescript-handbook","Apache-2.0"
+sigalor/whatsapp-web-reveng, true, true, "whatsapp-web-reveng","MIT"
+lancedikson/bowser, true, false, "bowser","MIT"
+oclif/oclif, false, true, "oclif","MIT"
+faisalman/ua-parser-js, false, false, "ua-parser-js","MIT"
+igorescobar/jQuery-Mask-Plugin, true, false, "jquery-mask-plugin","MIT"
+reactjs/reactjs.org, false, true, "react-website","CC"
+vuejs/vue-class-component, false, true, "vue-class-component","MIT"
+AlexNisnevich/untrusted, false, false, 
+kriasoft/react-firebase-starter, false, true, "app",
+CJex/regulex, true, false, "regulex","MIT"
+ustbhuangyi/vue-analysis, true, true, "vue-analysis","MIT"
+ecomfe/zrender, true, false, "zrender","BSD-3-Clause"
+Swiip/generator-gulp-angular, false, false, "generator-gulp-angular","MIT"
+developit/microbundle, true, false, "microbundle","MIT"
+qunitjs/qunit, true, false, "qunit","MIT"
+socketio/engine.io, true, false, "engine.io","MIT"
+OctoLinker/OctoLinker, false, true, "OctoLinker",
+katspaugh/wavesurfer.js, false, false, "wavesurfer.js","BSD-3-Clause"
+James-Yu/LaTeX-Workshop, true, false, "latex-workshop","MIT"
+fuse-box/fuse-box, false, false, "fuse-box","MIT"
+PavelDoGreat/WebGL-Fluid-Simulation, false, false, 
+node-apn/node-apn, true, false, "apn","MIT"
+hustcc/timeago.js, false, false, "timeago.js","MIT"
+Fyrd/caniuse, false, false, "caniuse-db","CC-BY-4.0"
+rmm5t/jquery-timeago, false, false, "timeago",
+rchipka/node-osmosis, true, false, "osmosis","MIT"
+electron/fiddle, false, true, "electron-fiddle","MIT"
+JosephusPaye/Keen-UI, false, true, "keen-ui","MIT"
+cure53/DOMPurify, true, false, "dompurify","(MPL-2.0 OR Apache-2.0)"
+postmanlabs/newman, true, false, "newman","Apache-2.0"
+substack/minimist, false, false, "minimist","MIT"
+jquery/jquery-mousewheel, true, false, "jquery-mousewheel","MIT"
+mobxjs/mobx-react, false, true, "mobx-react","MIT"
+palmerhq/the-platform, false, true, "the-platform","MIT"
+CodingTrain/website, true, false, "coding-train-website","MIT"
+google-map-react/google-map-react, false, true, "google-map-react","MIT"
+mde/ejs, true, false, "ejs","Apache-2.0"
+jaywcjlove/hotkeys, true, false, "hotkeys-js","MIT"
+tholman/zenpen, false, false, 
+microsoft/code-push, true, false, "code-push","MIT"
+btford/write-good, true, false, "write-good","MIT"
+searchkit/searchkit, false, true, "searchkit","Apache-2.0"
+maicki/why-did-you-update, true, false, "why-did-you-update","MIT"
+elastic/elasticsearch-js, false, false, "@elastic/elasticsearch","Apache-2.0"
+jspm/jspm-cli, false, false, "jspm","Apache-2.0"
+ecomfe/vue-echarts, false, false, "vue-echarts","MIT"
+toddmotto/echo, false, false, "echo-js","MIT"
+ncase/trust, false, false, 
+shadowsocks/shadowsocks-manager, false, false, "shadowsocks-manager","GPL-3.0"
+Marak/colors.js, true, false, "colors","MIT"
+xiaolin3303/wx-charts, false, false, "wechat-charts","MIT"
+eamodio/vscode-gitlens, false, true, "gitlens","SEE LICENSE IN LICENSE"
+yeoman/generator-webapp, false, true, "generator-webapp","BSD-2-Clause"
+emmetio/emmet, true, false, "emmet","MIT"
+wux-weapp/wux-weapp, true, true, "wux-weapp","MIT"
+conventional-changelog/commitlint, false, true, "@commitlint/root","MIT"
+ipython-contrib/jupyter_contrib_nbextensions, false, false, 
+GoogleTrends/data, false, false, 
+travist/jsencrypt, true, false, "jsencrypt","MIT"
+brave/brave-browser, true, false, "brave","MPL-2.0"
+istanbuljs/nyc, false, false, "nyc","ISC"
+realm/realm-js, true, false, "realm","See the actual license in the file LICENSE"
+jayphelps/core-decorators, false, false, "core-decorators","MIT"
+i18next/react-i18next, true, false, "react-i18next","MIT"
+FullHuman/purgecss, true, false, "root",
+CreateJS/SoundJS, false, false, "soundjs","MIT"
+1c7/Crash-Course-Computer-Science-Chinese, false, false, 
+stdlib/lib, false, false, "lib.cli","MIT"
+topojson/topojson, false, false, "topojson","BSD-3-Clause"
+naver/billboard.js, false, true, "billboard.js","MIT"
+twitter/labella.js, false, true, "labella","Apache-2.0"
+aui/font-spider, true, false, "font-spider","MIT"
+qwerty472123/wxappUnpacker, false, false, 
+cucumber/cucumber-js, true, false, "@cucumber/cucumber","MIT"
+nadbm/react-datasheet, true, false, "react-datasheet","MIT"
+yagop/node-telegram-bot-api, false, false, "node-telegram-bot-api","MIT"
+mscdex/ssh2, false, false, "ssh2",
+i5ting/How-to-learn-node-correctly, false, false, "How-to-learn-node-correctly","ISC"
+thomaspark/flexboxfroggy, true, false, "flexboxfroggy","MIT"
+ttezel/twit, false, false, "twit","MIT"
+imba/imba, true, false, "imba-monorepo",
+Zulko/eagle.js, false, false, "eagle.js","ISC"
+microsoft/TypeScript-Vue-Starter, false, true, "typescript-vue-starter","Apache-2.0"
+vuejs/vetur, false, true, "vetur",
+williamngan/pts, true, false, "pts","Apache-2.0"
+swimlane/ngx-datatable, true, false, "ngx-datatable",
+bitcoinjs/bitcoinjs-lib, true, false, "bitcoinjs-lib","MIT"
+Level/levelup, false, false, "levelup","MIT"
+pastelsky/bundlephobia, false, true, "bundlephobia","MIT"
+GoogleChromeLabs/ui-element-samples, false, false, 
+creationix/js-git, false, false, "js-git","MIT"
+tildeio/rsvp.js, false, true, "rsvp","MIT"
+jpuri/react-draft-wysiwyg, true, true, "react-draft-wysiwyg","MIT"
+DylanVann/react-native-fast-image, false, true, "react-native-fast-image","(MIT AND Apache-2.0)"
+microsoft/vscode-recipes, false, false, 
+socketstream/socketstream, false, false, "socketstream","MIT"
+JeffreyWay/laravel-mix, true, false, "laravel-mix","MIT"
+Okazari/Rythm.js, true, true, "rythm.js","GPL-3.0"
+hoodiehq/hoodie, true, false, "hoodie","Apache-2.0"
+marcj/css-element-queries, false, false, "css-element-queries","MIT"
+octokit/rest.js, true, false, "@octokit/rest","MIT"
+brianchirls/Seriously.js, false, false, 
+blueimp/JavaScript-Load-Image, true, false, "blueimp-load-image","MIT"
+jaredpalmer/react-fns, false, true, "react-fns","MIT"
+zeit/now-cli, false, true, "vercel-monorepo","Apache-2.0"
+spine/spine, false, false, "spine","MIT"
+lesspass/lesspass, false, true, "lesspass-root","GPL-3.0"
+NorthwoodsSoftware/GoJS, false, false, "gojs","SEE LICENSE IN license.html"
+apsdehal/awesome-ctf, false, false, "awesome-ctf",
+imbrn/v8n, false, true, "v8n","MIT"
+eventbrite/britecharts, false, false, 
+kolodny/immutability-helper, true, false, "immutability-helper","MIT"
+siddharthkp/bundlesize, false, false, "bundlesize","MIT"
+webpack-contrib/css-loader, true, false, "css-loader","MIT"
+sitespeedio/sitespeed.io, false, false, "sitespeed.io","MIT"
+tensorflow/tfjs-examples, false, true, "tfjs-examples","Apache-2.0"
+conventional-changelog/conventional-changelog, false, false, "conventional-changelog-monorepo","ISC"
+BoxFactura/pulltorefresh.js, true, false, "pulltorefreshjs","MIT"
+indexzero/nconf, false, false, "nconf","MIT"
+goatslacker/alt, false, false, "alt","MIT"
+senecajs/seneca, false, false, "seneca","MIT"
+StephenGrider/ReduxSimpleStarter, true, false, "redux-simple-starter","ISC"
+amir20/phantomjs-node, true, false, "phantom","ISC"
+HVF/franchise, false, true, "franchise",
+phonegap/phonegap-start, false, false, 
+clintonwoo/hackernews-react-graphql, true, false, "hackernews","Apache-2.0"
+instantpage/instant.page, false, false, "instant.page","MIT"
+desandro/draggabilly, true, false, "draggabilly","MIT"
+shakiba/planck.js, true, false, "planck","MIT"
+hiroppy/fusuma, true, false, "fusuma","MIT"
+gorhill/uMatrix, false, false, 
+matthewhudson/current-device, true, false, "current-device","MIT"
+lrsjng/h5ai, true, false, "h5ai","MIT"
+mailru/FileAPI, false, false, "fileapi","BSD"
+fkhadra/react-toastify, false, true, "react-toastify","MIT"
+swapagarwal/swag-for-dev, true, false, "swag-for-dev","CC0-1.0"
+Studio-42/elFinder, false, false, "elFinder","BSD-3-Clause"
+yahoo/gifshot, false, false, "gifshot","MIT"
+MikeMcl/bignumber.js, false, false, "bignumber.js","MIT"
+tensorflow/tfjs-models, false, true, "tensorflow-models","Apache-2.0"
+developit/workerize, false, false, "workerize","MIT"
+dempfi/ayu, false, true, "ayu","MIT"
+dariusk/corpora, false, false, "corpora","CC0"
+clauderic/react-infinite-calendar, false, true, "react-infinite-calendar","MIT"
+adazzle/react-data-grid, false, false, "react-data-grid","MIT"
+retejs/rete, true, false, "rete","MIT"
+robinvdvleuten/vuex-persistedstate, false, false, "vuex-persistedstate","MIT"
+angular/universal, false, true, "nguniversal","MIT"
+serratus/quaggaJS, false, false, "quagga","MIT"
+webpack-contrib/mini-css-extract-plugin, true, false, "mini-css-extract-plugin","MIT"
+intljusticemission/react-big-calendar, false, true, "react-big-calendar","MIT"
+pegjs/pegjs, false, true, "pegjs-dev",
+negomi/react-burger-menu, true, false, "react-burger-menu","MIT"
+imagemin/imagemin, false, false, "imagemin","MIT"
+Yomguithereal/react-blessed, true, false, "react-blessed","MIT"
+aol/moloch, true, false, "arkime","Apache-2.0"
+MrRio/vtop, false, true, "vtop","MIT"
+kdchang/reactjs101, false, false, 
+bitpay/bitcore, true, false, ,
+franciscop/server, false, false, "server","MIT"
+mongo-express/mongo-express, false, true, "mongo-express","MIT"
+meetfranz/franz, true, false, "franz","Apache-2.0"
+rsmbl/Resemble.js, true, false, "resemblejs","MIT"
+haraka/Haraka, false, false, "Haraka","MIT"
+isaacs/rimraf, true, false, "rimraf","ISC"
+nteract/hydrogen, false, false, "Hydrogen","MIT"
+blueimp/JavaScript-MD5, true, false, "blueimp-md5","MIT"
+reakit/reakit, true, false, "root",
+gitalk/gitalk, false, false, "gitalk","MIT"
+MetaMask/metamask-extension, false, true, "metamask-crx",
+jakearchibald/svgomg, true, false, "svgomg","MIT"
+supasate/connected-react-router, false, true, "connected-react-router","MIT"
+BloombergMedia/whatiscode, true, false, "code-issue",
+ljianshu/Blog, false, false, 
+jakubpawlowicz/clean-css, true, false, "clean-css","MIT"
+FormidableLabs/urql, false, true, ,
+flow-typed/flow-typed, false, false, 
+ember-cli/ember-cli, false, true, "ember-cli","MIT"
+json5/json5, true, false, "json5","MIT"
+civiccc/react-waypoint, false, false, "react-waypoint","MIT"
+gothinkster/react-redux-realworld-example-app, false, false, "react-redux-realworld-example-app",
+vector-im/riot-web, false, true, "element-web","Apache-2.0"
+douglascrockford/JSLint, false, false, "@jslint-org/jslint","UNLICENSE"
+angular-ui/ui-select, false, false, "ui-select","MIT"
+jaredpalmer/after.js, false, true, "root",
+lukeed/polka, false, false, ,
+Voog/wysihtml, false, false, "wysihtml","MIT"
+heroku/react-refetch, true, false, "react-refetch","MIT"
+quicktype/quicktype, true, false, "quicktype","Apache-2.0"
+gsuitedevs/md2googleslides, true, true, "md2gslides","Apache-2.0"
+auth0/express-jwt, true, false, "express-jwt","MIT"
+appbaseio/reactivesearch, false, true, "reactivesearch-packages","Apache-2.0"
+ant-design/ant-motion, false, false, "ant-motion","MIT"
+google/shaka-player, true, false, "shaka-player","Apache-2.0"
+wxiaoqi/Spring-Cloud-Admin, false, false, 
+google/closure-library, false, false, "google-closure-library","Apache-2.0"
+gpbl/react-day-picker, false, true, "@react-day-picker/monorepo","MIT"
+521dimensions/amplitudejs, true, false, "amplitudejs","MIT"
+phenomic/phenomic, false, true, "@phenomic/core","MIT"
+fians/Waves, true, false, "node-waves","MIT"
+ecomfe/fontmin, false, false, "fontmin","MIT"
+zhongsp/TypeScript, true, false, "typescript-handbook-cn","MIT"
+pinterest/gestalt, false, true, ,
+toji/gl-matrix, false, false, "gl-matrix","MIT"
+infinitered/nsfwjs, false, true, "nsfwjs","MIT"
+arturbien/React95, true, false, "react95","MIT"
+claudiajs/claudia, false, false, "claudia","MIT"
+kvz/locutus, false, true, "locutus","MIT"
+draft-js-plugins/draft-js-plugins, false, true, "draft-js-plugins","MIT"
+react-native-community/react-native-tab-view, false, true, "react-native-tab-view","MIT"
+neutrinojs/neutrino, false, true, "neutrino","MPL-2.0"
+blueimp/Gallery, true, false, "blueimp-gallery","MIT"
+broccolijs/broccoli, false, true, "broccoli","MIT"
+plouc/mozaik, false, true, ,
+tyroprogrammer/learn-react-app, true, true, "learn-react-app",
+KartikTalwar/gmail.js, false, false, "gmail-js","MIT"
+markmarkoh/datamaps, false, false, "datamaps","MIT"
+FirebaseExtended/firepad, true, false, "firepad",
+likeastore/ngDialog, false, true, "ng-dialog","MIT"
+Netflix/vizceral, true, false, "vizceral","Apache-2.0"
+zeit/ncc, false, true, "@vercel/ncc","MIT"
+Netflix/vector, true, false, "vector","Apache-2.0"
+justjavac/Google-IPs, false, false, 
+thelounge/thelounge, false, true, "thelounge","MIT"
+facebookincubator/fbt, false, true, "fbt-top-level-repo","MIT"
+caolan/highland, true, false, "highland","Apache-2.0"
+burtonator/polar-bookshelf, false, false, "polar-bookshelf","GPL-3.0-only"
+sindresorhus/speed-test, false, false, "speed-test","MIT"
+gothinkster/angular-realworld-example-app, true, false, "ang2-conduit","MIT"
+moment/moment-timezone, true, false, "moment-timezone","MIT"
+digitalbazaar/forge, false, false, "node-forge","(BSD-3-Clause OR GPL-2.0)"
+jsonresume/resume-cli, true, false, "resume-cli","MIT"
+swimlane/ngx-charts, true, false, "ngx-charts",
+freeCodeCamp/mail-for-good, true, false, "nonprofit-email-service","BSD-3-Clause"
+google/incremental-dom, true, false, "incremental-dom","Apache-2.0"
+soldair/node-qrcode, true, false, "qrcode","MIT"
+facebook/metro, false, true, ,"MIT"
+futurepress/epub.js, true, false, "epubjs","BSD-2-Clause"
+CanopyTax/single-spa, false, true, "single-spa","MIT"
+fex-team/kityminder, false, false, "kityminder",
+spritejs/spritejs, false, false, "spritejs","MIT"
+kelaberetiv/TagUI, false, false, 
+GoogleChromeLabs/ProjectVisBug, true, false, "VisBug","Apache-2.0"
+react-icons/react-icons, false, true, "react-icons-root","MIT"
+terser-js/terser, true, false, "terser","BSD-2-Clause"
+developit/mitt, false, false, "mitt","MIT"
+vincentriemer/react-native-dom, false, true, "react-native-dom-monorepo","MIT"
+webpack-contrib/sass-loader, true, false, "sass-loader","MIT"
+exif-js/exif-js, false, false, "exif-js","MIT"
+ngx-translate/core, true, false, "ngx-translate",
+electron-userland/electron-forge, false, true, "electron-forge","MIT"
+regl-project/regl, true, false, "regl","MIT"
+postlight/headless-wp-starter, false, false, "headless-wp-starter","GPL 2.0"
+node-ffi/node-ffi, true, false, "ffi","MIT"
+jshjohnson/Choices, true, false, "choices.js","MIT"
+stutrek/scrollMonitor, false, true, "scrollmonitor","MIT"
+projectstorm/react-diagrams, false, true, "@projectstorm/react-diagrams",
+airbnb/polyglot.js, false, false, "node-polyglot","BSD-2-Clause"
+Kenshin/simpread, false, false, "simpread_project_workflow","MIT"
+oliviertassinari/react-swipeable-views, false, true, "react-swipeable-views-workspace","MIT"
+facebook/prop-types, false, true, "prop-types","MIT"
+get-alex/alex, false, false, "alex","MIT"
+arkency/reactjs_koans, false, false, "reactjs_koans","MIT"
+pomber/code-surfer, false, true, ,
+dwqs/blog, false, false, 
+react-ga/react-ga, true, false, "react-ga","Apache-2.0"
+apiaryio/dredd, false, true, ,
+apertureless/vue-chartjs, false, false, "vue-chartjs","MIT"
+APSL/react-native-keyboard-aware-scroll-view, false, true, "react-native-keyboard-aware-scroll-view","MIT"
+web-animations/web-animations-js, true, false, "web-animations-js","Apache-2.0"
+minbrowser/min, false, false, "min","Apache-2.0"
+tj/consolidate.js, false, false, "consolidate","MIT"
+gcanti/tcomb-form-native, true, true, "tcomb-form-native","MIT"
+SVG-Edit/svgedit, true, false, "svgedit","(MIT AND Apache-2.0 AND ISC AND LGPL-3.0-or-later AND X11)"
+stereobooster/react-ideal-image, false, false, "react-ideal-image","MIT"
+meetalva/alva, false, true, "@meetalva/packages","MIT"
+michaelgrosner/tribeca, false, false, "tribeca","ISC"
+Hygieia/Hygieia, true, true, "hygieia-ui",
+antimatter15/ocrad.js, false, false, "ocrad.js","GPL-3.0"
+sallar/github-contributions-chart, false, true, "github-contribution-chart","MIT"
+skatejs/skatejs, false, true, "skatejs-monorepo","MIT"
+callstack/haul, false, true, ,
+sarahdayan/dinero.js, false, true, "@dinero.js/monorepo","MIT"
+wooorm/franc, false, false, "franc","MIT"
+xotahal/react-native-material-ui, false, true, "react-native-material-ui","MIT"
+Tencent/westore, false, false, 
+egret-labs/egret-core, false, false, "egret",
+parse-community/parse-dashboard, true, false, "parse-dashboard","SEE LICENSE IN LICENSE"
+jonathantneal/svg4everybody, false, false, "svg4everybody","CC0-1.0"
+github-tools/github, false, false, "github-api","BSD-3-Clause-Clear"
+hgoebl/mobile-detect.js, false, false, "mobile-detect","MIT"
+aui/artDialog, false, false, "art-dialog","LGPL-3.0"
+scribbletune/scribbletune, true, false, "scribbletune","MIT"
+aws/aws-cdk, false, true, "aws-cdk","Apache-2.0"
+artilleryio/artillery, true, false, "artillery","MPL-2.0"
+duxianwei520/react, true, false, "react-admin",
+jasondavies/d3-cloud, false, false, "d3-cloud","BSD-3-Clause"
+sveltejs/sapper, true, false, "sapper","MIT"
+axa-group/nlp.js, true, false, "root","MIT"
+buttercup/buttercup-desktop, true, false, "Buttercup","GPL-3.0"
+mapbox/pixelmatch, false, true, "pixelmatch","ISC"
+dresende/node-orm2, true, false, "orm","MIT"
+mrvautin/adminMongo, false, false, "admin-mongo","MIT"
+uku/Unblock-Youku, false, false, "ub.uku.js","AGPL-3.0"
+Jigsaw-Code/outline-server, true, false, "outline-server",
+danielstjules/jsinspect, false, false, "jsinspect","MIT"
+ionic-team/ionic-conference-app, true, false, "ionic-conference-app","Apache-2.0"
+orbitdb/orbit-db, true, false, "orbit-db","MIT"
+Valve/fingerprintjs, false, true, "@fingerprintjs/fingerprintjs","MIT"
+ionic-team/capacitor, false, false, "capacitor",
+mudcube/MIDI.js, false, false, "midi","MIT"
+Dash-Industry-Forum/dash.js, true, false, "dashjs","BSD-3-Clause"
+be5invis/Sarasa-Gothic, false, false, "sarasa-gothic",
+anvaka/VivaGraphJS, true, false, "vivagraphjs","BSD-3-Clause"
+apollographql/graphql-tools, false, true, "graphql-tools-monorepo",
+egonSchiele/grokking_algorithms, false, false, 
+facebook/regenerator, true, false, "regenerator","MIT"
+substack/dnode, false, false, "dnode","MIT"
+emberjs/data, false, true, "root",
+11ty/eleventy, false, false, "@11ty/eleventy","MIT"
+nosqlclient/nosqlclient, true, false, "mongoclient",
+lindell/JsBarcode, true, false, "jsbarcode","MIT"
+stampit-org/stampit, true, false, "stampit","MIT"
+MikeMcl/decimal.js, false, false, "decimal.js","MIT"
+kimmobrunfeldt/concurrently, false, false, 
+clientIO/joint, true, false, "jointjs","MPL-2.0"
+dotansimha/graphql-code-generator, false, true, "graphql-code-generator",
+cyrus-and/chrome-remote-interface, true, false, "chrome-remote-interface","MIT"
+Yoctol/bottender, false, true, "@bottender/workspace","MIT"
+googollee/go-socket.io, false, false, 
+mattallty/Caporal.js, true, false, "@caporal/core","MIT"
+berzniz/react-overdrive, false, true, "react-overdrive","MIT"
+btroncone/learn-rxjs, false, false, "learn-rxjs","MIT"
+sagalbot/vue-select, false, true, "vue-select","MIT"
+jaredhanson/oauth2orize, false, false, "oauth2orize","MIT"
+mysticatea/npm-run-all, false, false, "npm-run-all","MIT"
+feross/simple-peer, false, false, "simple-peer","MIT"
+fnando/i18n-js, false, false, 
+embark-framework/embark, false, true, "root","MIT"
+mroderick/PubSubJS, true, false, "pubsub-js","MIT"
+joshwcomeau/guppy, false, true, "guppy","ISC"
+npm/node-semver, false, false, "semver","ISC"
+maximegris/angular-electron, true, false, "angular-electron",
+JamieMason/ImageOptim-CLI, false, true, "imageoptim-cli","MIT"
+Alex-D/Trumbowyg, true, false, "trumbowyg","MIT"
+awslabs/aws-serverless-express, true, false, "@vendia/serverless-express","Apache-2.0"
+bootstrap-tagsinput/bootstrap-tagsinput, false, false, "bootstrap-tagsinput","MIT"
+duo-labs/cloudmapper, false, false, 
+lmenezes/cerebro, true, false, "cerebro","MIT"
+danburzo/percollate, true, false, "percollate","MIT"
+testem/testem, true, false, "testem","MIT"
+zenoamaro/react-quill, false, true, "react-quill","MIT"
+paulmillr/es6-shim, false, false, "es6-shim","MIT"
+CookPete/react-player, false, true, "react-player","MIT"
+ml5js/ml5-library, true, false, "ml5","MIT"
+rsuite/rsuite, true, false, "rsuite","MIT"
+yeoman/yo, true, false, "yo","BSD-2-Clause"
+sunspot/sunspot, false, false, 
+joshwcomeau/react-flip-move, false, true, "react-flip-move","MIT"
+linuxmint/cinnamon, false, false, 
+mikolajdobrucki/ikonate, true, false, "ikonate","MIT"
+terwanerik/ScrollTrigger, true, false, "@terwanerik/scrolltrigger","MIT"
+bevacqua/rome, false, true, "@bevacqua/rome","MIT"
+danger/danger-js, false, true, "danger","MIT"
+tapio/live-server, false, false, "live-server","MIT"
+dherault/serverless-offline, true, false, "serverless-offline","MIT"
+RafalWilinski/express-status-monitor, true, false, "express-status-monitor","MIT"
+timqian/chart.xkcd, true, false, "chart.xkcd","MIT"
+smooth-code/loadable-components, false, true, ,
+csscomb/csscomb.js, true, false, "csscomb","MIT"
+addyosmani/psi, false, false, "psi","Apache-2.0"
+spark-notebook/spark-notebook, false, false, 
+styletron/styletron, false, true, "styletron-monorepo","MIT"
+frontend-collective/react-sortable-tree, false, true, "react-sortable-tree","MIT"
+wendux/fly, false, false, "flyio","MIT"
+alanzhangzm/Photon, true, false, "photon","Apache-2.0"
+isaacs/node-lru-cache, true, false, "lru-cache","ISC"
+oauthjs/node-oauth2-server, true, false, "oauth2-server","MIT"
+KyleAMathews/typography.js, false, true, ,
+Qix-/color, false, false, "color","MIT"
+midwayjs/pandora, false, false, "pandora.js","MIT"
+sindresorhus/ow, false, false, "ow","MIT"
+konvajs/react-konva, false, false, "react-konva","MIT"
+sindresorhus/create-dmg, false, false, "create-dmg","MIT"
+stereobooster/react-snap, false, true, "react-snap","MIT"
+pahen/madge, false, false, "madge","MIT"
+parallel-js/parallel.js, false, true, "paralleljs","MIT"
+lukeed/pwa, false, false, ,
+apostrophecms/apostrophe, false, false, "apostrophe","MIT"
+kamranahmedse/pennywise, true, true, "pennywise","MIT"
+nearform/node-clinic, false, false, "clinic","MIT"
+theturtle32/WebSocket-Node, false, false, "websocket","Apache-2.0"
+tutao/tutanota, true, false, "tutanota","GPL-3.0"
+mathieudutour/medium-to-own-blog, true, false, "medium-to-own-blog","MIT"
+huangjianke/Gitter, true, false, "Gitter","MIT"
+tilemill-project/tilemill, true, false, "tilemill",
+andywer/webpack-blocks, false, true, ,
+seiyria/bootstrap-slider, false, false, "bootstrap-slider","MIT"
+kylestetz/CLNDR, true, false, "clndr","MIT"
+deanoemcke/thegreatsuspender, true, false, "thegreatsuspender","GPLv2"
+bitpay/copay, false, false, 
+react-native-community/react-native-modal, false, true, "react-native-modal","MIT"
+ssbc/patchwork, true, false, "ssb-patchwork","AGPL-3.0"
+egoist/docute, true, false, "docute","MIT"
+ramon82/zuck.js, false, false, "zuck.js","MIT"
+moleculerjs/moleculer, true, false, "moleculer","MIT"
+microsoft/TypeScriptSamples, false, false, 
+tellform/tellform, true, false, "TellForm","MIT"
+mcollina/autocannon, false, false, "autocannon","MIT"
+r-spacex/SpaceX-API, true, false, "spacex-api","Apache-2.0"
+Koenkk/zigbee2mqtt, false, false, "zigbee2mqtt","GPL-3.0"
+nuxt/vue-meta, false, true, "vue-meta","MIT"
+microsoft/vscode-cpptools, false, false, 
+trufflesuite/ganache-cli, true, false, "root","MIT"
+FormidableLabs/electron-webpack-dashboard, false, true, "webpack-dashboard-app","MIT"
+hectahertz/react-native-typography, false, true, "react-native-typography","MIT"
+RubyLouvre/anu, false, false, "anujs","Apache-2.0"
+babel/babel-eslint, false, true, "babel-eslint","MIT"
+NeXTs/Jets.js, false, false, "jets","MIT"
+Shopify/polaris-react, false, true, "polaris",
+gijsroge/tilt.js, false, true, "tilt.js","MIT"
+jondot/react-flight, false, true, "react-flight","MIT"
+tonytomov/jqGrid, true, false, "jqGrid",
+honestbleeps/Reddit-Enhancement-Suite, false, true, "reddit-enhancement-suite","GPL-3.0"
+marcbachmann/node-html-pdf, true, false, "html-pdf","MIT"
+ppoffice/hexo-theme-icarus, false, false, "hexo-theme-icarus","MIT"
+crazycodeboy/GitHubPopular, false, false, "GitHubPopular",
+WebGoat/WebGoat, false, false, 
+redom/redom, true, false, "redom","MIT"
+alexa/alexa-skills-kit-sdk-for-nodejs, false, false, "alexa-skills-kit-sdk-for-nodejs",
+dyq086/wepy-mall, false, false, "wepy-mall","MIT"
+EFForg/https-everywhere, false, false, 
+olifolkerd/tabulator, true, true, "tabulator-tables","MIT"
+vuejs/eslint-plugin-vue, false, false, "eslint-plugin-vue","MIT"
+melonjs/melonJS, true, false, "melonjs","MIT"
+zdhxiong/mdui, true, false, "mdui","MIT"
+think2011/localResizeIMG, false, true, "lrz","MIT"
+reactjs/react-codemod, false, true, "react-codemod","BSD-3-Clause"
+Jannchie/Historical-ranking-data-visualization-based-on-d3.js, false, false, 
+compodoc/compodoc, true, false, "@compodoc/compodoc","MIT"
+axe312ger/sqip, false, true, "sqip-monorepo",
+19majkel94/type-graphql, true, false, "type-graphql","MIT"
+iamceege/tooltipster, false, false, "tooltipster","MIT"
+LiskHQ/lisk-sdk, false, true, "lisk-sdk-mono-repo","Apache-2.0"
+kciter/qart.js, false, true, "qartjs","GPL-3.0"
+cowbell/sharedrop, false, true, "sharedrop","MIT"
+krausest/js-framework-benchmark, true, false, "js-framework-benchmark","ISC"
+crimx/ext-saladict, false, true, "saladict","MIT"
+substance/substance, false, false, "substance","MIT"
+danvk/dygraphs, false, false, "dygraphs","MIT"
+salesforce-ux/design-system, true, false, "design-system","BSD-3-Clause"
+transitive-bullshit/create-react-library, true, true, "create-react-library","MIT"
+gilbarbara/react-joyride, true, false, "react-joyride","MIT"
+wix/react-templates, false, false, "react-templates","MIT"
+seatgeek/react-infinite, true, false, "react-infinite","BSD-3-Clause"
+ziishaned/dumper.js, false, true, "dumper.js","MIT"
+fisshy/react-scroll, true, false, "react-scroll","MIT"
+noble/noble, false, false, "noble","MIT"
+paulhodel/jexcel, false, false, "jspreadsheet-ce",
+gcanti/fp-ts, true, false, "fp-ts","MIT"
+spencermountain/spacetime, true, false, "spacetime","Apache-2.0"
+vuejs/vue-rx, false, true, "vue-rx","MIT"
+benjamn/recast, true, false, "recast","MIT"
+Qihoo360/wayne, false, false, 
+mifi/lossless-cut, false, true, "lossless-cut","GPL-2.0-only"
+kaorun343/vue-property-decorator, false, true, "vue-property-decorator","MIT"
+mozilla/readability, true, false, "@mozilla/readability","Apache-2.0"
+amwmedia/plop, false, true, "plop-monorepo","MIT"
+mcnamee/react-native-starter-kit, false, true, "reactnativestarterkit",
+samccone/bundle-buddy, false, true, "bundle-buddy",
+share/sharedb, false, false, "sharedb","MIT"
+palantir/plottable, false, true, "plottable","MIT"
+feross/thanks, false, false, "thanks","MIT"
+devongovett/regexgen, false, false, "regexgen","MIT"
+objectivehtml/FlipClock, false, false, "flipclock","MIT"
+thlorenz/doctoc, true, false, "doctoc","MIT"
+angular-ui-tree/angular-ui-tree, false, false, "angular-ui-tree","MIT"
+cnpm/cnpmjs.org, false, false, "cnpmjs.org","MIT"
+jhnns/rewire, true, false, "rewire","MIT"
+hapijs/boom, false, false, "@hapi/boom","BSD-3-Clause"
+rickbergfalk/sqlpad, true, false, "sqlpad-project",
+lyricat/wechat-format, false, false, 
+h2non/toxy, false, false, "toxy","MIT"
+curran/screencasts, false, false, 
+conventional-changelog/standard-version, false, false, "standard-version","ISC"
+hsnaydd/moveTo, false, true, "moveto","MIT"
+spdy-http2/node-spdy, true, false, "spdy","MIT"
+jagenjo/webglstudio.js, false, false, 
+felixrieseberg/windows-build-tools, true, false, "windows-build-tools","MIT"
+muaz-khan/RecordRTC, false, false, "recordrtc","MIT"
+vuejs/vue-test-utils, false, true, "vue-test-utils",
+flowjs/flow.js, false, false, "@flowjs/flow.js","MIT"
+nuxt/consola, false, true, "consola","MIT"
+posabsolute/jQuery-Validation-Engine, false, false, "jquery-validation-engine","ISC"
+niftylettuce/email-templates, false, true, "email-templates","MIT"
+missive/emoji-mart, false, true, "@emoji-mart/monorepo",
+bergie/create, false, false, "@bergie/create","MIT"
+NeXTs/Jets.js, false, false, "jets","MIT"
+Shopify/polaris-react, false, true, "polaris",
+gijsroge/tilt.js, false, true, "tilt.js","MIT"
+szwacz/electron-boilerplate, false, false, "electron-boilerplate",
+jondot/react-flight, false, true, "react-flight","MIT"
+tonytomov/jqGrid, true, false, "jqGrid",
+honestbleeps/Reddit-Enhancement-Suite, false, true, "reddit-enhancement-suite","GPL-3.0"
+marcbachmann/node-html-pdf, true, false, "html-pdf","MIT"
+ppoffice/hexo-theme-icarus, false, false, "hexo-theme-icarus","MIT"
+crazycodeboy/GitHubPopular, false, false, "GitHubPopular",
+WebGoat/WebGoat, false, false, 
+redom/redom, true, false, "redom","MIT"
+alexa/alexa-skills-kit-sdk-for-nodejs, false, false, "alexa-skills-kit-sdk-for-nodejs",
+dyq086/wepy-mall, false, false, "wepy-mall","MIT"
+EFForg/https-everywhere, false, false, 
+olifolkerd/tabulator, true, true, "tabulator-tables","MIT"
+vuejs/eslint-plugin-vue, false, false, "eslint-plugin-vue","MIT"
+melonjs/melonJS, true, false, "melonjs","MIT"
+zdhxiong/mdui, true, false, "mdui","MIT"
+think2011/localResizeIMG, false, true, "lrz","MIT"
+reactjs/react-codemod, false, true, "react-codemod","BSD-3-Clause"
+Jannchie/Historical-ranking-data-visualization-based-on-d3.js, false, false, 
+compodoc/compodoc, true, false, "@compodoc/compodoc","MIT"
+axe312ger/sqip, false, true, "sqip-monorepo",
+19majkel94/type-graphql, true, false, "type-graphql","MIT"
+iamceege/tooltipster, false, false, "tooltipster","MIT"
+LiskHQ/lisk-sdk, false, true, "lisk-sdk-mono-repo","Apache-2.0"
+kciter/qart.js, false, true, "qartjs","GPL-3.0"
+cowbell/sharedrop, false, true, "sharedrop","MIT"
+krausest/js-framework-benchmark, true, false, "js-framework-benchmark","ISC"
+crimx/ext-saladict, false, true, "saladict","MIT"
+substance/substance, false, false, "substance","MIT"
+danvk/dygraphs, false, false, "dygraphs","MIT"
+salesforce-ux/design-system, true, false, "design-system","BSD-3-Clause"
+transitive-bullshit/create-react-library, true, true, "create-react-library","MIT"
+gilbarbara/react-joyride, true, false, "react-joyride","MIT"
+wix/react-templates, false, false, "react-templates","MIT"
+seatgeek/react-infinite, true, false, "react-infinite","BSD-3-Clause"
+ziishaned/dumper.js, false, true, "dumper.js","MIT"
+fisshy/react-scroll, true, false, "react-scroll","MIT"
+noble/noble, false, false, "noble","MIT"
+paulhodel/jexcel, false, false, "jspreadsheet-ce",
+gcanti/fp-ts, true, false, "fp-ts","MIT"
+spencermountain/spacetime, true, false, "spacetime","Apache-2.0"
+vuejs/vue-rx, false, true, "vue-rx","MIT"
+benjamn/recast, true, false, "recast","MIT"
+Qihoo360/wayne, false, false, 
+mifi/lossless-cut, false, true, "lossless-cut","GPL-2.0-only"
+kaorun343/vue-property-decorator, false, true, "vue-property-decorator","MIT"
+mozilla/readability, true, false, "@mozilla/readability","Apache-2.0"
+amwmedia/plop, false, true, "plop-monorepo","MIT"
+mcnamee/react-native-starter-kit, false, true, "reactnativestarterkit",
+samccone/bundle-buddy, false, true, "bundle-buddy",
+share/sharedb, false, false, "sharedb","MIT"
+palantir/plottable, false, true, "plottable","MIT"
+feross/thanks, false, false, "thanks","MIT"
+devongovett/regexgen, false, false, "regexgen","MIT"
+objectivehtml/FlipClock, false, false, "flipclock","MIT"
+thlorenz/doctoc, true, false, "doctoc","MIT"
+angular-ui-tree/angular-ui-tree, false, false, "angular-ui-tree","MIT"
+cnpm/cnpmjs.org, false, false, "cnpmjs.org","MIT"
+jhnns/rewire, true, false, "rewire","MIT"
+hapijs/boom, false, false, "@hapi/boom","BSD-3-Clause"
+rickbergfalk/sqlpad, true, false, "sqlpad-project",
+lyricat/wechat-format, false, false, 
+h2non/toxy, false, false, "toxy","MIT"
+curran/screencasts, false, false, 
+conventional-changelog/standard-version, false, false, "standard-version","ISC"
+hsnaydd/moveTo, false, true, "moveto","MIT"
+spdy-http2/node-spdy, true, false, "spdy","MIT"
+jagenjo/webglstudio.js, false, false, 
+felixrieseberg/windows-build-tools, true, false, "windows-build-tools","MIT"
+muaz-khan/RecordRTC, false, false, "recordrtc","MIT"
+vuejs/vue-test-utils, false, true, "vue-test-utils",
+flowjs/flow.js, false, false, "@flowjs/flow.js","MIT"
+nuxt/consola, false, true, "consola","MIT"
+posabsolute/jQuery-Validation-Engine, false, false, "jquery-validation-engine","ISC"
+niftylettuce/email-templates, false, true, "email-templates","MIT"
+missive/emoji-mart, false, true, "@emoji-mart/monorepo",
+bergie/create, false, false, "@bergie/create","MIT"
+wechat-miniprogram/miniprogram-demo, false, false, "miniprogram-demo","MIT"
+react-native-community/react-native-blur, false, true, "@react-native-community/blur","MIT"
+AlloyTeam/PhyTouch, false, false, "phy-touch","MIT"
+ai/size-limit, false, false, ,
+protobuf-net/protobuf-net, false, false, 
+iammapping/wedding, true, false, "wedding",""
+bpmn-io/bpmn-js, true, false, "bpmn-js","SEE LICENSE IN LICENSE"
+stuyam/pressure, true, false, "pressure","MIT"
+kmagiera/react-native-gesture-handler, false, true, "react-native-gesture-handler","MIT"
+skulpt/skulpt, true, false, "skulpt","MIT"
+js-org/js.org, false, false, 
+BorisMoore/jsrender, false, false, "jsrender","MIT"
+redux-orm/redux-orm, true, false, "redux-orm","MIT"
+seek-oss/playroom, false, true, "playroom","MIT"
+developit/unistore, false, false, "unistore","MIT"
+improbable-eng/grpc-web, true, false, "grpc-web-ci","Apache-2.0"
+kern/filepizza, true, false, "filepizza","BSD-3-Clause"
+opentypejs/opentype.js, true, false, "opentype.js","MIT"
+postlight/mercury-parser, false, true, "@postlight/mercury-parser","MIT"
+typestack/class-validator, true, false, "class-validator","MIT"
+weui/react-weui, false, true, "react-weui","MIT"
+typestyle/typestyle, false, false, "typestyle","MIT"
+decaffeinate/decaffeinate, false, true, "decaffeinate","MIT"
+Polymer/lit-element, true, false, "lit-element","BSD-3-Clause"
+gruns/ImmortalDB, true, false, "immortal-db",
+sorrycc/roadhog, false, false, "roadhog","MIT"
+alibaba-fusion/next, false, false, "@alifd/next","MIT"
+Azure/autorest, false, false, 
+kulshekhar/ts-jest, true, false, "ts-jest","MIT"
+ckeditor/ckeditor5, false, false, "ckeditor5","GPL-2.0-or-later"
+fkling/astexplorer, false, false, 
+deck-of-cards/deck-of-cards, false, false, "deck-of-cards","MIT"
+jlord/sheetsee.js, false, false, "sheetsee.js","BSD-2-Clause"
+dankogai/js-base64, false, false, "js-base64","BSD-3-Clause"
+esdoc/esdoc, true, false, "esdoc","MIT"
+reach/reach-ui, false, true, "reach-ui","MIT"
+sindresorhus/execa, false, false, "execa","MIT"
+prettier/prettier-eslint, false, false, "prettier-eslint","MIT"
+Seedstars/django-react-redux-base, false, false, "django-react-redux-base","MIT"
+adaltas/node-csv, false, false, ,
+dataarts/webgl-globe, false, false, 
+bloomberg/bqplot, false, false, 
+oblador/react-native-progress, false, true, "react-native-progress","MIT"
+turbo/js, false, false, "turbojs","MIT"
+danvk/source-map-explorer, true, false, "source-map-explorer","Apache-2.0"
+docker/docker.github.io, false, false, 
+vuejs/vuefire, false, true, ,
+inspirit/jsfeat, false, false, "jsfeat",
+Automattic/simplenote-electron, true, false, "simplenote","GPL-2.0"
+dancormier/react-native-swipeout, true, false, "react-native-swipeout","MIT"
+s0md3v/AwesomeXSS, false, false, 
+kunalkapadia/express-mongoose-es6-rest-api, false, true, "express-mongoose-es6-rest-api","MIT"
+w3c/IntersectionObserver, false, false, 
+PaulLeCam/react-leaflet, false, true, "react-leaflet-repository",
+nodeca/pako, false, false, "pako","(MIT AND Zlib)"
+bestiejs/platform.js, true, false, "platform","MIT"
+prettier/prettier-vscode, false, true, "prettier-vscode","MIT"
+dabbott/react-express, false, true, "react-express","MIT"
+sunnylqm/react-native-storage, false, true, "react-native-storage","MIT"
+NervJS/taro-ui, false, true, "taro-ui","MIT"
+dequelabs/axe-core, true, false, "axe-core","MPL-2.0"
+bradley/Blotter, false, false, "blotter.js","MIT"
+akxcv/vuera, false, true, "vuera","MIT"
+GriddleGriddle/Griddle, true, false, "griddle-react","MIT"
+stripe/react-stripe-elements, false, true, "react-stripe-elements","MIT"
+segmentio/daydream, false, true, "daydream",
+css-doodle/css-doodle, false, false, "css-doodle","MIT"
+schteppe/cannon.js, false, false, "cannon",
+remarkjs/remark, false, false, "remark","MIT"
+cssstats/cssstats, false, true, "cssstats","MIT"
+0xfe/vexflow, true, false, "vexflow","MIT"
+Rob--W/cors-anywhere, false, false, "cors-anywhere","MIT"
+brunnolou/react-morph, true, false, "react-morph","MIT"
+evancohen/smart-mirror, false, false, "smart-mirror","MIT"
+alibaba/beidou, false, true, ,"MIT"
+webrtc/apprtc, true, false, "apprtc","BSD-3-Clause"
+gajus/swing, false, false, "swing","BSD-3-Clause"
+thlorenz/proxyquire, false, false, "proxyquire","MIT"
+MetinSeylan/Vue-Socket.io, false, false, "vue-socket.io","MIT"
+maxs15/react-native-modalbox, false, true, "react-native-modalbox","MIT"
+zeit/ms, true, false, "ms","MIT"
+jojoldu/junior-recruit-scheduler, false, true, "junior-recruit-scheduler","MIT"
+halilb/react-native-textinput-effects, false, true, "react-native-textinput-effects","MIT"
+reactjs/react-docgen, false, true, "react-docgen","MIT"
+nodegui/react-nodegui, false, true, "@nodegui/react-nodegui","MIT"
+zeit/release, false, true, "release","MIT"
+mashpie/i18n-node, true, false, "i18n","MIT"
+root-two/react-native-drawer, false, false, "react-native-drawer","MIT"
+e-oj/Magic-Grid, true, false, "magic-grid","MIT"
+hendricius/pizza-dough, false, false, 
+lmenezes/elasticsearch-kopf, false, false, "elasticsearch-kopf","MIT"
+webhintio/hint, false, true, "@hint/monorepo",
+sx1989827/DOClever, true, false, "DOClever",
+Selection-Translator/crx-selection-translate, false, false, 
+maptalks/maptalks.js, false, false, "maptalks","BSD-3-Clause"
+simov/grant, false, false, "grant","MIT"
+manuelbieh/geolib, false, true, "geolib","MIT"
+mathieudutour/git-sketch-plugin, true, false, "git-sketch-plugin","MIT"
+dagrejs/dagre, true, false, "dagre","MIT"
+apocas/dockerode, true, false, "dockerode","Apache-2.0"
+lingui/js-lingui, false, true, "js-lingui-workspaces","MIT"
+esbenp/pdf-bot, false, false, "pdf-bot","MIT"
+iamdustan/smoothscroll, false, true, "smoothscroll-polyfill","MIT"
+damianavila/RISE, false, false, 
+whitesmith/rubycritic, false, false, 
+vpulim/node-soap, true, false, "soap","MIT"
+boo1ean/casual, false, false, "casual","MIT"
+conversejs/converse.js, true, false, "converse.js","MPL-2.0"
+Mottie/tablesorter, false, false, "tablesorter","(MIT OR GPL-2.0)"
+MikeMcl/big.js, false, false, "big.js","MIT"
+margox/braft-editor, true, true, "braft-editor","MIT"
+TarekRaafat/autoComplete.js, true, false, "@tarekraafat/autocomplete.js","Apache-2.0"
+niieani/hashids.js, false, true, "hashids","MIT"
+firebase/firebaseui-web, true, false, "firebaseui","Apache-2.0"
+ngxs/store, false, true, "ngxs","MIT"
+1000hz/bootstrap-validator, false, false, "bootstrap-validator",
+vitaly-t/pg-promise, false, false, "pg-promise","MIT"
+klaussinani/tusk, false, true, "tusk","MIT"
+palmerhq/tsdx, false, true, "tsdx","MIT"
+Codeception/CodeceptJS, false, false, "codeceptjs","MIT"
+alexjoverm/typescript-library-starter, false, false, "--libraryname--","MIT"
+FaisalUmair/udemy-downloader-gui, true, true, "Udeler","ISC"
+neuland/micro-frontends, true, false, "micro-frontends","MIT"
+FormidableLabs/react-animations, false, false, "react-animations","MIT"
+diegohaz/arc, false, true, "arc",
+algolia/instantsearch.js, false, true, "instantsearch.js","MIT"
+wesbos/React-For-Beginners-Starter-Files, false, false, 
+Rocketseat/unform, false, true, "root","MIT"
+meefik/linuxdeploy, false, false, 
+surmon-china/vue-video-player, false, false, "vue-video-player","MIT"
+EsotericSoftware/spine-runtimes, false, false, 
+squaremo/amqp.node, true, false, "amqplib","MIT"
+slackapi/node-slack-sdk, false, false, ,
+trojanowski/react-apollo-hooks, false, true, "react-apollo-hooks","MIT"
+opencv/cvat, true, false, "cvat","MIT"
+ctrlplusb/easy-peasy, false, true, "easy-peasy","MIT"
+alohaeditor/Aloha-Editor, false, false, 
+OptimalBits/node_acl, false, false, "acl",
+omnidan/redux-undo, true, false, "redux-undo","MIT"
+ProtonMail/WebClient, false, true, "root","GPL-3.0"
+c9/core, false, false, "c9",
+framer/motion, false, true, "framer-motion--monorepo","MIT"
+reactjs/express-react-views, false, true, "express-react-views","BSD-3-Clause"
+bkimminich/juice-shop, false, false, "juice-shop","MIT"
+fb55/htmlparser2, true, false, "htmlparser2","MIT"
+Simonwep/pickr, true, false, "@simonwep/pickr","MIT"
+tomdionysus/foaas, true, false, "foaas","WTFPL"
+release-it/release-it, false, false, "release-it","MIT"
+twbs/bootlint, true, false, "bootlint","MIT"
+telegraf/telegraf, true, false, "telegraf","MIT"
+brookhong/Surfingkeys, false, false, "Surfingkeys","MIT"
+JetBrains/ring-ui, true, false, "@jetbrains/ring-ui","Apache-2.0"
+thedevs-network/kutt, true, false, "kutt","MIT"
+FrDH/mmenu-js, true, false, "mmenu-js","CC-BY-NC-4.0"
+bilibili-helper/bilibili-helper, false, false, "bilibili-helper-master","MIT"
+superman66/vue-axios-github, false, false, "vue-axios-github",
+alm-tools/alm, true, false, "alm","MIT"
+visionmedia/node-progress, false, false, "progress","MIT"
+webtorrent/instant.io, true, false, "instant.io","MIT"
+tleunen/babel-plugin-module-resolver, true, false, "babel-plugin-module-resolver","MIT"
+lirantal/dockly, false, true, "dockly","MIT"
+cloud-annotations/training, false, true, "cloud-annotations",
+marijnh/Eloquent-JavaScript, false, false, "Eloquent-JavaScript","CC BY-NC 3.0"
+lukeed/taskr, false, false, ,"MIT"
+kach/nearley, true, false, "nearley","MIT"
+berwin/Blog, false, false, 
+amilajack/eslint-plugin-compat, true, false, "eslint-plugin-compat","MIT"
+angular/material-start, true, false, "material-start","MIT"
+openannotation/annotator, false, false, "annotator",
+rgrove/rawgit, true, false, "rawgit",
+firebase/firebase-js-sdk, false, true, "firebase-wrapper","Apache-2.0"
+ElemeFE/element-react, false, false, "element-react","MIT"
+plasma-umass/browsix, false, false, "browsix","MIT"
+kvhnuke/etherwallet, true, false, "mew-custom","ISC"
+nhn/tui.image-editor, true, false, "root",
+bastillion-io/Bastillion, true, false, "bastillion","The Prosperity Public License"
+LeaVerou/bliss, true, false, "blissfuljs","MIT"
+pa11y/pa11y, true, false, "pa11y","LGPL-3.0-only"
+survivejs/webpack-book, true, false, "survivejs-webpack","CC BY-NC-ND"
+IonDen/ion.rangeSlider, false, false, "ion-rangeslider","MIT"
+muicss/loadjs, true, false, "loadjs","MIT"
+WarpPrism/AutoPiano, true, false, "autopiano",
+mavoweb/mavo, true, false, "mavo","MIT"
+loryjs/lory, false, true, "lory.js",
+ElemeFE/vue-amap, true, false, "vue-amap","MIT"
+CartoDB/cartodb, true, false, "cartodb-ui","BSD-3-Clause"
+30-seconds/30-seconds-of-react, false, false, 
+mplewis/src2png, false, true, "src2png","MIT"
+GoogleChromeLabs/critters, false, true, "critters-root","Apache-2.0"
+easysoft/zui, true, true, "zui","MIT"
+NickCarneiro/curlconverter, true, false, "curlconverter","MIT"
+Zarel/Pokemon-Showdown, false, false, "pokemon-showdown","MIT"
+nitin42/react-perf-devtool, false, true, "react-perf-devtool","MIT"
+lenve/JavaEETest, false, false, 
+react-spring/react-use-gesture, false, false, "@use-gesture/root","MIT"
+ondras/my-mind, false, false, ,
+shanalikhan/code-settings-sync, false, false, "code-settings-sync",
+zce/weapp-demo, false, false, 
+vinta/pangu.js, true, false, "pangu","MIT"
+htmlhint/HTMLHint, true, false, "htmlhint","MIT"
+pieroxy/lz-string, false, false, "lz-string","MIT"
+developit/express-es6-rest-api, false, false, "express-es6-rest-api","MIT"
+mpetroff/pannellum, false, false, "pannellum","MIT"
+TypeStrong/ts-loader, false, true, "ts-loader","MIT"
+serverless/serverless-graphql, false, true, "serverless-graphql",
+audreyt/ethercalc, true, true, "ethercalc",
+jcubic/jquery.terminal, true, false, "jquery.terminal","MIT"
+anvaka/ngraph.path, true, false, "ngraph.path","MIT"
+telerik/kendo-ui-core, true, false, "kendo-ui-core","Apache-2.0"
+malte-wessel/react-custom-scrollbars, false, true, "react-custom-scrollbars","MIT"
+oblador/react-native-lightbox, false, false, "react-native-lightbox","MIT"
+hustcc/echarts-for-react, false, false, "echarts-for-react","MIT"
+twitter/twitter-text, false, false, 
+CCOSTAN/Home-AssistantConfig, false, false, 
+zeit/hazel, false, true, "hazel-server","MIT"
+auth0/angular2-jwt, true, false, "@auth0/angular-jwt",
+uw-labs/bloomrpc, false, true, "bloomrpc","LGPL-3.0-or-later"
+icebob/vue-express-mongo-boilerplate, false, true, "vue-express-mongo-boilerplate","MIT"
+RetireJS/retire.js, false, false, 
+webpack-contrib/copy-webpack-plugin, true, false, "copy-webpack-plugin","MIT"
+sproutcore/sproutcore, false, false, 
+TalkingData/inmap, false, false, "inmap","Apache-2.0"
+flitbit/diff, true, false, "deep-diff","MIT"
+atom/teletype, true, false, "teletype","MIT"
+Bogdan-Lyashenko/codecrumbs, false, false, "codecrumbs","BSD-3-Clause"
+inikulin/parse5, true, false, "parse5-build-scripts",
+tj/connect-redis, false, false, "connect-redis","MIT"
+marceljuenemann/angular-drag-and-drop-lists, false, false, "angular-drag-and-drop-lists","MIT"
+maisano/react-router-transition, false, false, "react-router-transition","MIT"
+posthtml/posthtml, true, false, "posthtml","MIT"
+sanctuary-js/sanctuary, false, false, "sanctuary","MIT"
+emadehsan/thal, false, false, "thal","ISC"
+reactjs/react-a11y, true, false, "react-a11y","MIT"
+wasdk/WebAssemblyStudio, true, false, "webassembly-studio","MIT"
+KhaosT/HAP-NodeJS, true, false, "hap-nodejs","Apache-2.0"
+ampproject/worker-dom, false, false, "@ampproject/worker-dom","Apache-2.0"
+ashtuchkin/iconv-lite, false, false, "iconv-lite","MIT"
+labs42io/clean-code-typescript, false, false, 
+EYHN/hexo-helper-live2d, true, true, "hexo-helper-live2d","GPL-2.0"
+yeoman/generator-chrome-extension, true, false, "generator-chrome-extension","BSD"
+netlify/staticgen, true, true, "staticgen","MIT"
+jakearchibald/idb, true, false, "idb","ISC"
+uber-web/baseui, false, true, "baseui","MIT"
+ahmadawais/create-guten-block, false, false, ,
+jerairrest/react-chartjs-2, false, false, "react-chartjs-2","MIT"
+Automattic/juice, true, false, "juice","MIT"
+jkchao/typescript-book-chinese, true, true, "typescript-book-chinese","ISC"
+ds300/patch-package, false, true, "patch-package","MIT"
+kimchi-project/kimchi, false, false, 
+macbre/phantomas, true, false, "phantomas","BSD-2-Clause"
+fram-x/FluidTransitions, false, true, "react-native-fluid-transitions",
+Polymer/pwa-starter-kit, true, false, "pwa-starter-kit","BSD-3-Clause"
+krishnasrinivas/wetty, false, true, "wetty","MIT"
+strongloop/loopback-next, true, false, "loopback-next","MIT"
+wojtekmaj/react-lifecycle-methods-diagram, false, true, "react-lifecycle-methods-diagram","MIT"
+ElemeFE/vue-infinite-scroll, false, false, "vue-infinite-scroll","MIT"
+Atyantik/react-pwa, true, false, "react-pwa","MIT"
+caiogondim/fast-memoize.js, true, false, "fast-memoize","MIT"
+mgechev/codelyzer, true, false, "codelyzer","MIT"
+Musish/Musish, false, true, "Musish","MIT"
+swup/swup, true, false, "swup","MIT"
+sstur/react-rte, false, true, "react-rte","ISC"
+mjswensen/themer, false, false, 
+huyingjie/Checklist-Checklist, true, false, ,
+peers/peerjs-server, true, false, "peer","MIT"
+wojtekmaj/react-pdf, false, true, "react-pdf","MIT"
+substack/node-mkdirp, false, false, "mkdirp","MIT"
+smooth-code/jest-puppeteer, false, true, ,
+React-Sight/React-Sight, false, true, "react-sight","MIT"
+mdn/browser-compat-data, true, false, "@mdn/browser-compat-data","CC0-1.0"
+jsdf/react-native-htmlview, false, true, "react-native-htmlview","ISC"
+npm/cli, true, false, "npm","Artistic-2.0"
+final-form/final-form, true, false, "final-form","MIT"
+skevy/graphiql-app, true, true, "graphiql-app","MIT"
+openstyles/stylus, true, false, "Stylus","GPL-3.0-only"
+angus-c/just, true, true, "just","MIT"
+rilyu/teaset, false, false, "teaset","MIT"
+tj/dox, true, false, "dox","MIT"
+bcoin-org/bcoin, false, false, "bcoin","MIT"
+go-shiori/shiori, false, false, 
+aws-samples/aws-serverless-workshops, false, false, "wild-rydes-workshops","Apache-2.0"
+benjycui/bisheng, false, false, ,
+binux/qiandao, false, false, 
+mozilla-b2g/gaia, false, false, "gaia",
+FormidableLabs/nuka-carousel, false, true, "nuka-carousel","MIT"
+dilame/instagram-private-api, true, false, "instagram-private-api","MIT"
+charliekassel/vuejs-datepicker, true, false, "vuejs-datepicker","MIT"
+sintaxi/surge, true, false, "surge","ISC"
+chandlerprall/Physijs, false, false, 
+angular/universal-starter, false, true, "ng-universal-demo","MIT"
+vue-generators/vue-form-generator, true, true, "vue-form-generator","MIT"
+coreui/coreui-free-react-admin-template, false, true, "@coreui/coreui-free-react-admin-template","MIT"
+miukimiu/react-kawaii, true, false, "react-kawaii","MIT"
+Smashing/smashing, false, false, 
+davidkpiano/react-redux-form, true, true, "react-redux-form","MIT"
+jekyll/jekyll-admin, true, true, "jekyll-admin","MIT"
+javierbyte/img2css, true, false, "img2css","BSD-3-Clause"
+simple-statistics/simple-statistics, false, true, "simple-statistics","ISC"
+canvg/canvg, false, false, "canvg","MIT"
+schteppe/p2.js, false, false, "p2",
+LaunchKit/LaunchKit, false, false, 
+appium/appium-desktop, true, false, "appium-desktop","Apache-2.0"
+captivationsoftware/react-sticky, false, true, "react-sticky","MIT"
+OrchardCMS/Orchard, false, false, 
+gilbitron/Raneto, false, false, "raneto","MIT"
+farzher/fuzzysort, false, false, "fuzzysort","MIT"
+notadd/notadd, false, true, "notadd-appliaction-starter","Apache-2.0"
+vitalets/react-native-extended-stylesheet, true, true, "react-native-extended-stylesheet","MIT"
+imfly/bitcoin-on-nodejs, true, true, "Bitcoin-on-Nodejs","MIT"
+ansman/validate.js, false, false, "validate.js","MIT"
+openstreetmap/iD, false, false, "iD","ISC"
+apollographql/apollo-tooling, true, false, "apollo-tooling-monorepo","MIT"
+mrdavidlaing/javascript-koans, false, false, 
+jgraph/drawio-desktop, false, true, "draw.io","Apache-2.0"
+lukeed/sockette, false, false, "sockette","MIT"
+guard/guard-livereload, false, false, 
+dcodeIO/bcrypt.js, false, false, "bcryptjs","MIT"
+renovatebot/renovate, false, true, "renovate","AGPL-3.0"
+mlaursen/react-md, false, true, "react-md","MIT"
+SAP/openui5, true, true, "openui5",
+stripe/stripe-node, false, true, "stripe","MIT"
+JetBrains/create-react-kotlin-app, false, false, ,
+doramart/DoraCMS, false, false, "doracms2","MIT"
+mholt/json-to-go, false, false, 
+nosir/obelisk.js, false, false, "obelisk.js","MIT"
+dleitee/strman, false, true, "strman","MIT"
+LinusBorg/portal-vue, false, true, "portal-vue","MIT"
+dollarshaveclub/shave, false, true, "shave","MIT"
+actionhero/actionhero, true, false, "actionhero","Apache-2.0"
+thisandagain/sentiment, false, false, "sentiment","MIT"
+gcanti/io-ts, true, false, "io-ts","MIT"
+dollarshaveclub/stickybits, false, true, "stickybits","MIT"
+BretFisher/udemy-docker-mastery, false, false, 
+securingsincity/react-ace, true, false, "react-ace","MIT"
+joeferner/redis-commander, true, false, "redis-commander","MIT"
+SOHU-Co/kafka-node, false, false, "kafka-node","MIT"
+lumapps/lumX, false, false, "official-lumx","MIT"
+Teradata/covalent, true, false, "covalent",
+toopay/bootstrap-markdown, false, false, "bootstrap-markdown","Apache-2.0"
+react-component/slider, false, false, "rc-slider","MIT"
+jonasschmedtmann/complete-javascript-course, false, false, 
+jquense/react-widgets, false, true, ,
+wesbos/Advanced-React, false, false, 
+npm/tink, true, false, "tink","Artistic-2.0"
+jondot/hygen, false, true, "hygen","MIT"
+kylefox/jquery-modal, false, false, "jquery-modal","MIT"
+GoogleChromeLabs/lighthousebot, false, true, "lighthousebot","Apache-2.0"
+andreruffert/rangeslider.js, false, false, 
+mattdesl/budo, true, false, "budo","MIT"
+NaoTu/DesktopNaotu, false, false, "desktopnaotu","MIT"
+brenden/node-webshot, false, false, "webshot","MIT"
+danwrong/restler, false, false, "restler","MIT"
+t9tio/cloudquery, true, false, "cloudquery","GPLv3"
+gruntjs/grunt-contrib-watch, false, false, "grunt-contrib-watch","MIT"
+adieuadieu/serverless-chrome, false, true, "serverless-chrome","MIT"
+skygragon/leetcode-cli, false, false, "leetcode-cli","MIT"
+expressjs/compression, false, false, "compression","MIT"
+workshopper/javascripting, true, false, "javascripting","MIT"
+rafrex/spa-github-pages, true, false, "spa-github-pages","MIT"
+sunoj/jjb, false, true, "jjb",
+json-schema-faker/json-schema-faker, true, false, "json-schema-faker","MIT"
+colyseus/colyseus, true, false, "@colyseus/monorepo",
+dmitry-zaets/redux-mock-store, true, false, "redux-mock-store","MIT"
+mozilla/voice-web, false, true, "voice-web","MPL-2.0"
+f/graphql.js, false, true, "graphql.js","MIT"
+sdras/array-explorer, true, false, "array-explorer",
+surveyjs/survey-library, false, false, "survey-library",
+dagrejs/dagre-d3, true, false, "dagre-d3","MIT"
+stdlib-js/stdlib, false, false, "@stdlib/stdlib","Apache-2.0 AND BSL-1.0"
+loiane/javascript-datastructures-algorithms, true, false, "javascript-datastructures-algorithms","MIT"
+typestack/routing-controllers, true, false, "routing-controllers","MIT"
+webrtcHacks/adapter, false, false, "webrtc-adapter","BSD-3-Clause"
+jssor/slider, false, false, "jssor-slider","MIT"
+alangpierce/sucrase, false, true, "sucrase","MIT"
+ajaxorg/ace-builds, false, false, "ace-builds","BSD-3-Clause"
+osano/cookieconsent, true, false, "cookieconsent","MIT"
+mar10/fancytree, true, false, "jquery.fancytree","MIT"
+STRML/strml.net, false, true, "strml.net","MIT"
+diegohaz/constate, false, true, "constate","MIT"
+bitshadow/iconate, false, false, "iconate","MIT"
+americanexpress/jest-image-snapshot, true, false, "jest-image-snapshot","Apache-2.0"
+googleapis/google-cloud-node, false, false, "google-cloud-node","Apache-2.0"
+jwplayer/jwplayer, true, false, "jwplayer","CC-BY-NC-SA-3.0"
+Justineo/vue-awesome, true, false, "vue-awesome","MIT"
+brutaldesign/swipebox, false, false, 
+baidu/amis, false, false, "amis","Apache-2.0"
+JpressProjects/jpress, false, false, 
+mbloch/mapshaper, true, false, "mapshaper","MPL-2.0"
+Binaryify/vue-tetris, true, false, "vue-tetris",
+apifytech/apify-js, false, false, "apify","Apache-2.0"
+Robdel12/DropKick, false, true, "dropkickjs","MIT"
+ReactTraining/react-media, false, false, "react-media","MIT"
+simplecrawler/simplecrawler, true, false, "simplecrawler","BSD-2-Clause"
+xpbrew/cordova-sqlite-storage, false, false, "cordova-sqlite-storage","MIT"
+sutoiku/formula.js, false, false, "formulajs",
+gsuitedevs/apps-script-samples, true, true, "gsuite-apps-script-samples","MIT"
+nomcopter/react-mosaic, false, true, "react-mosaic-component","Apache-2.0"
+socketio/socket.io-redis, true, false, "@socket.io/redis-adapter","MIT"
+vega/vega-lite, false, true, "vega-lite","BSD-3-Clause"
+microsoft/vscode-react-native, true, false, "vscode-react-native","%reactNative.license%"
+krasimir/navigo, false, true, "navigo","MIT"
+benmosher/eslint-plugin-import, false, false, "eslint-plugin-import","MIT"
+firebase/firebase-tools, false, false, "firebase-tools","MIT"
+FormidableLabs/react-live, false, true, "react-live","MIT"
+hundredrabbits/Orca, false, false, 
+gothinkster/node-express-realworld-example-app, false, true, "conduit-node","ISC"
+microsoft/tsdoc, false, false, 
+bluzi/jsonstore, true, false, "new","MIT"
+daybrush/moveable, true, false, "moveable-root","MIT"
+DonJayamanne/pythonVSCode, true, false, "python","MIT"
+stackshareio/awesome-stacks, true, false, "awesome-stacks","MIT"
+swagger-api/swagger-js, true, false, "swagger-client","Apache-2.0"
+sindresorhus/meow, false, false, "meow","MIT"
+mdn/webextensions-examples, false, false, "webextensions-examples","MIT"
+mzgoddard/hard-source-webpack-plugin, false, false, "hard-source-webpack-plugin","ISC"
+ondras/wwwsqldesigner, false, false, 
+ionic-team/ionic-native, true, false, "awesome-cordova-plugins","MIT"
+layabox/layaair, true, false, "ts","SEE LICENSE IN LICENSE.md"
+GoogleChromeLabs/preload-webpack-plugin, true, false, "preload-webpack-plugin","Apache-2.0"
+mozilla-iot/gateway, true, false, "webthings-gateway","MPL-2.0"
+mozilla/serviceworker-cookbook, false, false, "serviceworker-cookbook","MIT"
+keremciu/sketch-iconfont, false, false, 
+GoogleChrome/accessibility-developer-tools, false, false, "accessibility-developer-tools","Apache-2.0"
+feimosi/baguetteBox.js, true, false, "baguettebox.js","MIT"
+fridays/next-routes, true, false, "next-routes","MIT"
+EventEmitter2/EventEmitter2, false, false, "eventemitter2","MIT"
+nakupanda/bootstrap3-dialog, false, false, "bootstrap3-dialog","MIT"
+mozilla/source-map, false, false, "source-map","BSD-3-Clause"
+uNmAnNeR/imaskjs, true, false, "imask","MIT"
+orbitjs/orbit, false, true, "@orbit/orbit","MIT"
+bytedance/xgplayer, false, false, "xgplayer","MIT"
+vscode-icons/vscode-icons, true, false, "vscode-icons","MIT"
+acarl005/join-monster, true, false, "join-monster","MIT"
+brrd/Abricotine, false, false, "abricotine","GPL-3.0"
+ant-design/babel-plugin-import, false, false, "babel-plugin-import","MIT"
+tridactyl/tridactyl, false, true, "tridactyl","Apache-2.0"
+sindresorhus/type-fest, false, false, "type-fest","(MIT OR CC0-1.0)"
+estools/escodegen, false, false, "escodegen","BSD-2-Clause"
+wanasit/chrono, false, false, "chrono-node","MIT"
+nachos-ui/nachos-ui, true, true, "nachos-ui","MIT"
+hasura/graphqurl, true, false, "graphqurl","Apache-2.0"
+getflourish/Sketch-Style-Inventory, false, false, 
+appbaseio/mirage, false, true, "mirage","Apache-2.0"
+webpack/webpack-dev-middleware, true, false, "webpack-dev-middleware","MIT"
+jsxstyle/jsxstyle, true, false, "jsxstyle-monorepo","Apache-2.0"
+tinytacoteam/zazu, true, false, "zazu","MIT"
+pump-io/pump.io, false, false, "pump.io","Apache-2.0"
+youtube/spfjs, false, false, "spf","MIT"
+web-push-libs/web-push, true, false, "web-push","MPL-2.0"
+felixrieseberg/npm-windows-upgrade, true, false, "npm-windows-upgrade","MIT"
+gatsbyjs/gatsby-starter-blog, true, false, "gatsby-starter-blog","0BSD"
+simplabs/ember-simple-auth, false, true, ,
+FortAwesome/react-fontawesome, true, false, "@fortawesome/react-fontawesome","MIT"
+leapmotion/leapjs, true, false, "leapjs","Apache-2.0"
+noelboss/featherlight, false, false, "featherlight",
+gre/gl-react, false, true, "gl-react-dev","MIT"
+glennreyes/graphpack, false, true, "graphpack","MIT"
+typpo/textbelt, false, true, "TextBelt",
+Flipkart/recyclerlistview, false, false, "recyclerlistview","Apache-2.0"
+NickPiscitelli/Glider.js, true, true, "glider-js","MIT"
+pburtchaell/redux-promise-middleware, true, false, "redux-promise-middleware","MIT"
+d3/d3-shape, false, true, "d3-shape","ISC"
+pantsel/konga, true, false, "kongadmin","MIT"
+mumuy/data_location, false, false, 
+fregante/iphone-inline-video, true, false, "iphone-inline-video","MIT"
+prescottprue/react-redux-firebase, true, false, "react-redux-firebase","MIT"
+ifandelse/machina.js, false, false, "machina",
+francoischalifour/medium-zoom, false, true, "medium-zoom","MIT"
+bnoordhuis/node-heapdump, false, false, "heapdump","ISC"
+Sly777/ran, false, true, "ran-boilerplate","MIT"
+sindresorhus/trash, false, false, "trash","MIT"
+robinmoisson/staticrypt, false, false, 
+timoxley/functional-javascript-workshop, false, false, "functional-javascript-workshop","MIT"
+lorenzofox3/Smart-Table, true, true, "angular-smart-table","MIT"
+pikapkg/pack, true, false, "@pika/pack","MIT"
+prisma/graphql-request, false, true, "graphql-request","MIT"
+huangshuwei/vue-easytable, false, true, "vue-easytable","MIT"
+google/gts, true, false, "gts","Apache-2.0"
+nteract/semiotic, false, true, "semiotic","Apache-2.0"
+yortus/asyncawait, true, false, "asyncawait","MIT"
+alanshaw/markdown-pdf, true, false, "markdown-pdf","MIT"
+zotero/zotero, true, false, "zotero",""
+github/hotkey, true, false, "@github/hotkey","MIT"
+redux-zero/redux-zero, false, true, "redux-zero","MIT"
+ionic-team/ionic-cli, false, false, "ionic-cli",
+HenrikJoreteg/hjs-webpack, false, false, "hjs-webpack","MIT"
+sindresorhus/emoj, false, false, "emoj","MIT"
+PeachScript/vue-infinite-loading, false, false, "vue-infinite-loading","MIT"
+1995eaton/chromium-vim, false, false, "chromium-vim",
+patrick-steele-idem/morphdom, true, false, "morphdom","MIT"
+facebookincubator/redux-react-hook, false, true, "redux-react-hook","MIT"
+redux-loop/redux-loop, false, true, "redux-loop","MIT"
+alexreardon/memoize-one, false, true, "memoize-one","MIT"
+yahoo/fluxible, false, false, "fluxible-repo","BSD-3-Clause"
+Ice-Hazymoon/MikuTools, false, false, "miku-tools",
+yinxin630/fiora, false, true, "fiora","MIT"
+drublic/css-modal, false, true, "css-modal","MIT"
+aholachek/react-flip-toolkit, false, true, "react-flip-toolkit",
+mourner/suncalc, true, false, "suncalc",
+jsonform/jsonform, false, false, "jsonform","MIT"
+academicpages/academicpages.github.io, false, false, "minimal-mistakes","MIT"
+googlemaps/google-maps-services-js, true, false, "@googlemaps/google-maps-services-js","Apache-2.0"
+cezaraugusto/You-Dont-Know-JS, false, false, 
+nodejs/node-chakracore, false, false, 
+ecomfe/echarts-gl, false, false, "echarts-gl",
+microjs/microjs.com, true, false, "microjs.com",
+Chimeejs/chimee, false, false, "chimee","MIT"
+retextjs/retext, false, false, ,"MIT"
+zemirco/json2csv, true, false, "json2csv","MIT"
+Foliotek/Croppie, true, false, "croppie","MIT"
+TargetProcess/tauCharts, true, false, "taucharts","Apache-2.0"
+roman01la/html-to-react-components, false, true, "html-to-react-components","MIT"
+coopernurse/node-pool, false, false, "generic-pool","MIT"
+justjavac/Programming-Alpha-To-Omega, false, false, 
+NUKnightLab/TimelineJS3, true, false, "@knight-lab/timelinejs","MPL-2.0"
+jeremykenedy/laravel-auth, false, false, ,
+hapijs/hawk, false, false, "hawk","BSD-3-Clause"
+i6mi6/react-native-parallax-scroll-view, true, false, "react-native-parallax-scroll-view","ISC"
+frontarm/navi, false, true, ,
+lavas-project/lavas, false, false, "lavas","ISC"
+zhihu/griffith, false, true, ,"MIT"
+ericelliott/cuid, true, false, "cuid","MIT"
+kaimallea/isMobile, false, true, "ismobilejs","MIT"
+voronianski/oceanic-next-color-scheme, false, false, 
+huiyan-fe/mapv, true, true, "mapv","ISC"
+LLK/scratch-gui, true, false, "scratch-gui","BSD-3-Clause"
+egoist/vue-content-loader, false, true, "vue-content-loader","MIT"
+cerebral/cerebral, false, false, "cerebral-monorepo","MIT"
+tlaverdure/laravel-echo-server, true, true, "laravel-echo-server","MIT"
+reactjs/react-tabs, false, true, "react-tabs","MIT"
+kmagiera/react-native-reanimated, false, true, "react-native-reanimated","MIT"
+illuspas/Node-Media-Server, true, false, "node-media-server","MIT"
+hackclub/hackclub, false, false, 
+electrode-io/electrode, false, false, "electrode","Apache-2.0"
+gajus/redux-immutable, false, false, "redux-immutable","BSD-3-Clause"
+tagspaces/tagspaces, false, true, "tagspaces","AGPL-3.0"
+seejohnrun/haste-server, true, false, "haste",
+coreybutler/node-windows, true, false, "node-windows","MIT"
+klaussinani/qoa, false, false, "qoa","MIT"
+tschaub/gh-pages, true, false, "gh-pages","MIT"
+pstadler/flightplan, true, false, "flightplan","MIT"
+jonthornton/jquery-timepicker, true, false, "timepicker","MIT"
+danmactough/node-feedparser, true, false, "feedparser","MIT"
+flowplayer/flowplayer, false, false, "flowplayer","GPLv3"
+github/time-elements, true, false, "@github/time-elements","MIT"
+canjs/canjs, false, false, "can",
+hyperledger/composer, false, false, "composer","Apache-2.0"
+helpers/handlebars-helpers, false, false, "handlebars-helpers","MIT"
+sidorares/node-mysql2, true, false, "mysql2","MIT"
+fengyuanchen/compressorjs, true, false, "compressorjs","MIT"
+wix/react-native-ui-lib, false, false, "react-native-ui-lib","MIT"
+qishibo/AnotherRedisDesktopManager, true, false, "another-redis-desktop-manager",
+jvalen/pixel-art-react, true, false, "pixel-art-react","MIT"
+jdorfman/awesome-json-datasets, false, false, ,"CC0 1.0"
+openaddresses/openaddresses, true, false, "oa","BSD"
+browserify/watchify, false, false, "watchify","MIT"
+tomastrajan/angular-ngrx-material-starter, true, false, "angular-ngrx-material-starter","MIT"
+google/clasp, true, false, "@google/clasp","Apache-2.0"
+ng-select/ng-select, false, true, ,
+taylorhakes/fecha, true, true, "fecha","MIT"
+layerJS/layerJS, false, false, "layerJS",
+sockjs/sockjs-node, true, false, "sockjs","MIT"
+prettier/eslint-config-prettier, true, false, ,
+Kong/mashape-oauth, false, false, "mashape-oauth","MIT"
+trufflesuite/ganache, true, false, "root","MIT"
+binggg/mrn, false, false, "mrn","MIT"
+montagejs/collections, false, false, "collections","BSD-3-Clause"
+Vestride/Shuffle, false, false, "shufflejs","MIT"
+volkanceylan/Serenity, false, false, 
+wilk/microjob, true, false, "microjob","MIT"
+ottomatica/slim, true, false, "slim","Apache-2.0"
+serkanyersen/ifvisible.js, false, true, "ifvisible.js","MIT"
+andrewrk/groovebasin, false, false, "groovebasin","MIT"
+timdown/rangy, false, false, "rangy",
+nodeca/pica, false, false, "pica","MIT"
+maticzav/graphql-shield, false, true, ,"MIT"
+robicch/jQueryGantt, false, false, 
+xmppjs/xmpp.js, true, false, ,
+apostrophecms/sanitize-html, false, false, "sanitize-html","MIT"
+xiaolin/react-image-gallery, false, true, "react-image-gallery","MIT"
+db-migrate/node-db-migrate, true, false, "db-migrate","MIT"
+vitmalina/w2ui, false, false, "w2ui","MIT"
+IceEnd/Yosoro, false, true, "yosoro","GPL-3.0"
+nuxt/create-nuxt-app, false, true, "create-nuxt-app","MIT"
+ExpressGateway/express-gateway, true, false, "express-gateway","Apache-2.0"
+pyllyukko/user.js, false, false, 
+liferay/senna.js, true, false, "senna","BSD-3-Clause"
+sasstools/sass-lint, true, false, "sass-lint","MIT"
+didi/mpx, false, false, "mpx-monorepo",
+wenzhixin/multiple-select, false, false, "multiple-select","MIT"
+fregante/object-fit-images, false, true, "object-fit-images","MIT"
+xgfe/react-native-datepicker, false, false, "react-native-datepicker","MIT"
+SebastianM/angular-google-maps, false, true, ,"MIT"
+djfarrelly/MailDev, true, false, "maildev","MIT"
+NicolasCARPi/jquery_jeditable, true, false, "jquery-jeditable","MIT"
+sequelize/sequelize-auto, false, false, "sequelize-auto","MIT"
+carbon-design-system/carbon, false, true, "carbon","Apache-2.0"
+sindresorhus/electron-store, false, false, "electron-store","MIT"
+alexfernandez/loadtest, false, false, "loadtest","MIT"
+snyk/snyk, true, false, "snyk","Apache-2.0"
+givanz/VvvebJs, true, false, "vvvebjs","Apache-2.0"
+microsoft/vscode-chrome-debug, true, false, "debugger-for-chrome","SEE LICENSE IN LICENSE.txt"
+taylorhakes/promise-polyfill, true, false, "promise-polyfill","MIT"
+preboot/angularjs-webpack, false, false, "angular-webpack-workflow","MIT"
+BinaryMuse/fluxxor, false, false, "fluxxor","MIT"
+jossmac/react-images, false, true, "react-images","MIT"
+jhu-ep-coursera/fullstack-course4, false, false, 
+davidtheclark/cosmiconfig, false, false, "cosmiconfig","MIT"
+mgcrea/node-xlsx, true, false, "node-xlsx","Apache-2.0"
+mattlewis92/angular-calendar, true, false, "angular-calendar","MIT"
+zxlie/FeHelper, false, false, "fehelper","ISC"
+observing/pre-commit, false, false, "pre-commit","MIT"
+vuesion/vuesion, true, false, "vuesion","MIT"
+DemocracyOS/democracyos, false, false, "democracyos","GPL-3.0"
+sindresorhus/gulp-imagemin, false, false, "gulp-imagemin","MIT"
+apache/cordova-ios, true, false, "cordova-ios","Apache-2.0"
+Addepar/ember-table, false, true, "ember-table","BSD-3-Clause"
+OmniDB/OmniDB, false, false, 
+sodium-friends/learntocrypto, false, false, "learntocrypto","ISC"
+mattdesl/canvas-sketch, true, false, "canvas-sketch","MIT"
+mscdex/busboy, false, false, "busboy",
+kevinchappell/formBuilder, true, false, "formBuilder","MIT"
+firekylin/firekylin, true, true, "firekylin","MIT"
+toorshia/justgage, true, false, "justgage","MIT"
+sendgrid/sendgrid-nodejs, false, false, "sendgrid","SEE LICENSE"
+youzan/zent, false, true, "zent-repository","MIT"
+valor-software/ng2-file-upload, true, false, "ng2-file-upload-base","MIT"
+10bestdesign/jqvmap, false, false, "jqvmap","(MIT OR GPL-3.0)"
+AntSwordProject/antSword, true, false, "antsword","MIT"
+ctimmerm/axios-mock-adapter, true, false, "axios-mock-adapter","MIT"
+parse-community/parse-server-example, false, false, "parse-server-example","MIT"
+standard/eslint-config-standard, false, false, "eslint-config-standard","MIT"
+dessant/buster, false, true, "buster","GPL-3.0-only"
+bitjson/typescript-starter, true, false, "typescript-starter","MIT"
+idiotWu/smooth-scrollbar, true, false, "smooth-scrollbar","MIT"
+eykrehbein/strest, false, false, "@strest/cli","MIT"
+kenperlin/chalktalk, false, false, 
+archiverjs/node-archiver, true, false, "archiver","MIT"
+microsoft/vscode-extension-samples, true, false, "vsc-extension-samples",
+DominicTobias/react-image-crop, false, true, "react-image-crop","ISC"
+thinkcmf/thinkcmf, false, false, 
+nytimes/kyt, false, true, ,"Apache-2.0"
+elbywan/wretch, true, false, "wretch","MIT"
+ElemeFE/page-skeleton-webpack-plugin, true, false, "page-skeleton-webpack-plugin","MIT"
+jdesboeufs/connect-mongo, false, true, "connect-mongo","MIT"
+coderiety/react-list, true, false, "react-list","MIT"
+zeit/next-plugins, false, true, "next-plugins",
+MoonHighway/learning-react, false, false, 
+GoogleChromeLabs/puppeteer-examples, false, true, "puppeteer-examples","Apache-2.0"
+openseadragon/openseadragon, true, false, "openseadragon","BSD-3-Clause"
+listen1/listen1_desktop, true, false, "listen1","MIT"
+nrwl/nx, false, true, "@nrwl/nx-source","MIT"
+valor-software/ng2-dragula, true, false, "demo",
+unifiedjs/unified, false, false, "unified","MIT"
+pinterest/teletraan, false, false, 
+lukehaas/Scrollify, false, false, "jquery-scrollify","MIT"
+FolioReader/FolioReader-Android, false, false, 
+jpillora/notifyjs, false, false, "notifyjs-browser","MIT"
+yuku/jquery-textcomplete, false, false, "root",
+GeekyAnts/react-native-easy-grid, false, false, "react-native-easy-grid",
+GoogleCloudPlatform/nodejs-docs-samples, false, false, "nodejs-docs-samples","Apache-2.0"
+oussamahamdaoui/forgJs, true, false, "@cesium133/forgjs","MIT"
+grpc/grpc-node, false, false, "grpc-js-repository","Apache-2.0"
+tcoopman/image-webpack-loader, true, false, "image-webpack-loader","MIT"
+wwayne/react-tooltip, false, true, "react-tooltip","MIT"
+noble/bleno, false, false, "bleno","MIT"
+material-components/material-components-web-react, true, false, ,"MIT"
+browserless/chrome, true, false, "browserless-chrome","GPL-3.0"
+greasemonkey/greasemonkey, false, false, "Greasemonkey",
+gmetais/YellowLabTools, false, false, "yellowlabtools","GPL-2.0"
+sindresorhus/open, false, false, "open","MIT"
+frctl/fractal, true, false, "fractal",
+bluesmoon/node-geoip, false, false, "geoip-lite","Apache-2.0"
+gajus/babel-plugin-react-css-modules, false, false, "babel-plugin-react-css-modules","BSD-3-Clause"
+robinweser/fela, false, false, "fela",
+microsoft/VoTT, true, false, "vott","MIT"
+developit/stockroom, false, false, "stockroom","MIT"
+yued-fe/lulu, false, false, "lu2","MIT"
+TylerBrock/mongo-hacker, false, false, "mongo-hacker","MIT"
+DeborahK/Angular-GettingStarted, false, false, 
+yahoo/serialize-javascript, true, false, "serialize-javascript","BSD-3-Clause"
+dollarshaveclub/reframe.js, false, true, "reframe.js","MIT"
+origamitower/folktale, true, false, ,
+oracle/node-oracledb, false, false, "oracledb","Apache-2.0"
+evcohen/eslint-plugin-jsx-a11y, false, false, "eslint-plugin-jsx-a11y","MIT"
+clauderic/react-tiny-virtual-list, false, true, "react-tiny-virtual-list","MIT"
+sureskumar/sketch-isometric, false, false, 
+primus/eventemitter3, false, false, "eventemitter3","MIT"
+rvagg/through2, false, false, "through2","MIT"
+Tencent/QMUI_Web, false, true, "qmui_web","MIT"
+microsoft/azure-pipelines-tasks, true, false, "Agent.Tasks","MIT"
+QiShaoXuan/css_tricks, false, false, "css_tricks","ISC"
+davidroyer/vue2-editor, false, true, "vue2-editor","MIT"
+magwo/elevatorsaga, false, false, 
+mickhansen/graphql-sequelize, true, false, "graphql-sequelize","MIT"
+kefirjs/kefir, true, false, "kefir","MIT"
+streamlink/streamlink-twitch-gui, false, true, "streamlink-twitch-gui","MIT"
+webpack-contrib/file-loader, true, false, "file-loader","MIT"
+RemoteDebug/remotedebug-ios-webkit-adapter, true, false, "remotedebug-ios-webkit-adapter",
+solkimicreb/react-easy-state, true, false, "@risingstack/react-easy-state","MIT"
+imolorhe/altair, false, true, "altair","MIT"
+RadLikeWhoa/Countable, false, true, "countable","MIT"
+fluture-js/Fluture, false, false, "fluture","MIT"
+wit-ai/node-wit, false, false, "node-wit",
+webpro/reveal-md, true, false, "reveal-md","MIT"
+pomber/didact, false, false, "didact","MIT"
+andreaferretti/paths-js, true, false, "paths-js","Apache-2.0"
+MohammadYounes/AlertifyJS, false, false, "alertifyjs",
+xgrommx/rx-book, false, false, "RxJS","Apache 2"
+worseisbetter/galleria, false, false, "galleria","MIT"
+molefrog/wouter, false, false, "wouter","ISC"
+zcreativelabs/react-simple-maps, true, false, "react-simple-maps","MIT"
+node-gh/gh, true, false, "gh","BSD-3-Clause"
+neutrinojs/webpack-chain, false, true, "webpack-chain","MPL-2.0"
+valor-software/ng2-charts, true, false, "ng2-charts-demo",
+sindresorhus/slugify, false, false, "@sindresorhus/slugify","MIT"
+vowsjs/vows, true, false, "vows","Apache-2.0"
+notadd/neditor, true, false, "@notadd/neditor",
+YouCanBookMe/react-datetime, false, false, "react-datetime","MIT"
+datorama/akita, true, false, "akita","MIT"
+facebook/fbjs, false, true, "fbjs-build","MIT"
+screeps/screeps, true, false, "screeps","ISC"
+APIs-guru/openapi-directory, false, false, 
+wexond/desktop, false, true, "wexond",
+unlayer/react-email-editor, true, false, "react-email-editor","MIT"
+webpack/webpack.js.org, false, true, "webpack.js.org","CC BY 4.0"
+jimuyouyou/node-interview-questions, false, false, 
+saberland/saber, false, true, "saber","MIT"
+Ziv-Barber/officegen, false, false, "officegen","MIT"
+abouolia/sticky-sidebar, false, false, "sticky-sidebar","The MIT License (MIT)"
+typestack/class-transformer, true, false, "class-transformer","MIT"
+dabeng/OrgChart, true, false, "orgchart","MIT"
+pedronauck/react-adopt, false, true, "react-adopt","MIT"
+claudiajs/claudia-bot-builder, false, false, "claudia-bot-builder","MIT"
+jakejs/jake, true, false, "jake","Apache-2.0"
+jsfront/month, false, false, "month","MPL"
+leebenson/reactql, true, false, "reactql","MIT"
+webpack/webpack-cli, false, true, "webpack-cli-monorepo","MIT"
+wonderunit/storyboarder, true, false, "storyboarder",
+RobinLinus/snapdrop, false, false, 
+GoogleChromeLabs/size-plugin, true, false, "size-plugin","Apache-2.0"
+t1m0n/air-datepicker, false, false, "air-datepicker","MIT"
+transistorsoft/react-native-background-geolocation, false, false, "react-native-background-geolocation","MIT"
+aceakash/string-similarity, true, false, "string-similarity","ISC"
+linagora/hublin, false, false, "hublin","AGPLv3"
+infinitered/apisauce, false, false, "apisauce","MIT"
+jquery/jquery-migrate, true, false, "jquery-migrate","MIT"
+kentcdodds/babel-plugin-macros, false, false, "babel-plugin-macros","MIT"
+Flaque/quirk, false, true, ,
+tediousjs/node-mssql, true, false, "mssql","MIT"
+liferay/alloy-ui, false, false, "alloy-ui","BSD"
+Pana/nrm, false, true, "nrm","MIT"
+pwa-builder/PWABuilder-CLI, true, false, "pwabuilder","MIT"
+Cocos-BCX/ERC-1808, true, false, "erc-1080","Apache-2.0"
+TehShrike/deepmerge, true, false, "deepmerge","MIT"
+microsoft/TypeScript-Sublime-Plugin, false, false, 
+mourner/simplify-js, false, false, "simplify-js","BSD-2-Clause"
+Rafase282/My-FreeCodeCamp-Code, false, false, 
+nwjs-community/nw-builder, false, false, "nw-builder","MIT"
+mapsplugin/cordova-plugin-googlemaps, false, false, "cordova-plugin-googlemaps","Apache-2.0"
+willmcpo/body-scroll-lock, false, true, "body-scroll-lock","MIT"
+sequelize/cli, false, true, "sequelize-cli","MIT"
+html-sketchapp/html-sketchapp, true, false, "@brainly/html-sketchapp","MIT"
+TTLabs/EvaporateJS, true, true, "evaporate","BSD 3-Clause"
+renrenio/renren-security, false, false, 
+bchanx/slidr, false, false, 
+CarGuo/GSYGithubAPP, false, true, "GSYGithubApp",
+oblador/react-native-collapsible, false, true, "react-native-collapsible","MIT"
+faceyspacey/react-universal-component, false, true, "react-universal-component","MIT"
+kubeapps/kubeapps, false, false, 
+getify/asynquence, false, false, "asynquence","MIT"
+souporserious/react-measure, false, true, "react-measure","MIT"
+nicoespeon/gitgraph.js, false, true, "gitgraph.js-monorepo","MIT"
+ermouth/jQuery.my, false, false, "jquerymy","MIT"
+johnpapa/lite-server, true, true, "lite-server","MIT"
+LeaVerou/contrast-ratio, false, false, 
+checkly/puppeteer-examples, true, false, "puppeteer-examples","MIT"
+js-data/js-data, true, false, "js-data","MIT"
+testing-library/dom-testing-library, false, false, "@testing-library/dom","MIT"
+mathquill/mathquill, false, false, "mathquill","MPL-2.0"
+ondras/rot.js, true, true, "rot-js","BSD-3-Clause"
+jupyter-widgets/ipywidgets, false, true, ,
+EFForg/privacybadger, true, false, "privacy-badger-dev-tools",
+Tencent/TSW, false, true, "@tswjs/tsw","MIT"
+montagejs/montage, false, false, "montage","BSD-3-Clause"
+oauth-io/oauthd, true, false, "oauthd","Apache-2.0"
+Yaffle/EventSource, false, false, "event-source-polyfill","MIT"
+bradvin/social-share-urls, false, false, 
+debugger22/github-audio, false, false, "github-audio","MIT"
+DavidAnson/markdownlint, false, false, "markdownlint","MIT"
+twigjs/twig.js, true, false, "twig","BSD-2-Clause"
+voronianski/react-swipe, true, false, "react-swipe","MIT"
+AdeleD/react-paginate, true, false, "react-paginate","MIT"
+rstaib/jquery-steps, false, false, "jquery-steps",
+airbnb/react-with-styles, false, false, "react-with-styles","MIT"
+ascoders/react-native-image-viewer, true, true, "react-native-image-zoom-viewer","MIT"
+cronvel/terminal-kit, false, false, "terminal-kit","MIT"
+FirebaseExtended/reactfire, true, true, "reactfire","MIT"
+pattern-lab/patternlab-node, false, true, ,
+spring-guides/tut-spring-security-and-angular-js, false, false, 
+iphysresearch/DataSciComp, false, false, 
+jquery/PEP, true, true, "pepjs","MIT"
+Nealyang/React-Express-Blog-Demo, true, false, "react_express_blog","ISC"
+sindresorhus/gulp-rev, false, false, "gulp-rev","MIT"
+bloomberg/goldpinger, false, false, 
+vuejs/babel-plugin-transform-vue-jsx, false, true, "babel-plugin-transform-vue-jsx","MIT"
+lyft/react-javascript-to-typescript-transform, false, true, "react-js-to-ts","Apache-2.0"
+tonaljs/tonal, false, true, "tonal-workspace",
+uber/luma.gl, false, true, "luma.gl-monorepo","MIT"
+LLK/scratch-blocks, true, false, "scratch-blocks","Apache-2.0"
+jemise111/react-native-swipe-list-view, false, true, "react-native-swipe-list-view","MIT"
+bee-queue/bee-queue, true, false, "bee-queue","MIT"
+kiliman/operator-mono-lig, true, false, "operator-mono-lig","ISC"
+julmot/mark.js, false, false, "mark.js","MIT"
+euvl/vue-notification, false, true, "vue-notification","MIT"
+gemini-testing/gemini, true, false, "gemini","MIT"
+marioizquierdo/jquery.serializeJSON, true, false, "jquery-serializejson","MIT"
+jvilk/BrowserFS, false, true, "browserfs","MIT"
+lando/lando, false, true, "lando","GPL-3.0"
+remy/jsconsole, true, false, "@remy/jsconsole","MIT"
+xotahal/react-native-motion, false, false, "react-native-motion","MIT"
+joshwnj/react-visibility-sensor, true, false, "react-visibility-sensor","MIT"
+dabbott/react-native-express, false, true, "react-native-express","MIT"
+blueimp/JavaScript-Templates, true, false, "blueimp-tmpl","MIT"
+chinchang/web-maker, true, false, "web-maker","MIT"
+skiplang/skip, false, false, 
+ueokande/vim-vixen, false, true, "vim-vixen","MIT"
+bolan9999/react-native-largelist, false, false, "largelistexample",
+joefitzgerald/go-plus, true, false, "go-plus","Apache-2.0"
+staltz/callbag-basics, true, false, "callbag-basics","MIT"
+stalniy/casl, false, false, "casl-monorepo",
+piroor/treestyletab, false, false, 
+FormidableLabs/victory-native, false, true, "victory-native","MIT"
+electron-userland/devtron, true, false, "devtron","MIT"
+jest-community/vscode-jest, false, true, "vscode-jest",
+faceyspacey/redux-first-router, false, true, "redux-first-router","MIT"
+KhronosGroup/Vulkan-Docs, true, false, ,
+galio-org/galio, true, false, "galio-framework","MIT"
+Mottie/Keyboard, false, false, "virtual-keyboard","MIT"
+alexandersimoes/d3plus, true, false, "d3plus","MIT"
+phonegap/phonegap-app-developer, true, false, "phonegap-app-developer",
+facebookincubator/idx, false, true, ,
+f/vue-wait, false, true, "vue-wait","MIT"
+NightCatSama/vue-slider-component, true, true, "vue-slider-component","MIT"
+airbnb/rheostat, false, false, "rheostat","MIT"
+atomiclabs/cryptocurrency-icons, false, false, "cryptocurrency-icons","CC0-1.0"
+pimterry/loglevel, false, false, "loglevel","MIT"
+theironcook/Backbone.ModelBinder, false, false, "backbone.modelbinder","MIT"
+kss-node/kss-node, true, false, "kss","(MIT OR GPL-2.0)"
+nckprsn/scrollme, false, false, 
+thomaspark/gridgarden, true, false, "gridgarden","MIT"
+Kong/mockbin, true, false, "mockbin","MIT"
+datejs/Datejs, true, false, "Datejs","Apache 2.0"
+eduardoboucas/staticman, true, false, "staticman","ISC"
+sunseekers/Vue, false, false, 
+evanw/node-source-map-support, true, false, "source-map-support","MIT"
+mikehostetler/amplify, false, false, "amplify",
+rwieruch/favesound-redux, false, false, "favesound-redux","ISC"
+standardnotes/web, false, true, "standard-notes-web","AGPL-3.0-or-later"
+mikenicholson/passport-jwt, true, false, "passport-jwt","MIT"
+Huachao/vscode-restclient, true, false, "rest-client","MIT"
+fent/randexp.js, true, false, "randexp","MIT"
+Flood-UI/flood, true, false, "flood","GPL-3.0-only"
+qit-team/taro-yanxuan, false, true, "taro-yanxuan","MIT"
+greenkeeperio/greenkeeper, false, false, "@greenkeeper/jobs","Apache-2.0"
+aldeed/meteor-autoform, false, false, 
+patriksimek/vm2, true, false, "vm2","MIT"
+Pomax/react-onclickoutside, true, false, "react-onclickoutside","MIT"
+router5/router5, false, true, "router5","MIT"
+up-for-grabs/up-for-grabs.net, true, false, "up-for-grabs.net","MIT"
+hybridsjs/hybrids, true, false, "hybrids","MIT"
+alexa/alexa-cookbook, false, false, 
+jakubroztocil/rrule, false, true, "rrule","BSD-3-Clause"
+BlackrockDigital/startbootstrap-agency, true, false, "startbootstrap-agency","MIT"
+tangrams/tangram, true, false, "tangram","MIT"
+PanJiaChen/electron-vue-admin, false, false, "electron-vue-admin","MIT"
+krasimir/deb.js, false, false, "deb.js","MIT"
+tapjs/node-tap, true, false, "tap","ISC"
+home-sweet-gnome/dash-to-panel, false, false, 
+z-pattern-matching/z, true, false, "z","Apache-2.0"
+django-ckeditor/django-ckeditor, false, false, 
+divan/gotrace, false, false, 
+carloscuesta/gitmoji-cli, false, true, "gitmoji-cli","MIT"
+jejacks0n/teaspoon, false, false, 
+marionebl/svg-term-cli, false, true, "svg-term-cli","MIT"
+jacklam718/react-native-popup-dialog, false, true, "react-native-modals","MIT"
+micheleg/dash-to-dock, false, false, 
+bichenkk/coinmon, true, true, "coinmon","MIT"
+Schmavery/facebook-chat-api, true, false, "facebook-chat-api","MIT"
+builderbook/builderbook, false, false, 
+Leaflet/Leaflet.draw, true, false, "leaflet-draw","MIT"
+liriliri/licia, false, false, "licia","MIT"
+jackmoore/zoom, false, false, "jquery-zoom","MIT"
+keajs/kea, false, true, "kea","MIT"
+itgoyo/Aria2, false, false, 
+thlorenz/v8-perf, false, false, 
+sindresorhus/alfy, false, false, "alfy","MIT"
+react-component/calendar, false, false, "rc-calendar",
+jasondu/wxa-plugin-canvas, true, false, "wxa-plugin-canvas","ISC"
+discordapp/discord-api-docs, true, false, "discord-api-docs","MIT"
+wingify/across-tabs, true, true, "across-tabs","MIT"
+dodgepudding/bootout, false, false, 
+react-bootstrap/react-router-bootstrap, true, false, "react-router-bootstrap","Apache-2.0"
+dlmanning/gulp-sass, true, false, "gulp-sass","MIT"
+acidb/mobiscroll, true, false, "mobiscroll","Apache-2.0"
+we-plugin/we-cropper, false, false, "we-cropper","MIT"
+facebook/planout, false, false, 
+kaola-fed/megalo, false, true, "megalo","MIT"
+atulmy/crate, false, false, 
+vuejs/cn.vuejs.org, false, true, "cn.vuejs.org",
+jsonmaur/jumpsuit, false, true, "jumpsuit","MIT"
+filipedeschamps/video-maker, true, false, "video-maker","MIT"
+react-hook-form/react-hook-form, false, true, "react-hook-form","MIT"
+versatica/JsSIP, false, false, "jssip","MIT"
+marcelduran/webpagetest-api, false, false, "webpagetest","MIT"
+ifedapoolarewaju/igdm, false, true, "IGdm","MIT"
+admc/wd, true, false, "wd","Apache-2.0"
+MoonMail/MoonMail, false, false, "MoonMail-v2","MIT"
+steveukx/git-js, false, true, "@simple-git/repo",
+fastify/fast-json-stringify, false, false, "fast-json-stringify","MIT"
+boltpkg/bolt, false, true, "bolt","MIT"
+broofa/node-mime, true, false, "mime","MIT"
+sxei/pinyinjs, false, false, "ipinyinjs","ISC"
+video-react/video-react, true, false, "video-react","MIT"
+Gerapy/Gerapy, false, false, 
+mljs/ml, false, false, "ml","MIT"
+ghacksuserjs/ghacks-user.js, false, false, 
+BlazeSoftware/blaze, true, false, "@blaze/atoms","MIT"
+textlint/textlint, false, true, "root",
+MatteoGabriele/vue-analytics, false, true, "vue-analytics","MIT"
+sindresorhus/cli-spinners, false, false, "cli-spinners","MIT"
+ageitgey/show-facebook-computer-vision-tags, false, false, 
+symfony/webpack-encore, false, true, "@symfony/webpack-encore","MIT"
+reactivestack/cookies, false, true, ,
+kentcdodds/match-sorter, false, false, "match-sorter","MIT"
+astefanutti/decktape, false, false, "decktape","MIT"
+flatiron/cradle, false, false, "cradle","MIT"
+brijeshb42/medium-draft, false, true, "medium-draft","MIT"
+abynim/UserFlows, false, false, 
+harthur/kittydar, false, false, "kittydar",
+Wizzercn/NutzWk, false, false, 
+synox/youtube-dl-interactive, true, false, "youtube-dl-interactive","MIT"
+nuxt/webpackbar, false, true, "webpackbar","MIT"
+IrosTheBeggar/mStream, false, false, "mstream","GPL-3.0"
+superpowers/superpowers-core, true, false, "superpowers","ISC"
+TrilonIO/aspnetcore-angular-universal, false, false, "angular7-aspnetcore-universal","MIT"
+webpack-contrib/npm-install-webpack-plugin, true, false, "install-webpack-plugin","MIT"
+electron/asar, false, true, "asar","MIT"
+pauldijou/redux-act, false, true, "redux-act","Apache-2.0"
+mmazzarolo/react-native-modal-datetime-picker, false, true, "react-native-modal-datetime-picker","MIT"
+depcheck/depcheck, true, false, "depcheck","MIT"
+l-lin/angular-datatables, true, false, "angular-datatables","MIT"
+coreybutler/fenix, false, false, 
+agraboso/redux-api-middleware, true, false, "redux-api-middleware","MIT"
+igrigorik/videospeed, false, false, 
+utterance/utterances, true, false, "utterances","MIT"
+logoove/weui, false, false, 
+kantord/just-dashboard, false, true, "just-dashboard","MIT"
+tgdwyer/WebCola, true, false, "webcola","MIT"
+rotaready/moment-range, false, true, "moment-range","Unlicense"
+messageformat/messageformat, true, false, "messageformat-monorepo","MIT"
+vue-styleguidist/vue-styleguidist, false, false, ,"MIT"
+iamxjb/winxin-app-watch-life.net, false, false, 
+ng-packagr/ng-packagr, false, true, "ng-packagr","MIT"
+phoboslab/Impact, false, false, 
+zerobias/effector, false, true, "effector-dev","MIT"
+outsideris/slack-invite-automation, true, false, "slack-invite-automation",
+Yoctol/messaging-apis, false, true, "messaging-apis","MIT"
+greena13/react-hotkeys, false, true, "react-hotkeys","ISC"
+dai-siki/vue-image-crop-upload, false, true, "vue-image-crop-upload","ISC"
+wecatch/china_regions, true, true, "china_regions","MIT"
+piotrwitek/typesafe-actions, true, false, "typesafe-actions","MIT"
+catamphetamine/libphonenumber-js, true, false, "libphonenumber-js","MIT"
+Raathigesh/dazzle, true, false, "react-dazzle","MIT"
+APIs-guru/graphql-faker, true, false, "graphql-faker","MIT"
+frappe/gantt, false, true, "frappe-gantt","MIT"
+scaleflex/js-cloudimage-360-view, false, false, "js-cloudimage-360-view","MIT"
+nprapps/app-template, false, false, "app-template",
+bjango/Bjango-Actions, false, false, 
+the-road-to-graphql/react-graphql-github-apollo, true, false, "react-graphql-github-apollo",
+kucherenko/jscpd, false, true, "jscpd-monorepo",
+smooth-code/smooth-ui, false, true, ,
+fortunejs/fortune, true, false, "fortune","MIT"
+alibaba/GGEditor, false, false, "gg-editor","MIT"
+Webiny/webiny-js, false, true, ,
+tannerlinsley/react-form, false, true, "react-form","MIT"
+ahmadawais/WPGulp, true, false, "wpgulp","MIT"
+trentm/json, true, false, "json",
+prettydiff/prettydiff, true, false, "prettydiff","CC0-1.0"
+walterhiggins/ScriptCraft, false, false, 
+jstat/jstat, true, false, "jstat",
+storybookjs/react-treebeard, true, false, "react-treebeard","MIT"
+jishi/node-sonos-http-api, true, false, "sonos-http-api","MIT"
+ReactiveX/learnrx, false, false, 
+jkphl/svg-sprite, true, false, "svg-sprite","MIT"
+poooi/poi, true, false, "poi","MIT"
+da2k/curso-javascript-ninja, false, false, 
+rgommezz/react-native-offline, true, false, "react-native-offline","MIT"
+asciidwango/js-primer, true, false, "js-primer","MIT"
+hua1995116/webchat, false, false, "vuepro",
+ehynds/jquery-ui-multiselect-widget, true, false, "jquery-ui-multiselect-widget","MIT or GPL-2.0"
+microsoft/just, false, true, "just-repo","MIT"
+johnagan/clean-webpack-plugin, false, false, "clean-webpack-plugin","MIT"
+thelinmichael/spotify-web-api-node, true, false, "spotify-web-api-node","MIT"
+domenic/chai-as-promised, true, false, "chai-as-promised","WTFPL"
+react-designer/react-designer, true, false, "react-designer","MIT"
+kamranahmedse/githunt, false, true, "githunt-react",
+mourner/rbush, false, true, "rbush","MIT"
+airtap/airtap, false, false, "airtap","MIT"
+boyney123/mockit, true, false, 
+dojo/dojo, true, false, "dojo","BSD-3-Clause OR AFL-2.1"
+bartgryszko/react-native-circular-progress, true, false, "react-native-circular-progress","MIT"
+mirrorjs/mirror, true, false, "mirrorx","MIT"
+corbanbrook/dsp.js, false, false, "dsp.js","MIT"
+ChrisCavs/rallax.js, false, false, "rallax.js","MIT"
+guanguans/notes, false, false, 
+Justineo/github-hovercard, true, false, "github-hovercard","MIT"
+flickr/justified-layout, false, false, "justified-layout","ISC"
+Kujiale-Mobile/Painter, false, false, 
+mockoon/mockoon, true, false, "@mockoon/mockoon","MIT"
+Unleash/unleash, false, true, "unleash-server","Apache-2.0"
+rodi01/RenameIt, true, false, "RenameIt","MIT"
+reduxjs/redux-starter-kit, false, true, "rtk-monorepo","MIT"
+wubaiqing/zaobao, false, false, ,
+coralproject/talk, true, false, "@coralproject/talk","Apache-2.0"
+Laravel-Backpack/CRUD, true, false, ,
+mrvautin/expressCart, true, false, "express-cart","MIT"
+aviabird/angularspree, false, true, "angularspree","MIT"
+mapillary/OpenSfM, false, false, 
+YouTransfer/YouTransfer, true, false, "youtransfer","Apache-2.0"
+tj/react-enroute, false, true, "react-enroute","MIT"
+jorgebucaran/superfine, false, false, "superfine","MIT"
+kactus-io/kactus, false, true, ,"MIT"
+wesbos/keycodes, true, false, "keycodes","ISC"
+iBase4J/iBase4J, false, false, 
+autoNumeric/autoNumeric, false, true, "autonumeric","MIT"
+victordibia/handtrack.js, true, false, "handtrackjs","ISC"
+4Catalyzer/astroturf, false, true, "astroturf","MIT"
+solid/node-solid-server, true, false, "solid-server","MIT"
+vlucas/frisby, false, false, "frisby","BSD-3-Clause"
+stealjs/steal, false, false, "steal",
+alexanderzobnin/grafana-zabbix, false, true, "grafana-zabbix","Apache-2.0"
+webpack/tapable, false, true, "tapable","MIT"
+expressjs/generator, false, false, "express-generator","MIT"
+vuex-orm/vuex-orm, false, true, "@vuex-orm/core","MIT"
+jabbany/CommentCoreLibrary, true, false, "comment-core-library","MIT"
+alibaba/uirecorder, true, false, "uirecorder","MIT"
+expressjs/cookie-parser, false, false, "cookie-parser","MIT"
+open-xml-templating/docxtemplater, true, false, "docxtemplater","MIT"
+shakee93/vue-toasted, true, false, "vue-toasted","MIT"
+muaz-khan/RTCMultiConnection, false, false, "rtcmulticonnection","MIT"
+leanote/desktop-app, true, false, "Leanote-Desktop",
+donejs/donejs, false, false, "donejs","MIT"
+wesbos/Learn-Redux-Starter-Files, false, false, 
+alexgorbatchev/jquery-textext, false, false, "app_name",
+developit/workerize-loader, false, false, "workerize-loader","MIT"
+dashersw/cote, true, false, "cote","MIT"
+Raathigesh/retoggle, false, true, "retoggle","MIT"
+saleem-hadad/larecipe, true, true, ,
+Yomguithereal/mnemonist, true, false, "mnemonist","MIT"
+KidkArolis/jetpack, true, false, "jetpack","MIT"
+apollographql/graphql-tag, true, false, "graphql-tag","MIT"
+form-data/form-data, false, false, "form-data","MIT"
+akveo/ng2-smart-table, true, false, "ng2-smart-table",
+xwiki-labs/cryptpad, true, false, "cryptpad","AGPL-3.0+"
+miromannino/Justified-Gallery, false, true, "justifiedGallery","MIT"
+Keyang/node-csvtojson, true, false, "csvtojson","MIT"
+react-component/form, false, false, "rc-form","MIT"
+sysgears/apollo-universal-starter-kit, false, true, "apollo-universal-starter-kit","MIT"
+json-editor/json-editor, true, false, "@json-editor/json-editor","MIT"
+hughsk/disc, false, false, "disc","MIT"
+watson-developer-cloud/node-sdk, true, false, "ibm-watson","Apache-2.0"
+CloudBoost/cloudboost, false, false, 
+play-with-docker/play-with-docker, false, false, 
+justjavac/ReplaceGoogleCDN, false, true, ,
+ramda/ramda-fantasy, false, false, "ramda-fantasy","MIT"
+RestyaPlatform/board, false, false, "Restyaboard",
+kosmetism/react-soundplayer, true, false, "react-soundplayer","MIT"
+justjavac/Flarum, false, false, 
+sindresorhus/electron-boilerplate, false, false, "app-name","MIT"
+halfzebra/create-elm-app, false, false, "create-elm-app","MIT"
+tightenco/ziggy, true, false, "ziggy-js","MIT"
+bvaughn/redux-search, false, true, "redux-search","MIT"
+Novik/ruTorrent, false, false, 
+iamadamdev/bypass-paywalls-chrome, false, false, 
+potree/potree, true, false, "potree","BSD-2-CLAUSE"
+CharlesStover/reactn, false, true, "reactn","MIT"
+ellisonleao/sharer.js, true, false, "sharer.js","MIT"
+blueimp/JavaScript-Canvas-to-Blob, true, false, "blueimp-canvas-to-blob","MIT"
+paldepind/functional-frontend-architecture, false, false, 
+pillarjs/hbs, false, false, "hbs","MIT"
+ant-design/ant-design-mobile-rn, false, true, "@ant-design/react-native","MIT"
+SassDoc/sassdoc, false, true, "sassdoc","MIT"
+dwyl/learn-tdd, true, false, "learn-tdd","ISC"
+web-scrobbler/web-scrobbler, true, false, "web-scrobbler","MIT"
+crabbly/Print.js, false, false, "print-js","MIT"
+mridgway/hoist-non-react-statics, false, true, "hoist-non-react-statics","BSD-3-Clause"
+electron-userland/spectron, true, false, "spectron","MIT"
+ethereum/remix-ide, false, false, 
+fossasia/open-event-wsgen, false, true, "open-event-webapp","GPL-3.0"
+kriasoft/universal-router, true, false, "universal-router","MIT"
+nbubna/store, true, false, "store2","(MIT OR GPL-3.0)"
+webpack-contrib/style-loader, true, false, "style-loader","MIT"
+dessalines/lemmy, false, false, 
+nodeWechat/wechat4u, true, true, "wechat4u","MIT"
+asfktz/autodll-webpack-plugin, false, false, "autodll-webpack-plugin","MIT"
+baugarten/node-restful, false, false, "node-restful",
+jonseg/crud-admin-generator, false, false, 
+didierfranc/react-waterfall, false, true, "react-waterfall","MIT"
+photopea/UPNG.js, false, false, "upng-js","MIT"
+liangxiaojuan/vue-Meizi, false, false, "gankmeizi",
+cocos-creator/engine, true, false, "cocos-creator","MIT"
+ctrlplusb/react-sizeme, false, true, "react-sizeme","MIT"
+firebase/friendlychat-web, false, false, 
+RobinBuschmann/sequelize-typescript, true, false, "sequelize-typescript","MIT"
+Mikhus/canvas-gauges, false, false, "canvas-gauges","MIT"
+frankmcsherry/blog, false, false, 
+jimmywarting/StreamSaver.js, false, false, "streamsaver","MIT"
+nashaofu/dingtalk, false, true, "dingtalk","MIT"
+marcolago/flowtime.js, true, false, "Flowtime.js",
+waynecz/dadda-translate-crx, false, true, "dadda-translate","MIT"
+bdash-app/bdash, false, true, "Bdash","MIT"
+muwoo/blogs, false, false, 
+sakurity/securelogin, false, false, 
+Adphorus/react-date-range, false, true, "react-date-range","MIT"
+bripkens/connect-history-api-fallback, true, false, "connect-history-api-fallback","MIT"
+crmeb/CRMEB, false, false, 
+mapbox/maki, true, false, "@mapbox/maki","CC0-1.0"
+kitze/react-hanger, false, true, "react-hanger","MIT"
+mozilla/node-convict, true, false, "node-convict",
+generative-music/generative.fm, true, false, "generative.fm","MIT"
+microsoft/dts-gen, false, false, "dts-gen","Apache-2.0"
+microstates/microstates.js, false, true, "microstates-monorepo",
+bbyars/mountebank, true, false, "mountebank","MIT"
+pusher/pusher-js, true, false, "pusher-js","MIT"
+FezVrasta/react-popper, false, true, "react-popper","MIT"
+react-native-community/react-native-hooks, false, true, "@react-native-community/hooks","ISC"
+OmniSharp/omnisharp-vscode, true, false, "csharp","SEE LICENSE IN RuntimeLicenses/license.txt"
+serverless/components, false, false, "@serverless/components","MIT"
+tildeio/router.js, false, true, "router_js","MIT"
+weixsong/elasticlunr.js, false, true, "elasticlunr","MIT"
+matthewp/haunted, true, false, "haunted","BSD-2-Clause"
+syl22-00/pocketsphinx.js, false, false, 
+microsoft/pai, false, false, 
+mobxjs/mobx-react-lite, false, true, "mobx-react-lite","MIT"
+developit/snarkdown, true, false, "snarkdown","MIT"
+getgauge/taiko, true, false, "taiko","MIT"
+mistic100/jQuery-QueryBuilder, false, false, "jQuery-QueryBuilder","MIT"
+ToothlessGear/node-gcm, true, false, "node-gcm","MIT"
+GoogleChromeLabs/clooney, true, false, "clooneyjs","Apache-2.0"
+cnodejs/egg-cnode, false, false, "cnode","MIT"
+arqex/freezer, false, false, "freezer-js","MIT"
+magicismight/react-native-root-toast, false, false, "react-native-root-toast","MIT"
+heiseonline/shariff, true, false, "shariff","MIT"
+rstudio/shiny-examples, false, false, 
+s-yadav/react-number-format, false, true, "react-number-format","MIT"
+yeoman/update-notifier, false, false, "update-notifier","BSD-2-Clause"
+sandoche/Darkmode.js, true, false, "darkmode-js","MIT"
+bustle/mobiledoc-kit, false, true, "mobiledoc-kit","MIT"
+testshallpass/react-native-dropdownalert, false, true, "react-native-dropdownalert","MIT"
+nodejs/nodejs.org, true, false, "nodejs.org","MIT"
+sdras/object-explorer, true, true, "object-explorer",
+junedomingo/react-native-rename, false, false, "react-native-rename","MIT"
+bijection/g9, false, false, "g9","MIT"
+ecmadao/hacknical, false, false, "hacknical","Apache-2.0"
+timdream/wordcloud2.js, true, false, "wordcloud","MIT"
+jamiebuilds/unstated-next, true, false, "unstated-next","MIT"
+devias-io/react-material-dashboard, true, false, "material-kit-react",
+crossbario/autobahn-js, false, false, "autobahn-development","MIT"
+feross/spoof, false, false, "spoof","MIT"
+ks888/LambStatus, true, false, "lamb-status","Apache-2.0"
+farbelous/bootstrap-colorpicker, true, false, "bootstrap-colorpicker","MIT"
+hungtraan/FacebookBot, false, false, 
+BlackrockDigital/startbootstrap-clean-blog, true, false, "startbootstrap-clean-blog","MIT"
+sentialx/multrin, false, true, "multrin",
+perftools/xhgui, false, false, 
+extrabacon/python-shell, true, false, "python-shell","MIT"
+faastjs/faast.js, true, false, "faastjs","Apache-2.0"
+ChangemakerStudios/Papercut, false, false, 
+matfish2/vue-tables-2, true, false, "vue-tables-2","GPLv3"
+FunctionScript/FunctionScript, false, false, "functionscript",
+DemocracyEarth/sovereign, true, false, "democracy-earth-dapp",
+0wczar/airframe-react, false, false, "airframe-dashboard","ISC"
+webpack-contrib/uglifyjs-webpack-plugin, true, false, "uglifyjs-webpack-plugin","MIT"
+pamelafox/lscache, false, false, "lscache","Apache-2.0"
+JesperLekland/react-native-svg-charts, false, true, "react-native-svg-charts","MIT"
+soyaine/JavaScript30, false, false, 
+oakmac/chessboardjs, false, true, "@chrisoakman/chessboardjs","MIT"
+phil-r/react-native-looped-carousel, false, true, "react-native-looped-carousel","MIT"
+netlify-templates/victor-hugo, true, false, "victor-hugo","MIT"
+Blizzard/node-rdkafka, false, false, "node-rdkafka","MIT"
+angular-slider/angularjs-slider, false, false, "angularjs-slider","MIT"
+scttcper/ngx-toastr, true, false, "ngx-toastr","MIT"
+WP-API/node-wpapi, false, false, "wpapi","MIT"
+GladysAssistant/Gladys, true, false, "gladys","Apache-2.0"
+kisenka/svg-sprite-loader, false, true, "svg-sprite-loader","MIT"
+robb0wen/tornis, true, false, "tornis","MIT"
+freeciv/freeciv-web, false, false, 
+Lemoncode/react-typescript-samples, false, false, 
+jlfwong/speedscope, true, false, "speedscope","MIT"
+greggman/twgl.js, true, false, "twgl.js","MIT"
+dogescript/dogescript, true, false, "dogescript","MIT"
+marblejs/marble, false, true, "marblejs","MIT"
+alexmojaki/birdseye, false, false, 
+sindresorhus/globby, false, false, "globby","MIT"
+GoogleChromeLabs/worker-plugin, false, false, "worker-plugin","Apache-2.0"
+lukasoppermann/html5sortable, true, false, "html5sortable","MIT"
+rigor789/vue-scrollto, true, false, "vue-scrollto","MIT"
+3rd-Eden/memcached, false, false, "memcached","MIT"
+Ismaestro/angular8-example-app, true, false, "angular-example-app","MIT"
+jrief/django-angular, false, false, 
+hovancik/stretchly, true, false, "Stretchly","BSD-2-Clause"
+mui-org/material-ui-pickers, false, true, ,
+vuegg/vuegg, true, false, "vuegg","MIT"
+francescou/docker-compose-ui, false, false, 
+sanity-io/sanity, false, false, "sanity",
+guyht/vimari, true, false, "vimari","MIT"
+mailvelope/mailvelope, true, false, "mailvelope","AGPL"
+aweary/tinytime, false, true, "tinytime","MIT"
+ericalli/static-site-boilerplate, true, false, "static-site-boilerplate","MIT"
+78/ssbc, false, false, 
+EOSIO/eosjs, false, true, "eosjs","MIT"
+motdotla/node-lambda, true, true, "node-lambda","BSD-2-Clause"
+crocodic-studio/crudbooster, false, false, 
+FredericHeem/starhackit, true, false, "starhackit",
+gitname/react-gh-pages, true, false, "my-app",
+FortAwesome/vue-fontawesome, true, true, "@fortawesome/vue-fontawesome","MIT"
+kezhenxu94/mini-github, false, false, 
+webpack-contrib/url-loader, true, false, "url-loader","MIT"
+kayalshri/tableExport.jquery.plugin, false, false, 
+NectarJS/nectarjs, true, false, "nectarjs","MIT"
+pinterest/service-workers, false, true, ,"MIT"
+orthes/medium-editor-insert-plugin, true, false, "medium-editor-insert-plugin","MIT"
+Staffjoy/v2, false, false, 
+ethers-io/ethers.js, true, false, "ethers",
+zodern/meteor-up, true, false, "mup","MIT"
+mobxjs/mobx-react-devtools, true, false, "mobx-react-devtools","MIT"
+tessera-metrics/tessera, false, false, 
+hujiulong/gcoord, false, false, "gcoord","MIT"
+xudafeng/autoresponsive-react, false, false, "autoresponsive-react",
+fcwu/docker-ubuntu-vnc-desktop, false, false, 
+52cik/github-hans, false, false, 
+LinusU/node-appdmg, false, false, "appdmg","MIT"
+apollographql/apollo-link, true, false, ,"MIT"
+sindresorhus/file-type, false, false, "file-type","MIT"
+kingdido999/zooming, false, true, "zooming","MIT"
+react-everywhere/re-start, false, false, "re-start-templates","MIT"
+sindresorhus/pify, false, false, "pify","MIT"
+ptarjan/node-cache, false, false, "memory-cache","BSD-2-Clause"
+sivasamyk/logtrail, false, true, "logtrail","MIT"
+mfrachet/rn-placeholder, false, true, "rn-placeholder","MIT"
+kirjs/react-highcharts, true, false, "react-highcharts","MIT"
+terinjokes/gulp-uglify, false, false, "gulp-uglify","MIT"
+beeware/batavia, true, false, "@pybee/batavia","BSD-3-Clause"
+morr/jquery.appear, false, true, "jquery-appear-original",
+tangbc/vue-virtual-scroll-list, true, false, "vue-virtual-scroll-list","MIT"
+inexorabletash/polyfill, false, false, "js-polyfills","(Unlicense OR MIT)"
+lisong/code-push-server, true, false, "code-push-server","MIT"
+sylvainpolletvillard/postcss-grid-kiss, true, false, "postcss-grid-kiss","MIT"
+nodemailer/mailparser, false, false, "mailparser","MIT"
+gre/react-native-view-shot, false, false, "react-native-view-shot","MIT"
+frostney/react-native-create-library, false, true, "react-native-create-library","MIT"
+interactivethings/catalog, false, true, ,
+kefranabg/bento-starter, true, false, "bento-starter",
+ChromeDevTools/devtools-frontend, true, false, "chrome-devtools-frontend","BSD-3-Clause"
+material-components/material-components-web-components, true, false, "material-components-web-components","Apache-2.0"
+archriss/react-native-render-html, false, true, "react-native-render-html-project","BSD-2-Clause"
+AdaptiveConsulting/ReactiveTraderCloud, true, false, ,
+atom/markdown-preview, true, false, "markdown-preview","MIT"
+sghall/react-vertex, false, true, "react-vertex-monorepo","MIT"
+sindresorhus/refined-twitter, true, false, ,
+blakeembrey/pluralize, true, false, "pluralize","MIT"
+aliyun/oss-browser, false, false, "oss-browser",
+react-materialize/react-materialize, true, false, "react-materialize","MIT"
+bernii/gauge.js, false, false, "gaugeJS","MIT"
+archerysec/archerysec, false, false, 
+youzan/zan-proxy, false, true, "zan-proxy","MIT"
+lockfale/OSINT-Framework, false, false, "arf",""
+hizzgdev/jsmind, false, false, "jsmind","BSD-3-Clause"
+ghengeveld/react-async, false, false, "@react-async/root","ISC"
+madrobby/vapor.js, false, false, "vapor",
+ritz078/embed-js, false, true, "embed-js","MIT"
+facebookarchive/sublime-react, false, false, "sublime-react","Apache 2.0"
+tc39/test262, false, false, "test262","BSD"
+truedread/netflix-1080p, false, false, 
+bubenshchykov/ngrok, true, false, "ngrok","BSD-2-Clause"
+mishk0/slack-bot-api, false, false, "slackbots","MIT"
+yishn/tikzcd-editor, true, false, "tikzcd-editor","MIT"
+conorhastings/react-syntax-highlighter, true, false, "react-syntax-highlighter","MIT"
+ember-animation/liquid-fire, false, true, "liquid-fire","MIT"
+twolfson/grunt-spritesmith, false, false, "grunt-spritesmith","MIT"
+Wanderxx/vue-fullcalendar, false, false, "vue-fullcalendar","MIT"
+daybrush/scenejs, true, false, "scenejs","MIT"
+regebro/hovercraft, false, false, 
+davidbau/seedrandom, true, false, "seedrandom","MIT"
+rbuckton/reflect-metadata, false, false, "reflect-metadata","Apache-2.0"
+bokuweb/react-rnd, false, true, "react-rnd","MIT"
+infinitered/gluegun, false, true, "gluegun","MIT"
+bluebill1049/react-simple-animate, false, true, "react-simple-animate","Mit"
+metowolf/vCards, false, true, "vcards","MIT"
+jaredhanson/passport-facebook, false, false, "passport-facebook","MIT"
+nodejscn/node-api-cn, false, false, 
+ParticleCore/Iridium, false, false, 
+idyll-lang/idyll, false, true, "idyll","MIT"
+CyberMonitor/APT_CyberCriminal_Campagin_Collections, false, false, 
+paulirish/pwmetrics, false, true, "pwmetrics","Apache-2.0"
+sitespeedio/coach, true, false, "webcoach","MIT"
+btholt/complete-intro-to-react-v4, true, false, "adopt-me","Apache-2.0"
+angular-redux/ng-redux, true, true, "ng-redux","MIT"
+leaflet-extras/leaflet-providers, true, false, "leaflet-providers","BSD-2-Clause"
+eggjs/examples, false, false, "egg-examples","MIT"
+winmarkltd/BootstrapFormHelpers, true, false, "bootstrap-formhelpers",
+StephenGrider/EthereumCasts, false, false, 
+monet/monet.js, true, false, "monet","MIT"
+fossasia/loklak_search, true, false, "loklak-search","MIT"
+luangjokaj/wordpressify, true, false, "wordpressify","MIT"
+bui/taiko-web, false, false, 
+andyholmes/gnome-shell-extension-gsconnect, false, false, 
+microsoft/HoloJS, false, false, 
+bitwarden/browser, true, false, "@bitwarden/clients","GPL-3.0"
+simplewebrtc/signalmaster, false, false, "signal-master","MIT"
+caged/d3-tip, true, false, "d3-tip","MIT"
+odota/core, true, false, "opendota-core","MIT"
+kuckboy1994/mp_canvas_drawer, false, false, 
+SAP/chevrotain, false, true, "root",
+jscad/OpenJSCAD.org, false, false, "@jscad/openjscad","MIT"
+ssbc/ssb-server, false, false, "ssb-server","MIT"
+fossasia/susi.ai, false, true, "susi.ai",
+JPCERTCC/LogonTracer, false, false, 
+trivago/parallel-webpack, false, false, "parallel-webpack","BSD-3-Clause"
+prettier/eslint-plugin-prettier, false, true, "eslint-plugin-prettier","MIT"
+GantMan/ReactStateMuseum, true, true, "react-state-museum","MIT"
+graphql-cli/graphql-cli, false, true, "graphql-cli-monorepo","MIT"
+zhui-team/zhui, true, true, "zhui","MIT"
+serverless-heaven/serverless-webpack, true, false, "serverless-webpack","MIT"
+percona/grafana-dashboards, false, false, 
+gmattie/Data-Pixels, true, false, "data-pixels-playground","MIT"
+developit/karmatic, false, false, "karmatic","MIT"
+julien-lafont/Mocky, false, false, 
+mkoryak/floatThead, true, false, "floatthead","MIT"
+RD17/ambar, false, false, 
+tdegrunt/jsonschema, false, false, "jsonschema","MIT"
+tomas/needle, true, false, "needle","MIT"
+khanhas/spicetify-cli, false, false, 
+dgrubelic/vue-authenticate, true, true, "vue-authenticate","MIT"
+sezna/nps, false, false, "nps","MIT"
+OmarElGabry/chat.io, false, false, "chat.io","MIT"
+joinspontaneous/react-native-loading-spinner-overlay, false, true, "react-native-loading-spinner-overlay","MIT"
+thomaswilburn/Caret, false, false, "Caret","GPL-3.0"
+bazzite/statusfy, false, true, ,
+iodide-project/iodide, true, false, "iodide","MPL-2.0"
+npm/npm-expansions, true, false, "npm-expansions","ISC"
+n-riesco/ijavascript, false, false, "ijavascript","BSD-3-Clause"
+d3/d3-scale, false, true, "d3-scale","ISC"
+rserota/wad, false, false, "web-audio-daw","MIT"
+photonstorm/phaser-ce, true, true, "phaser-ce","MIT"
+itchio/itch, true, false, "kitch","MIT"
+arschles/go-in-5-minutes, false, false, 
+shama/gaze, false, false, "gaze","MIT"
+IdentityModel/oidc-client-js, true, false, "oidc-client","Apache-2.0"
+salesforce-ux/theo, true, false, "theo","BSD-3-Clause"
+DavideViolante/Angular-Full-Stack, true, false, "angular2-full-stack","MIT"
+xiangyuecn/AreaCity-JsSpider-StatsGov, false, false, 
+DevExpress/devextreme-reactive, false, true, "devextreme-reactive","SEE LICENSE IN README.md"
+nkbt/react-copy-to-clipboard, false, true, "react-copy-to-clipboard","MIT"
+pupunzi/jquery.mb.YTPlayer, false, false, "jquery.mb.ytplayer","MIT"
+uber-node/ringpop-node, false, false, "ringpop",
+Theodeus/tuna, true, false, "tunajs","MIT"
+Esri/esri-leaflet, true, false, "esri-leaflet","Apache-2.0"
+timmywil/panzoom, false, true, "@panzoom/panzoom","MIT"
+pipe-dream/laravel-create, false, true, ,
+evilsoft/crocks, true, false, "crocks","ISC"
+sapegin/grunt-webfont, false, true, "grunt-webfont","MIT"
+derbyjs/racer, false, false, "racer","MIT"
+olahol/react-tagsinput, true, false, "react-tagsinput","MIT"
+stryker-mutator/stryker, true, false, "stryker-parent",
+gregjacobs/Autolinker.js, true, false, "autolinker","MIT"
+0xProject/0x-monorepo, false, true, "0x-monorepo",
+miaolz123/vue-markdown, false, false, "vue-markdown","MIT"
+babel/babel-upgrade, true, false, "babel-upgrade","MIT"
+gulpjs/vinyl, false, false, "vinyl","MIT"
+tediousjs/tedious, true, false, "tedious","MIT"
+smrchy/rsmq, true, false, "rsmq","MIT"
+owen2345/camaleon-cms, false, false, 
+miloyip/nativejson-benchmark, false, false, 
+Meituan-Dianping/beeshell, false, false, "beeshell","MIT"
+birkir/prime, false, true, ,"MIT"
+mafintosh/hyperdrive, true, false, "hyperdrive","MIT"
+ldapjs/node-ldapjs, false, false, "ldapjs","MIT"
+vadimdemedes/pastel, false, false, "pastel","MIT"
+StephanWagner/jBox, true, false, "jbox","MIT"
+sindresorhus/pageres-cli, false, false, "pageres-cli","MIT"
+micromatch/micromatch, false, false, "micromatch","MIT"
+riophae/vue-treeselect, false, false, "@riophae/vue-treeselect","MIT"
+sindresorhus/on-change, false, false, "on-change","MIT"
+slackapi/bolt, false, false, "@slack/bolt","MIT"
+langren1353/GM_script, false, false, 
+bigcompany/hook.io, false, false, "hook.io","AGPL"
+hjacobs/kube-ops-view, false, false, 
+jaebradley/uber-cli, true, false, "uber-cli","MIT"
+js-joda/js-joda, true, false, "@js-joda/root","BSD-3-Clause"
+Rich-Harris/shimport, true, false, "shimport","MIT"
+surmon-china/vue-codemirror, false, true, "vue-codemirror","MIT"
+arendjr/selectivity, false, true, "selectivity","MIT"
+eclipsesource/tabris-js, true, false, "tabris","BSD-3-Clause"
+alvarotrigo/vue-fullpage.js, true, false, "vue-fullpage.js","GPL-3.0"
+klaussinani/ao, false, true, "ao","MIT"
+ktsn/vuex-class, true, false, "vuex-class","MIT"
+fergiemcdowall/search-index, true, false, "search-index","MIT"
+retorquere/zotero-better-bibtex, true, false, "zotero-better-bibtex","ISC"
+przemyslawpluta/node-youtube-dl, false, false, "youtube-dl","MIT"
+mgechev/ngrev, false, true, "ngrev",
+material-theme/vsc-material-theme, false, true, "vsc-material-theme","Apache-2.0"
+cornerstonejs/cornerstone, true, false, "cornerstone-core","MIT"
+GavinZhuLei/vue-form-making, false, false, "form-making","LGPL"
+zalando/tailor, false, true, "node-tailor","MIT"
+ankane/react-chartkick, false, false, "react-chartkick","MIT"
+maticzav/emma-cli, false, true, "emma",
+nhn/tui.grid, true, false, "root",
+microsoft/BotFramework-Emulator, true, false, ,
+Shopify/slate, false, true, "slate","MIT"
+jstrieb/urlpages, false, false, 
+zhoushengmufc/iosselect, false, false, "iosselect","ISC"
+yzhang-gh/vscode-markdown, true, false, "markdown-all-in-one","MIT"
+azu/promises-book, false, true, "promises-book","MIT"
+andreypopp/react-textarea-autosize, false, true, "react-textarea-autosize","MIT"
+yoannmoinet/nipplejs, true, false, "nipplejs","MIT"
+libp2p/js-libp2p, false, false, "libp2p","Apache-2.0 OR MIT"
+arterli/CmsWing, false, false, "CMSWing","MIT"
+florian/cookie.js, false, false, "cookie_js","MIT"
+invertase/react-native-firebase-starter, false, true, "RNFirebaseStarter",
+apollographql/graphql-subscriptions, false, false, "graphql-subscriptions","MIT"
+moaazsidat/react-native-qrcode-scanner, true, true, "react-native-qrcode-scanner","MIT"
+paypal/PayPal-node-SDK, false, false, "paypal-rest-sdk","SEE LICENSE IN https://github.com/paypal/PayPal-node-SDK/blob/master/LICENSE"
+ritz078/transform, false, true, "transform","MIT"
+OSBI/saiku, false, false, 
+FormidableLabs/component-playground, false, true, "component-playground","MIT"
+piotrwitek/utility-types, true, false, "utility-types","MIT"
+aholstenson/miio, true, false, "miio","MIT"
+fossasia/badgeyay, true, false, 
+skaterdav85/validatorjs, true, false, "validatorjs","MIT"
+substantial/updeep, false, true, "updeep","MIT"
+DevExpress/DevExtreme, true, false, "devextreme","SEE LICENSE IN README.md"
+elrumordelaluz/reactour, false, true, ,
+standard/semistandard, false, false, "semistandard","MIT"
+mfncooper/mockery, false, false, "mockery",
+NativeScript/nativescript-angular, false, false, 
+skanaar/nomnoml, true, false, "nomnoml","MIT"
+edusoho/edusoho, false, true, "es-webpack-engine","MIT"
+microsoft/vscode-pull-request-github, false, true, "vscode-pull-request-github","MIT"
+mjackson/unpkg, false, true, "unpkg",
+gamelab/kiwi.js, false, false, "Kiwi.js","MIT"
+gitana/alpaca, false, false, "alpaca","Apache-2.0"
+async-labs/saas, false, false, 
+paradoxxxzero/gnome-shell-system-monitor-applet, false, false, 
+jamesmfriedman/rmwc, true, false, "rmwc-main","MIT"
+mrpandey/d3graphTheory, false, false, 
+mafintosh/hypercore, false, false, "hypercore","MIT"
+primefaces/primereact, true, false, "primereact",
+marmelab/EventDrops, true, true, "event-drops","MIT"
+tech-conferences/confs.tech, true, false, "confs.tech",
+KoRiGaN/Vue2Leaflet, true, false, "vue2-leaflet","MIT"
+sirensolutions/sentinl, false, false, "sentinl","Apache-2.0"
+TheAlgorithms/Javascript, true, false, "javascript","GPL-3.0"
+wavebox/waveboxapp, false, false, 
+fullstackreact/google-maps-react, true, true, "google-maps-react","MIT"
+garden-io/garden, false, true, "garden","MPL-2.0"
+twolfson/gulp.spritesmith, false, false, "gulp.spritesmith","Unlicense"
+blockstack/blockstack-browser, true, false, "blockstack-browser","MPL-2.0"
+SelectTransform/st.js, true, false, "stjs","MIT"
+purplebamboo/font-carrier, false, false, "font-carrier","MIT"
+raphamorim/react-ape, false, true, ,"MIT"
+react-ui-kit/dribbble2react, false, false, 
+nklayman/vue-cli-plugin-electron-builder, false, true, "vue-cli-plugin-electron-builder","MIT"
+uber/react-digraph, false, false, "react-digraph","MIT"
+pkgcloud/pkgcloud, true, false, "pkgcloud",
+steelbrain/linter, false, false, "linter","MIT"
+OneSignal/emoji-picker, false, false, "onesignal-emoji-picker",
+nikolaeu/Numi-extensions, false, false, 
+nitin42/Making-a-custom-React-renderer, false, true, "Making-a-custom-React-renderer","MIT"
+nfriedly/express-rate-limit, true, false, "express-rate-limit","MIT"
+Oblosys/react-lifecycle-visualizer, true, false, "react-lifecycle-visualizer","MIT"
+Azure/azure-sdk-for-node, false, false, "azure","(MIT OR Apache-2.0)"
+apollographql/subscriptions-transport-ws, false, false, "subscriptions-transport-ws","MIT"
+testdouble/testdouble.js, true, false, "testdouble","MIT"
+marcbruederlin/particles.js, true, false, "particlesjs","MIT"
+bestiejs/punycode.js, false, false, "punycode","MIT"
+ssbc/ssb-db, true, false, "ssb-db","MIT"
+zouhir/lqip-loader, true, false, "lqip-loader","MIT"
+WuTheFWasThat/vimflowy, true, false, "vimflowy",
+shinima/battle-city, false, true, "battle-city",
+urish/ngx-moment, true, false, "ngx-moment","MIT"
+unsplash/unsplash-js, false, true, "unsplash-js","MIT"
+FaridSafi/react-native-google-places-autocomplete, false, true, "react-native-google-places-autocomplete","MIT"
+michalsnik/vue-content-placeholders, false, false, "vue-content-placeholders","MIT"
+graphql-boilerplates/react-fullstack-graphql, false, false, 
+overdodactyl/ShadowFox, true, false, "shadowfox","MIT"
+pklauzinski/jscroll, true, false, "jscroll","MIT"
+alex3165/react-mapbox-gl, true, false, "react-mapbox-gl","MIT"
+eiriklv/react-masonry-component, true, true, "react-masonry-component","MIT"
+udacity/frontend-nanodegree-resume, false, false, 
+jaredhanson/connect-flash, false, false, "connect-flash",
+thinkgem/jeesite4, false, false, 
+kriasoft/isomorphic-style-loader, false, false, "isomorphic-style-loader","MIT"
+raml2html/raml2html, true, false, "raml2html","MIT"
+aws-amplify/amplify-cli, false, true, "amplify-cli","Apache-2.0"
+typestack/typedi, true, false, "typedi","MIT"
+jwngr/sdow, false, false, 
+netlify-templates/gatsby-starter-netlify-cms, true, false, "gatsby-starter-netlify-cms","MIT"
+dmvaldman/samsara, false, false, "samsarajs","MIT"
+niftylettuce/forward-email, false, true, "forward-email","Business Source License 1.1"
+tj/node-migrate, false, false, "migrate","MIT"
+young-steveo/bottlejs, true, false, "bottlejs","MIT"
+bestofjs/bestofjs-webui, true, false, "bestofjs-webui","MIT"
+SSENSE/vue-carousel, false, true, "vue-carousel","MIT"
+matvp91/indigo-player, false, true, "indigo-player",
+Starcounter-Jack/JSON-Patch, true, false, "fast-json-patch","MIT"
+BKcore/HexGL, false, false, 
+hyperfuse/react-anime, true, false, "react-anime","MIT"
+supermedium/aframe-react, true, true, "aframe-react","MIT"
+TypeStrong/atom-typescript, true, false, "atom-typescript","MIT"
+remixz/messenger-bot, false, false, "messenger-bot","MIT"
+ankane/chartkick.js, false, false, "chartkick","MIT"
+bvaughn/js-search, false, true, "js-search","MIT"
+sindresorhus/hyper-snazzy, false, false, "hyper-snazzy","MIT"
+image-size/image-size, false, true, "image-size","MIT"
+coderaiser/cloudcmd, false, false, "cloudcmd","MIT"
+pixielabs/cavy, true, false, "cavy","MIT"
+microsoft/web-build-tools, false, false, 
+express-vue/express-vue, true, false, "express-vue","Apache-2.0"
+WebReflection/document-register-element, false, false, "document-register-element","ISC"
+mthenw/frontail, true, false, "frontail","MIT"
+gragland/usehooks, true, false, "usehooks","MIT"
+guangqiang-liu/OneM, true, true, "one",
+ctripcorp/CRN, false, false, 
+algolia/docsearch, false, true, "@docsearch/monorepo",
+aristath/kirki, false, false, "kirki-toolkit","MIT"
+brockpetrie/vue-moment, false, true, "vue-moment","MIT"
+natergj/excel4node, false, false, "excel4node","MIT"
+gre/bezier-easing, false, true, "bezier-easing","MIT"
+chartshq/muze, false, false, "@chartshq/muze",
+gaearon/react-side-effect, true, true, "react-side-effect","MIT"
+creativetimofficial/material-dashboard-react, false, false, "material-dashboard-2-react","See license in https://www.creative-tim.com/license"
+mapbox/geojson-vt, false, true, "geojson-vt","ISC"
+thelgevold/angular-samples, true, true, "angular-samples",
+CodeRabbitYu/ShiTu, false, true, "ShiTu",
+jakubgarfield/expenses, true, true, "expenses",
+imgix/drift, true, false, "drift-zoom","BSD-2"
+xCss/Valine, false, false, "valine","GPL-2.0"
+violentmonkey/violentmonkey, false, true, "violentmonkey","MIT"
+bamlab/generator-rn-toolbox, false, true, "generator-rn-toolbox",
+Knockout-Contrib/Knockout-Validation, false, false, "knockout.validation","MIT"
+jhurliman/node-rate-limiter, false, true, "limiter","MIT"
+metafloor/bwip-js, false, false, "bwip-js","MIT"
+alibaba/GCanvas, false, false, 
+longbill/jquery-date-range-picker, true, false, "jquery-date-range-picker","MIT"
+liferay/alloy-editor, false, true, "alloyeditor","LGPL-3.0"
+midwayjs/midway, false, false, "midway_project","MIT"
+amhoho/electron-cn-docs, false, false, 
+ConsenSys/eth-lightwallet, false, false, "eth-lightwallet","MIT"
+choojs/bankai, false, false, "bankai","Apache-2.0"
+robinparisi/tingle, true, false, "tingle.js","MIT"
+oscarmorrison/md-page, false, false, "md-page","MIT"
+welldone-software/why-did-you-render, false, true, "@welldone-software/why-did-you-render","MIT"
+cxs-css/cxs, false, true, "cxs","MIT"
+grpc/grpc-experiments, false, false, 
+alibaba/bindingx, false, false, 
+y-js/yjs, true, false, "yjs","MIT"
+kiswa/TaskBoard, true, false, "taskboard","MIT"
+victorvoid/dinoql, true, true, "dinoql","ISC"
+microsoft/WebTemplateStudio, false, false, 
+service-mocker/service-mocker, true, false, "service-mocker","MIT"
+ipfs-shipyard/ipfs-desktop, true, false, "ipfs-desktop","MIT"
+jeanregisser/react-native-slider, false, false, "react-native-slider","MIT"
+domenic/sinon-chai, true, false, "sinon-chai","(BSD-2-Clause OR WTFPL)"
+Lascorbe/CocoaConferences, false, false, 
+bbc/peaks.js, true, false, "peaks.js","LGPL-3.0"
+storeon/storeon, false, false, "storeon","MIT"
+careercup/CtCI-6th-Edition-JavaScript, false, false, "CtCI","MIT"
+crossfilter/crossfilter, true, false, "crossfilter2","Apache-2.0"
+react-monaco-editor/react-monaco-editor, false, true, "react-monaco-editor","MIT"
+krakenjs/zoid, false, false, "@krakenjs/zoid",
+gajus/eslint-plugin-flowtype, false, false, "eslint-plugin-flowtype","BSD-3-Clause"
+testing-library/react-hooks-testing-library, false, false, "@testing-library/react-hooks","MIT"
+KieSun/Chat-Buy-React, false, false, 
+easy-team/egg-vue-webpack-boilerplate, false, false, "egg-vue-webpack-boilerplate",
+mattermost/desktop, true, false, "mattermost-desktop","Apache-2.0"
+AloneMonkey/frida-ios-dump, false, false, 
+yeoman/generator-generator, true, false, "generator-generator","MIT"
+fossasia/open-event-frontend, false, true, "open-event-frontend","Apache-2.0"
+sindresorhus/grunt-sass, false, false, "grunt-sass","MIT"
+Jiiks/BetterDiscordApp, false, false, "betterdiscord","MIT"
+DXY-F2E/api-mocker, false, false, 
+eslint/espree, false, false, "espree","BSD-2-Clause"
+Marak/say.js, true, false, "say","MIT"
+crcn/sift.js, true, true, "sift","MIT"
+DanWahlin/Angular-JumpStart, true, false, "angular-jump-start","MIT"
+johnculviner/jquery.fileDownload, false, false, "jquery-file-download",
+sindresorhus/del, false, false, "del","MIT"
+GoBelieveIO/im_service, false, false, 
+slapperwan/gh4a, false, false, 
+muennich/sxiv, false, false, 
+oxidane/tmuxomatic, false, false, 
+dgryski/awesome-consensus, false, false, 
+blacksphere/blackmagic, false, false, 
+luckybilly/Gloading, false, false, 
+nayuki/Project-Euler-solutions, false, false, 
+rstudio/blogdown, false, false, 
+toineheuvelmans/Metron, false, false, 
