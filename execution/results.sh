@@ -1,7 +1,10 @@
 #!/bin/bash
 
 # Author: Dennis Urtubia
-# Script to get time spend to license_conflict execution
+# Script to get infos about license_conflicts execution
+#
+# Elapsed time for execution, count of dependencies founded by LicenseFinder, examinated project license,
+# list of conflitant dependencies, license_conflicts execution errors
 
 projects=(
 '0xfe/vexflow'
